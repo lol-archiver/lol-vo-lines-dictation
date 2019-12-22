@@ -8,12 +8,17 @@
   - `B119C630`: ***我砍。我再砍！***
   - `DE565123`: ***我的大斧早已饥渴难耐了。***
 
-
 - 普通攻击、暴击 | OlafBasicAttackcast/OlafCritAttackcast
   - `00EFA279`: *(语气)*
   - `07C89B3A`: *(语气)*
   - `BFFDB331`: *(语气)*
   - `E313CA21`: *(语气)*
+
+- 阵亡 | Death
+  - `16BF3821`: *(语气)*
+  - `2466D738`: *(语气)*
+  - `4945E03F`: *(语气)*
+  - `A1076916`: *(语气)*
 
 - 移动 | MoveOrder
   - `0BF3F784`: ***我正要去。***
@@ -25,34 +30,28 @@
 - 玩笑 | JokeGeneral
   - `0B6196A8`: ***一个男人的价值可以他胡子的长度以及皮带的长度上看出来***
 
-- 嘲讽 | Taunt3DGeneral
+- 嘲讽 | TauntGeneral
   - `5113DB36`: ***来吧，我不会伤害你的，我保证。***
 
-- 大笑 | Laugh3DGeneral
+- 大笑 | LaughGeneral
   - `051F6E3C`: *(语气)*
   - `061AFCEB`: *(语气)*
   - `9448232A`: *(语气)*
   - `9482071D`: *(语气)*
 
-- 死亡 | Death
-  - `16BF3821`: *(语气)*
-  - `2466D738`: *(语气)*
-  - `4945E03F`: *(语气)*
-  - `A1076916`: *(语气)*
-
-- Q技能-施法、E技能-施法 | OlafAxeThrowCastcast3D/OlafRecklessStrikecast3D
+- Q技能-施法、E技能-施法 | OlafAxeThrowCastcast/OlafRecklessStrikecast
   - `009291F5`: *(语气)*
   - `04FD3CE2`: *(语气)*
   - `09AB3BE4`: *(语气)*
   - `DF36DA24`: *(语气)*
 
-- W技能-施法 | OlafFrenziedStrikescast3D
+- W技能-施法 | OlafFrenziedStrikescast
   - `009587BD`: *(语气)*
   - `0155144E`: *(语气)*
   - `7C510732`: *(语气)*
   - `BE5D2F25`: *(语气)*
 
-- R技能-施法 | OlafRagnarokcast3D
+- R技能-施法 | OlafRagnarokcast
   - `2C974C20`: *(语气)*
   - `5CE40C39`: *(语气)*
   - `BBE5461B`: *(语气)*
