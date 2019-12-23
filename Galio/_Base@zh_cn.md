@@ -49,12 +49,12 @@
   - `486B182D`: ***你瞅啥？***
   - `FB1B0E10`: ***这里只容得下你我之中一个。***
 
-- 普通攻击、被动激活时普通攻击 | GalioBasicAttackcast|GalioPassiveAttackcast
+- 普通攻击、普通攻击[特效:被动] | GalioBasicAttackcast|GalioPassiveAttackcast
   - `B987CE01`: *(语气)*
   - `C5AB1C07`: *(语气)*
   - `67E31311`: *(语气)*
 
-- 被动激活时普通攻击 | GalioPassiveAttackcast
+- 普通攻击[特效:被动] | GalioPassiveAttackcast
   - `21BC4501`: ***手锤！***
   - `4F7C5F16`: *(语气)*
   - `701F3206`: ***粉碎。***
@@ -81,7 +81,7 @@
 - 击杀英雄[种族:德玛西亚] | KillChampionDemacia
   - `8A7E9A0D`: ***糟糕，误伤友军。***
 
-- 回程 | RecallLeadin
+- 回城 | RecallLeadin
   - `0C750D3E`: ***该补充活力了。***
   - `3A3FD318`: ***喔，我真不愿意错过好戏。***
   - `4AE07D3C`: ***德玛西亚在召唤。***
