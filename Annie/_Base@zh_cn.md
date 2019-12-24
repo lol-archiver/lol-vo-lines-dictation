@@ -11,7 +11,7 @@
   - `AD1FCE1B`: ***化为灰烬，就是他们的宿命！***
   - `B7D7ED11`: ***游戏时间到了咯！***
 
-- 普通攻击、普通攻击2、暴击 | AnnieBasicAttackcast/AnnieBasicAttack2cast/AnnieCritAttackcast
+- 普通攻击、普通攻击2、暴击 | AnnieBasicAttack/AnnieBasicAttack2/AnnieCritAttack
   - `027163E5`: *(语气)*
   - `58D3762A`: *(语气)*
   - `E7E9E710`: *(语气)*
@@ -48,13 +48,13 @@
   - `5BC9DF30`: *(语气)*
   - `D7827B38`: *(语气)*
 
-- Q技能-施法 | Q_cast
+- Q技能 | Q
   - `234D2C3A`: *(语气)*
   - `54A60D38`: *(语气)*
   - `8B59A42B`: *(语气)*
   - `F5B5C426`: *(语气)*
 
-- R技能-施法 | AnnieRcast
+- R技能 | AnnieR
   - `0716ED9C`: ***来次熊抱！***
   - `0EDD6911`: *(语气)*
   - `0F6A0DA9`: ***提伯斯！***

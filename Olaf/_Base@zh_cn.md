@@ -8,7 +8,7 @@
   - `B119C630`: ***我砍。我再砍！***
   - `DE565123`: ***我的大斧早已饥渴难耐了。***
 
-- 普通攻击、暴击 | OlafBasicAttackcast/OlafCritAttackcast
+- 普通攻击、暴击 | OlafBasicAttack/OlafCritAttack
   - `00EFA279`: *(语气)*
   - `07C89B3A`: *(语气)*
   - `BFFDB331`: *(语气)*
@@ -39,24 +39,24 @@
   - `9448232A`: *(语气)*
   - `9482071D`: *(语气)*
 
-- Q技能-施法、E技能-施法 | OlafAxeThrowCastcast/OlafRecklessStrikecast
+- Q技能、E技能 | OlafAxeThrowCast/OlafRecklessStrike
   - `009291F5`: *(语气)*
   - `04FD3CE2`: *(语气)*
   - `09AB3BE4`: *(语气)*
   - `DF36DA24`: *(语气)*
 
-- W技能-施法 | OlafFrenziedStrikescast
+- W技能 | OlafFrenziedStrikes
   - `009587BD`: *(语气)*
   - `0155144E`: *(语气)*
   - `7C510732`: *(语气)*
   - `BE5D2F25`: *(语气)*
 
-- R技能-施法 | OlafRagnarokcast
+- R技能 | OlafRagnarok
   - `2C974C20`: *(语气)*
   - `5CE40C39`: *(语气)*
   - `BBE5461B`: *(语气)*
   - `C5E4A927`: *(语气)*
 
-- R技能-被动-激活、P被动-激活 | OlafRagnarokOnBuffActivate/voOlafOlafRagnarokOnBuffActivate
+- R技能-被动-激活、R技能-被动-失效 | OlafRagnarokOnBuffActivate/StopOlafOlafRagnarokOnBuffActivate
   - `0656D519`: *(语气)*
   - `CBCB161B`: *(语气)*

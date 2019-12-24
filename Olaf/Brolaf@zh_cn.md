@@ -47,25 +47,25 @@
   - `CE288818`: *(语气)*
   - `D5F8961C`: *(语气)*
 
-- Q技能-施法 | OlafAxeThrowCastcast
+- Q技能 | OlafAxeThrowCastcast
   - `0DE31735`: *(语气)*
   - `503BD726`: *(语气)*
   - `115D9D2D`: *(语气)*
   - `E536E418`: *(语气)*
 
-- W技能-施法 | OlafFrenziedStrikescast
+- W技能 | OlafFrenziedStrikescast
   - `02A8942D`: *(语气)*
   - `1CD21A3B`: *(语气)*
   - `4876992F`: *(语气)*
   - `A0B7C013`: *(语气)*
 
-- E技能-施法 | OlafRecklessStrikecast
+- E技能 | OlafRecklessStrikecast
   - `0696E36B`: ***挂彩把***
   - `0E802C67`: ***BOOM！宝贝！***
   - `0F299836`: ***欧耶！***
   - `8AF1D827`: ***Kaboom！***
 
-- R技能-施法 | OlafRagnarokcast
+- R技能 | OlafRagnarokcast
   - `07DA66EF`: ***博玛西亚！***
   - `20FCDD33`: ***博玛西亚！x6***
   - `2FE4212A`: ***博玛西亚！***

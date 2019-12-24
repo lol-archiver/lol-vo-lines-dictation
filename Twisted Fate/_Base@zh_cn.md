@@ -10,7 +10,7 @@
   - `7FE2F433`: ***别碰我的帽子。***
   - `94EB812C`: ***我有这个。***
 
-- 普通攻击1-4、暴击 | TwistedFateBasicAttackcast/TwistedFateBasicAttack2cast/TwistedFateBasicAttack3cast/TwistedFateBasicAttack4cast/TwistedFateCritAttackcast
+- 普通攻击1-4、暴击 | TwistedFateBasicAttack/TwistedFateBasicAttack2/TwistedFateBasicAttack3/TwistedFateBasicAttack4/TwistedFateCritAttack
   - `07D05C98`: *(语气)*
   - `09B71174`: *(语气)*
   - `09BA253A`: *(语气)*
@@ -61,37 +61,37 @@
   - `9AF81225`: *(语气)*
   - `A7BEC511`: *(语气)*
 
-- Q技能-施法 | WildCardscast
+- Q技能 | WildCards
   - `02101332`: *(语气)*
   - `5B305D30`: *(语气)*
   - `A11C8732`: *(语气)*
   - `DCFF3127`: *(语气)*
 
-- W技能-选择蓝色卡牌 | BlueCardPreAttackcast
+- W技能-选择蓝色卡牌 | BlueCardPreAttack
   - `185A6B2F`: *(占位)*
   - `DB6C0B3B`: *(占位)*
   - `E344112F`: *(占位)*
 
-- W技能-选择红色卡牌 | RedCardPreAttackcast
+- W技能-选择红色卡牌 | RedCardPreAttack
   - `2B694F26`: *(占位)*
   - `919ED530`: *(占位)*
   - `FC403920`: *(占位)*
 
-- W技能-选择金色卡牌 | GoldCardPreAttackcast
+- W技能-选择金色卡牌 | GoldCardPreAttack
   - `0E189521`: *(占位)*
   - `46CD8D2F`: *(占位)*
   - `DE09AC16`: *(占位)*
 
-- E技能-激活 | CardmasterStackParticlecast
+- E技能-激活 | CardmasterStackParticle
   - `02F2833F`: *(语气)*
   - `042C02C9`: *(语气)*
   - `D96F562D`: *(语气)*
 
-- R技能-施法1 | Destinycast
+- R技能1 | Destiny
   - `09072B69`: ***不要和命运为敌。***
   - `F244A814`: ***它不是好运，它是命运。***
 
-- R技能-施法2 | Gatecast
+- R技能2 | Gate
   - `0620B551`: *(语气)*
   - `0B47F83E`: ***我走掉了。***
   - `1F388E2C`: *(语气)*
