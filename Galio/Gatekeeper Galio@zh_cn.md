@@ -115,7 +115,7 @@
   - `B3974224`: *(语气)*
   - `C6AB773A`: ***谁来审判我？***
 
-- 复活 | Respawn
+- 重生 | Respawn
   - `29DCC435`: ***哦，对了，哼哼，我死不了。***
   - `7A485D1E`: ***我回到这个位面。***
   - `85930C3D`: ***我的审判永不磨灭。***
@@ -200,7 +200,7 @@
   - `7A01083B`: ***你的地狱门票，你的地狱门票，人人都有份！***
   - `9813F029`: ***听说过开花梨吗？不用着急。***
 
-- 嘲讽[势力:友方] | TauntAlly
+- 嘲讽友方 | TauntAlly
   - `6F9FEC33`: ***丑话说在前头，只要有机会，我就一定会在你背后捅刀子。***
   - `DA69E138`: ***啊，别人都说我不够朋友。***
 
@@ -289,11 +289,11 @@
 - 嘲讽[英雄:图奇] | TauntTwitch
   - `925DA80C`: ***图谋不轨，哼？第四层！***
 
-- 嘲讽反击 | TauntEndedNearbyTauntResponseEnemy
+- 嘲讽回应 | TauntEndedNearbyTauntResponseEnemy
   - `220C1434`: ***第八层，聪明的家伙们。***
   - `54D3A210`: ***老兄，你得回去好好练练。***
 
-- 嘲讽反击[英雄:波比] | TauntEndedNearbyTauntResponsePoppy
+- 嘲讽回应[英雄:波比] | TauntEndedNearbyTauntResponsePoppy
   - `7F005F22`: ***石像鬼？哈哈，不，我更像是一个折磨他人的恶魔化身。***
 
 - 大笑 | LaughGeneral
