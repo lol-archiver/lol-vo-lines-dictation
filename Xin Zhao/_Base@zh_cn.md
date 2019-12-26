@@ -1,27 +1,43 @@
 # Xin Zhao:赵信
 
-- 攻击英雄 | AttackChampion
-  - `48E35D19`: ***陷阵之志，有死无生。***
+## Catalog:目录
+* [攻击英雄 | AttackChampion](#攻击英雄--AttackChampion)
+* [普通攻击2、暴击 | XinZhaoBasicAttack2/XinZhaoCritAttack](#普通攻击2暴击--XinZhaoBasicAttack2XinZhaoCritAttack)
+* [阵亡 | Death](#阵亡--Death)
+* [移动 | MoveOrder](#移动--MoveOrder)
+* [玩笑 | JokeGeneral](#玩笑--JokeGeneral)
+* [嘲讽 | TauntGeneral](#嘲讽--TauntGeneral)
+* [大笑 | LaughGeneral](#大笑--LaughGeneral)
+* [Q技能1 | XinZhaoQThrust1](#Q技能1--XinZhaoQThrust1)
+* [Q技能2 | XinZhaoQThrust2](#Q技能2--XinZhaoQThrust2)
+* [Q技能3 | XinZhaoQThrust3](#Q技能3--XinZhaoQThrust3)
+* [W技能 | XinZhaoW](#W技能--XinZhaoW)
+* [E技能 | XinZhaoE](#E技能--XinZhaoE)
+* [R技能 | XinZhaoR](#R技能--XinZhaoR)
+
+## Lines:台词
+#### 攻击英雄 | AttackChampion
+- - `48E35D19`: ***陷阵之志，有死无生。***
   - `95977505`: ***荣耀与毁灭同在。***
   - `BB8C173F`: ***他们的生命已被依法剥夺。***
   - `C85A6B22`: ***请不要烦我。***
   - `E18D2508`: ***命运已做出了他的选择。***
   - `F1788D12`: ***一点寒芒先到，随后枪出如龙。***
 
-- 普通攻击2、暴击 | XinZhaoBasicAttack2/XinZhaoCritAttack
-  - `05021917`: *(语气)*
+#### 普通攻击2、暴击 | XinZhaoBasicAttack2/XinZhaoCritAttack
+- - `05021917`: *(语气)*
   - `2FCE7A05`: *(语气)*
   - `B70B2F04`: *(语气)*
   - `F9145915`: *(语气)*
 
-- 阵亡 | Death
-  - `317AD41F`: *(语气)*
+#### 阵亡 | Death
+- - `317AD41F`: *(语气)*
   - `C6BAFF30`: *(语气)*
   - `D6D6E333`: *(语气)*
   - `EE9E690C`: *(语气)*
 
-- 移动 | MoveOrder
-  - `3B758815`: ***勇士之魂，从未破灭。***
+#### 移动 | MoveOrder
+- - `3B758815`: ***勇士之魂，从未破灭。***
   - `3FE6B212`: ***交给我了。***
   - `68024901`: ***勇往直前。***
   - `6CF69632`: ***击鼓，进军！***
@@ -31,50 +47,50 @@
   - `EBADFD34`: ***德玛西亚人从不退缩。***
   - `EEC44416`: ***即将凯旋。***
 
-- 玩笑 | JokeGeneral
-  - `C19C8020`: ***没有人能够突破我的枪围。***
+#### 玩笑 | JokeGeneral
+- - `C19C8020`: ***没有人能够突破我的枪围。***
 
-- 嘲讽 | TauntGeneral
-  - `A9F9B419`: ***即使敌众我寡，末将亦能万军丛中取敌将首级。***
+#### 嘲讽 | TauntGeneral
+- - `A9F9B419`: ***即使敌众我寡，末将亦能万军丛中取敌将首级。***
 
-- 大笑 | LaughGeneral
-  - `1C823D26`: *(语气)*
+#### 大笑 | LaughGeneral
+- - `1C823D26`: *(语气)*
   - `981C9604`: *(语气)*
   - `A4F9B50E`: *(语气)*
   - `B3F1121C`: *(语气)*
 
-- Q技能1 | XinZhaoQThrust1
-  - `384F9A12`: *(语气)*
+#### Q技能1 | XinZhaoQThrust1
+- - `384F9A12`: *(语气)*
   - `C20FAD11`: *(语气)*
   - `E197E61B`: *(语气)*
   - `EAD9F83B`: *(语气)*
 
-- Q技能2 | XinZhaoQThrust2
-  - `036C542B`: *(语气)*
+#### Q技能2 | XinZhaoQThrust2
+- - `036C542B`: *(语气)*
   - `C2AD2308`: *(语气)*
   - `ECAF7B20`: *(语气)*
   - `F7EB7811`: *(语气)*
 
-- Q技能3 | XinZhaoQThrust3
-  - `01C8CD18`: *(语气)*
+#### Q技能3 | XinZhaoQThrust3
+- - `01C8CD18`: *(语气)*
   - `12410E02`: *(语气)*
   - `8F341317`: *(语气)*
   - `990A063C`: *(语气)*
 
--  | XinZhaoW
-  - `82944214`: *(语气)*
+#### W技能 | XinZhaoW
+- - `82944214`: *(语气)*
   - `CAED2E05`: *(语气)*
   - `F2B4E62E`: *(语气)*
   - `FB3AFD20`: *(语气)*
 
--  | XinZhaoE
-  - `1046D41E`: *(语气)*
+#### E技能 | XinZhaoE
+- - `1046D41E`: *(语气)*
   - `70AB3D15`: *(语气)*
   - `8436F327`: *(语气)*
   - `F14FD93F`: *(语气)*
 
--  | XinZhaoR
-  - `1AC4431C`: *(语气)*
+#### R技能 | XinZhaoR
+- - `1AC4431C`: *(语气)*
   - `4A057938`: *(语气)*
   - `69795729`: *(语气)*
   - `99994537`: *(语气)*
