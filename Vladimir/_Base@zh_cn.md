@@ -9,7 +9,7 @@
 * [嘲讽 | Taunt](#嘲讽--Taunt)
 * [大笑 | Laugh](#大笑--Laugh)
 * [Q技能 | VladimirQ](#Q技能--VladimirQ)
-* [W技能 | VladimirSanguinePool_OnBuffDeactivate](#W技能--VladimirSanguinePool_OnBuffDeactivate)
+* [W技能-激活完毕 | VladimirSanguinePool_OnBuffDeactivate](#W技能-激活完毕--VladimirSanguinePool_OnBuffDeactivate)
 * [E技能 | VladimirE](#E技能--VladimirE)
 * [R技能 | VladimirHemoplague](#R技能--VladimirHemoplague)
 
@@ -65,7 +65,7 @@
   - `69A06439`: *(语音)*
   - `C61B1A38`: *(语音)*
 
-#### W技能 | VladimirSanguinePool_OnBuffDeactivate
+#### W技能-激活完毕 | VladimirSanguinePool_OnBuffDeactivate
 - - `3D089D3E`: *(语音)*
   - `6DC68030`: *(语音)*
   - `A97B990E`: *(语音)*
