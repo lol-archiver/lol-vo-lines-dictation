@@ -35,8 +35,8 @@
 * [嘲讽[英雄:厄加特] | TauntUrgot](#嘲讽英雄厄加特--TauntUrgot)
 * [嘲讽[英雄:沃利贝尔] | TauntVolibear](#嘲讽英雄沃利贝尔--TauntVolibear)
 * [嘲讽[英雄:扎克] | TauntZac](#嘲讽英雄扎克--TauntZac)
-* [嘲讽回应 | TauntEndedNearbyTauntResponseEnemy](#嘲讽回应--TauntEndedNearbyTauntResponseEnemy)
-* [嘲讽回应[英雄:波比] | TauntEndedNearbyTauntResponsePoppy](#嘲讽回应英雄波比--TauntEndedNearbyTauntResponsePoppy)
+* [嘲讽时，回应 | TauntEndedNearbyTauntResponseEnemy](#嘲讽时回应--TauntEndedNearbyTauntResponseEnemy)
+* [嘲讽时，回应[英雄:波比] | TauntEndedNearbyTauntResponsePoppy](#嘲讽时回应英雄波比--TauntEndedNearbyTauntResponsePoppy)
 * [大笑 | LaughGeneral](#大笑--LaughGeneral)
 * [购买道具 | BuyItem](#购买道具--BuyItem)
 * [购买道具[道具:红水晶] | BuyItem1028](#购买道具道具红水晶--BuyItem1028)
@@ -286,12 +286,12 @@
 #### 嘲讽[英雄:扎克] | TauntZac
 - - `DFF90420`: ***你这是用什么烂泥材料做的呀？***
 
-#### 嘲讽回应 | TauntEndedNearbyTauntResponseEnemy
+#### 嘲讽时，回应 | TauntEndedNearbyTauntResponseEnemy
 - - `1B521C3E`: ***爬上来当面对我说。***
   - `323F753B`: ***呵，多亏我没有耳朵。***
   - `D87E9F34`: ***你话太多了，大声多嘴的东西。***
 
-#### 嘲讽回应[英雄:波比] | TauntEndedNearbyTauntResponsePoppy
+#### 嘲讽时，回应[英雄:波比] | TauntEndedNearbyTauntResponsePoppy
 - - `CC758318`: ***石像鬼，不。我主要是禁魔巨像。***
 
 #### 大笑 | LaughGeneral

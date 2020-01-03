@@ -1,0 +1,20 @@
+# Event Sort Order
+- Attack Champion
+- Basic Attack
+- Crit
+- Kill Champion
+- Recall
+- Death
+- Respawn
+- First Move
+- Move Order
+- Approach
+- First Encounter
+- Joke
+- Taunt
+- Dance
+- Laugh
+- But Item
+- Turn From
+- PQWER
+- Shield By

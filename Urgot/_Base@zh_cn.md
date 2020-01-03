@@ -15,11 +15,11 @@
 * [首次移动 | FirstMove](#首次移动--FirstMove)
 * [移动 | MoveOrder](#移动--MoveOrder)
 * [玩笑 | JokeGeneral](#玩笑--JokeGeneral)
-* [玩笑回应[英雄:卡尔萨斯] | JokeEndedNearbyKarthus](#玩笑回应英雄卡尔萨斯--JokeEndedNearbyKarthus)
+* [玩笑时，回应[英雄:卡尔萨斯] | JokeEndedNearbyKarthus](#玩笑时回应英雄卡尔萨斯--JokeEndedNearbyKarthus)
 * [嘲讽 | TauntGeneral](#嘲讽--TauntGeneral)
-* [嘲讽回应 | TauntEndedNearbyKarthus](#嘲讽回应--TauntEndedNearbyKarthus)
-* [嘲讽回应[英雄:黛安娜] | TauntEndedNearbyDiana](#嘲讽回应英雄黛安娜--TauntEndedNearbyDiana)
-* [嘲讽回应[英雄:艾克] | TauntEndedNearbyEkko](#嘲讽回应英雄艾克--TauntEndedNearbyEkko)
+* [嘲讽时，回应 | TauntEndedNearbyKarthus](#嘲讽时回应--TauntEndedNearbyKarthus)
+* [嘲讽时，回应[英雄:黛安娜] | TauntEndedNearbyDiana](#嘲讽时回应英雄黛安娜--TauntEndedNearbyDiana)
+* [嘲讽时，回应[英雄:艾克] | TauntEndedNearbyEkko](#嘲讽时回应英雄艾克--TauntEndedNearbyEkko)
 * [嘲讽友方[英雄:艾克] | TauntAllyEkko](#嘲讽友方英雄艾克--TauntAllyEkko)
 * [嘲讽敌方[英雄:阿狸] | TauntEnemyAhri](#嘲讽敌方英雄阿狸--TauntEnemyAhri)
 * [嘲讽敌方[英雄:卡密尔] | TauntEnemyCamille](#嘲讽敌方英雄卡密尔--TauntEnemyCamille)
@@ -264,7 +264,7 @@
 - - `1E44A82B`: ***等一下，有东西。呃，呃啊，啊，舒服了。***
   - `3A410623`: ***呃，呃啊，我吃进来的都是些什么东西？***
 
-#### 玩笑回应[英雄:卡尔萨斯] | JokeEndedNearbyKarthus
+#### 玩笑时，回应[英雄:卡尔萨斯] | JokeEndedNearbyKarthus
 - - `E45A0B64`: ***可是我还有很多死也要完成的事情。***
 
 #### 嘲讽 | TauntGeneral
@@ -273,13 +273,13 @@
   - `AD7CA67B`: ***痛苦是成长的表象。***
 - - `BD096252`: ***正中我的下怀。***
 
-#### 嘲讽回应 | TauntEndedNearbyKarthus
+#### 嘲讽时，回应 | TauntEndedNearbyKarthus
 - - `684A852E`: ***死亡，无法击垮我。***
 
-#### 嘲讽回应[英雄:黛安娜] | TauntEndedNearbyDiana
+#### 嘲讽时，回应[英雄:黛安娜] | TauntEndedNearbyDiana
 - - `2EB1C326`: ***不，请告诉我你的信仰。***
 
-#### 嘲讽回应[英雄:艾克] | TauntEndedNearbyEkko
+#### 嘲讽时，回应[英雄:艾克] | TauntEndedNearbyEkko
 
 #### 嘲讽友方[英雄:艾克] | TauntAllyEkko
 - - `F82A6103`: ***这小子挺好笑。***

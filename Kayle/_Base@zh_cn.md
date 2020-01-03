@@ -1,0 +1,375 @@
+# Kayle:凯尔
+
+## Catalog:目录
+* [攻击英雄 | AttackChampion](#攻击英雄--AttackChampion)
+* [攻击英雄时，回应[英雄:莫甘娜] | AttackChampionKayle01_Chat2](#攻击英雄时回应英雄莫甘娜--AttackChampionKayle01_Chat2)
+* [攻击英雄时，回应[英雄:莫甘娜] | AttackChampionKayle02_Chat2](#攻击英雄时回应英雄莫甘娜--AttackChampionKayle02_Chat2)
+* [攻击英雄时，回应[英雄:莫甘娜] | AttackChampionKayle03_Chat2](#攻击英雄时回应英雄莫甘娜--AttackChampionKayle03_Chat2)
+* [攻击英雄时，回应[英雄:莫甘娜] | AttackChampionKayle04_Chat2](#攻击英雄时回应英雄莫甘娜--AttackChampionKayle04_Chat2)
+* [普通攻击 | KayleBasicAttack_OnCast/KayleBasicAttack2_OnCast](#普通攻击--KayleBasicAttack_OnCast/KayleBasicAttack2_OnCast)
+* [普通攻击[英雄:莫甘娜] | KayleBasicAttack_AttackChampionMorgana](#普通攻击英雄莫甘娜--KayleBasicAttack_AttackChampionMorgana)
+* [击杀英雄 | KillChampion](#击杀英雄--KillChampion)
+* [击杀英雄[英雄:莫甘娜] | KillChampionMorgana](#击杀英雄英雄莫甘娜--KillChampionMorgana)
+* [击杀英雄[多杀:五杀] | KillChampionPentaKill](#击杀英雄多杀五杀--KillChampionPentaKill)
+* [击杀英雄[英雄:维克兹] | KillChampionVelkoz](#击杀英雄英雄维克兹--KillChampionVelkoz)
+* [回城 | Recall](#回城--Recall)
+* [阵亡 | Death](#阵亡--Death)
+* [重生 | Respawn](#重生--Respawn)
+* [首次移动 | FirstMove](#首次移动--FirstMove)
+* [首次移动敌方[英雄:莫甘娜] | FirstMoveEnemyMorgana](#首次移动敌方英雄莫甘娜--FirstMoveEnemyMorgana)
+* [首次移动友方[英雄:莫甘娜] | FirstMoveAllyMorgana](#首次移动友方英雄莫甘娜--FirstMoveAllyMorgana)
+* [移动 | MoveOrder](#移动--MoveOrder)
+* [移动时，回应[英雄:莫甘娜] | MoveOrder01_Chat2](#移动时回应英雄莫甘娜--MoveOrder01_Chat2)
+* [移动时，回应[英雄:莫甘娜] | MoveOrder02_Chat3](#移动时回应英雄莫甘娜--MoveOrder02_Chat3)
+* [移动[英雄:莫甘娜] | MoveOrderMorgana](#移动英雄莫甘娜--MoveOrderMorgana)
+* [长距离移动 | LongMove](#长距离移动--LongMove)
+* [首次遇到敌方 | EnemyFirstEncounter](#首次遇到敌方--EnemyFirstEncounter)
+* [首次遇到敌方[地区:德玛西亚] | EnemyFirstEncounterDemacian](#首次遇到敌方地区德玛西亚--EnemyFirstEncounterDemacian)
+* [首次遇到敌方[英雄:盖伦] | EnemyFirstEncounterGaren](#首次遇到敌方英雄盖伦--EnemyFirstEncounterGaren)
+* [首次遇到敌方[英雄:嘉文四世] | EnemyFirstEncounterJarvanIV](#首次遇到敌方英雄嘉文四世--EnemyFirstEncounterJarvanIV)
+* [首次遇到时，回应敌方[英雄:莫甘娜] | EnemyFirstEncounterKayle01_Chat2](#首次遇到时回应敌方英雄莫甘娜--EnemyFirstEncounterKayle01_Chat2)
+* [首次遇到时，回应敌方[英雄:莫甘娜] | EnemyFirstEncounterKayle05_Chat2](#首次遇到时回应敌方英雄莫甘娜--EnemyFirstEncounterKayle05_Chat2)
+* [首次遇到时，回应敌方[英雄:莫甘娜] | EnemyFirstEncounterKayle06_Chat2](#首次遇到时回应敌方英雄莫甘娜--EnemyFirstEncounterKayle06_Chat2)
+* [首次遇到时，回应敌方[英雄:莫甘娜] | EnemyFirstEncounterKayle07_Chat2](#首次遇到时回应敌方英雄莫甘娜--EnemyFirstEncounterKayle07_Chat2)
+* [首次遇到敌方[英雄:拉克丝] | EnemyFirstEncounterLux](#首次遇到敌方英雄拉克丝--EnemyFirstEncounterLux)
+* [首次遇到敌方[英雄:莫甘娜] | EnemyFirstEncounterMorgana](#首次遇到敌方英雄莫甘娜--EnemyFirstEncounterMorgana)
+* [首次遇到敌方[英雄:莫甘娜]与[种族:约德尔人] | EnemyFirstEncounterMorganaYordle](#首次遇到敌方英雄莫甘娜与种族约德尔人--EnemyFirstEncounterMorganaYordle)
+* [首次遇到敌方[英雄:派克] | EnemyFirstEncounterPyke](#首次遇到敌方英雄派克--EnemyFirstEncounterPyke)
+* [首次遇到敌方[英雄:塞拉斯] | EnemyFirstEncounterSylas](#首次遇到敌方英雄塞拉斯--EnemyFirstEncounterSylas)
+* [首次遇到敌方[种族:约德尔人] | EnemyFirstEncounterYordle](#首次遇到敌方种族约德尔人--EnemyFirstEncounterYordle)
+* [玩笑 | Joke](#玩笑--Joke)
+* [嘲讽 | Taunt](#嘲讽--Taunt)
+* [嘲讽[英雄:莫甘娜] | TauntMorgana](#嘲讽英雄莫甘娜--TauntMorgana)
+* [嘲讽时，回应[英雄:莫甘娜] | TauntResponseMorgana01_Chat2](#嘲讽时回应英雄莫甘娜--TauntResponseMorgana01_Chat2)
+* [嘲讽时，回应[英雄:莫甘娜] | TauntResponseMorgana02_Chat2](#嘲讽时回应英雄莫甘娜--TauntResponseMorgana02_Chat2)
+* [大笑 | Laugh](#大笑--Laugh)
+* [[英雄:莫甘娜]背向凯尔 | TurnFromKayle01_Chat2](#英雄莫甘娜背向凯尔--TurnFromKayle01_Chat2)
+* [P被动-阶段一 | KaylePassiveRank0_OnBuffActivate](#P被动-阶段一--KaylePassiveRank0_OnBuffActivate)
+* [P被动-阶段二 | KaylePassiveRank1_OnBuffActivate](#P被动-阶段二--KaylePassiveRank1_OnBuffActivate)
+* [P被动-阶段三 | KaylePassiveRank2_OnBuffActivate](#P被动-阶段三--KaylePassiveRank2_OnBuffActivate)
+* [P被动-阶段四 | KaylePassiveRank3_OnBuffActivate](#P被动-阶段四--KaylePassiveRank3_OnBuffActivate)
+* [Q技能 | KayleQ_SpellCastQ](#Q技能--KayleQ_SpellCastQ)
+* [W技能 | KayleW_SpellHitW](#W技能--KayleW_SpellHitW)
+* [W技能[英雄:莫甘娜] | KayleW_SpellHitWMorgana](#W技能英雄莫甘娜--KayleW_SpellHitWMorgana)
+* [E技能 | KayleE_SpellCastE](#E技能--KayleE_SpellCastE)
+* [R技能 | KayleR_SpellCastR](#R技能--KayleR_SpellCastR)
+* [R技能[英雄:莫甘娜] | KayleR_SpellHitRMorgana](#R技能英雄莫甘娜--KayleR_SpellHitRMorgana)
+* [被释放护盾[英雄:莫甘娜] | ShieldKayle01_Chat2](#被释放护盾英雄莫甘娜--ShieldKayle01_Chat2)
+* [被释放护盾[英雄:莫甘娜] | ShieldKayle02_Chat2](#被释放护盾英雄莫甘娜--ShieldKayle02_Chat2)
+* [被释放护盾[英雄:莫甘娜] | ShieldKayle03_Chat2](#被释放护盾英雄莫甘娜--ShieldKayle03_Chat2)
+
+## Lines:台词
+#### 攻击英雄 | AttackChampion
+- - `00595934`: ***你该当此罪！***
+  - `05890E16`: ***跪拜这光明。***
+  - `12DBB523`: ***以神之名！***
+  - `1745C80A`: ***尽情享受你的救赎！***
+  - `1F495737`: ***忤逆者！***
+  - `1FB09303`: ***卑琐之人烈焰加身！***
+  - `29112A34`: ***存善至德！***
+  - `32369800`: ***经由烈火审判！***
+  - `34A6162E`: ***我判你无能！***
+  - `483A8219`: ***正义荣耀！***
+  - `4854160B`: ***卑琐者该当死罪！***
+  - `4895B011`: ***不必有任何藉口！***
+  - `4E81DA1A`: ***火焰揭示真理！***
+  - `547C9414`: ***贪婪者的覆灭！***
+  - `5F7DC623`: ***这是你的苦修！***
+  - `5F90AB21`: ***燃烧吧！***
+  - `61FAB423`: ***我宁折不弯。***
+  - `77CE6D25`: ***有罪！***
+  - `7C192F0E`: ***你必赎罪！***
+  - `9943271B`: ***不留慈悲！***
+  - `A1735D13`: ***欺诈者。***
+  - `B5F43F14`: ***挺身接受你的制裁。***
+  - `C09F2209`: ***罪恶不分大小。***
+  - `C19BEA06`: ***认真！***
+  - `D5A07E0F`: ***正义决不妥协。***
+  - `D8A58B01`: ***黑暗褪去吧！***
+  - `F0EE523D`: ***放弃抵抗我不会让你痛苦。***
+  - `F864A117`: ***你将功亏一篑。***
+  - `F8FE310B`: ***光明与荣耀。***
+  - `FAF5B838`: ***仅为进化之火。***
+  - `FF00F018`: ***我携来烈怒之光。***
+
+#### 攻击英雄时，回应[英雄:莫甘娜] | AttackChampionKayle01_Chat2
+- - `39AF8B1C`: ***妹妹，不然我穿着盔甲是为了什么？***
+
+#### 攻击英雄时，回应[英雄:莫甘娜] | AttackChampionKayle02_Chat2
+- - `AD713949`: ***我不可能有。***
+
+#### 攻击英雄时，回应[英雄:莫甘娜] | AttackChampionKayle03_Chat2
+- - `477FFB10`: ***你觉得只有你受过苦？***
+
+#### 攻击英雄时，回应[英雄:莫甘娜] | AttackChampionKayle04_Chat2
+- - `A749F92D`: ***你就是这样诅咒了自己。***
+
+#### 普通攻击 | KayleBasicAttack_OnCast/KayleBasicAttack2_OnCast
+- - `22D3DA29`: *(语气)*
+  - `5361CC53`: *(语气)*
+  - `58586048`: *(语气)*
+  - `5D49C608`: *(语气)*
+  - `6D902C6F`: *(语气)*
+  - `8C33E835`: *(语气)*
+  - `978F202C`: *(语气)*
+  - `AC27524B`: *(语气)*
+  - `B51FE729`: *(语气)*
+  - `BF8FDF65`: *(语气)*
+  - `DEA24A67`: *(语气)*
+  - `EF296707`: *(语气)*
+
+#### 普通攻击[英雄:莫甘娜] | KayleBasicAttack_AttackChampionMorgana
+- - `90D0D078`: ***不留情面！***
+  - `D9C1C32A`: ***魔法的小把戏，真可爱！***
+  - `DD2FD844`: ***不留慈悲！***
+
+#### 击杀英雄 | KillChampion
+- - `8E5CF04B`: ***强者就此败落。***
+  - `A4B5666F`: ***你的罪赎清了。***
+  - `FE623A0B`: ***逾举之人葬身于此。***
+
+#### 击杀英雄[英雄:莫甘娜] | KillChampionMorgana
+- - `99018C6F`: ***这个世界不配有你。***
+  - `FE1C964B`: ***你死在自己的剑下。***
+
+#### 击杀英雄[多杀:五杀] | KillChampionPentaKill
+- - `BD7DDD5C`: ***高举我吧！***
+
+#### 击杀英雄[英雄:维克兹] | KillChampionVelkoz
+- - `0325DC00`: ***以眼，还眼。***
+
+#### 回城 | Recall
+- - `1F633E7B`: ***星辰间的国度，在召唤我！***
+  - `9FDA9906`: ***向战败者致意。***
+
+#### 阵亡 | Death
+- - `56A6D029`: *(语气)*
+  - `A066AE13`: ***若是，能见到我的妹妹。***
+  - `AE8E446B`: *(语气)*
+  - `FA762769`: ***我的羽翼，不可以。***
+  - `FCAFE205`: ***我暗淡了。***
+
+#### 重生 | Respawn
+- - `356DCF35`: ***光明重现。***
+  - `C40CA26E`: ***正义不死。***
+
+#### 首次移动 | FirstMove
+- - `05015B6B`: ***折磨生出苦难，苦难又会加剧折磨。凡间这无穷的循环，将由我来终结。***
+  - `27FCB74D`: ***我以天理为凭，踏入这片荒芜，不再受凡人的枷锁遏制。***
+  - `A780EC1D`: ***赐我以神力，用烈火铸就一个无上的世界。***
+  - `B8EBAD70`: ***我曾望进母亲的眼睛，看到一处充满荣耀与正义的圣地，我正是为此而战。***
+  - `C697117E`: ***千万刀锋之力，万丈烈焰之怒，在我心中鼓荡。***
+
+#### 首次移动敌方[英雄:莫甘娜] | FirstMoveEnemyMorgana
+- - `18801912`: ***哼，我又要和自己矫情的妹妹交手了。***
+  - `1A9FCA68`: ***莫甘娜来了，这是多么珍贵的机会，让我和自己的阴影作战。***
+  - `D58EE10F`: ***我的妹妹来了，就是为了在我眼前再次失败并且堕落。***
+
+#### 首次移动友方[英雄:莫甘娜] | FirstMoveAllyMorgana
+- - `60F96B07`: ***妹妹，你在帮他们给黑暗找藉口吗？***
+
+#### 移动 | MoveOrder
+- - `07B01866`: ***永恒燃烧的羽翼，带我脱离凡间的沉沦。***
+  - `148F6517`: ***我既是引路的灯塔，也是净化的清泉。***
+  - `16F5FE3E`: ***这世人的喧嚣之上，我追寻着荣光飞翔。***
+  - `1D7A1045`: ***只有无辜的人才可宽恕，前提是我能找得到。***
+  - `202C9F08`: ***光明，将我净化。***
+  - `20BCB414`: ***人类并不完美，而我并非凡人。***
+  - `2F966158`: ***星晨间的正义，指引我的剑刃。***
+  - `2FDAC17A`: ***我诞生于灼烧罪人的火焰中。***
+  - `3363F20F`: ***正义之路，由我开辟。***
+  - `36487B03`: ***正义稍有通融，便不复存在。***
+  - `36CA3002`: ***这个世界，生来就不长久。***
+  - `3A2FC81D`: ***通往光明的道路，是孤独的。***
+  - `4D7C7C2C`: ***天理难容瑕疵，我也不能例外。***
+  - `4DA7C928`: ***利落的一刀，就能分开黑暗与光明。***
+  - `5092F501`: ***我所敬奉的光芒，将会点燃整个世界。***
+  - `549EAE27`: ***我将一切，都已交付于光明。***
+  - `59A4433B`: ***凡人的土地上，照耀着正义的光。***
+  - `59CCAA0D`: ***赎罪的烈火已将我洗礼！***
+  - `5A78580E`: ***为人即是为害，但我，不属人类。***
+  - `6B0F8074`: ***他们将在我的铁翼面前溃败！***
+  - `6DD89F1A`: ***我不能懈怠，也不会懈怠。***
+  - `7BCCC94E`: ***为了寻得恩典，我不能堕落。***
+  - `7E49C964`: ***我的献身，不可动摇。***
+  - `81BFE27D`: ***我不惧怕圣火，我必须以身为薪。***
+  - `83919C4B`: ***只有正义，可以踏上不朽光明的道路。***
+  - `86BB2E04`: ***堕落者，不可饶恕。***
+  - `89C6774E`: ***我将愈发强大。***
+  - `8A58D529`: ***凡人被自己的悲剧蒙蔽了双眼。***
+  - `8B5C4251`: ***我记得痛苦，让我变得脆弱。***
+  - `8BC22F2F`: ***我的烈火，只会吞没无用之人。***
+  - `8DA9842E`: ***对正义的渴求直上云宵，我应声而来。***
+  - `90F7ED67`: ***我当净化此地，必要的话，烧烬一切。***
+  - `9A1FF25E`: ***我的剑刃名为义理，永恒燃烧的利剑。***
+  - `9E1CD565`: ***只有罪人，才需惶恐。***
+  - `A9BD985C`: ***真理，指引我的剑刃。***
+  - `AE62A831`: ***只有神能评判一切。***
+  - `B057C167`: ***凡是我心中的黑暗，我都将照亮。***
+  - `B1A8503C`: ***我即是光明与荣耀。***
+  - `B6D12D48`: ***我不在乎任何言词，我只关心行动。***
+  - `B963571F`: ***潜心笃信，你将获赐永生。***
+  - `BC6C051B`: ***他们的言行，应该放在星辰的天平上称量。***
+  - `C1767E40`: ***我是神圣之怒。***
+  - `C3BA6212`: ***与不义作战，我必须心无杂念。***
+  - `C51C0314`: ***情感就是破绽。***
+  - `C783741E`: ***羽翼煌煌，希冀朗朗。***
+  - `C9F7CA02`: ***神圣的道路上，看不到足迹。***
+  - `D5E3C268`: ***我的道路，即是真理。***
+  - `E15CC26D`: ***我要摔倒了就会堕落，因为我必须飞翔。***
+  - `E1C3EF06`: ***邪恶滋生之处，就是我的目的地。***
+  - `E53E1104`: ***有所保留的正义，就是罪恶。***
+  - `E606B122`: ***对错分明，黑白两立，其余一切都是狡辩。***
+  - `E7E2E458`: ***正义凝于剑尖，犹如电光石火。***
+  - `EA12A13E`: ***只有罪人才会牵挂过往，忏悔才有未来。***
+  - `F2D11A68`: ***烧死欺诈之人。***
+  - `FA620345`: ***我拿起了母亲的剑，还有她的决心。***
+
+#### 移动时，回应[英雄:莫甘娜] | MoveOrder01_Chat2
+- - `F17AE64A`: ***嗯，你从来不知道害怕。***
+
+#### 移动时，回应[英雄:莫甘娜] | MoveOrder02_Chat3
+- - `9E6BFE58`: ***你脑子居然会这样想，多聪明啊！***
+
+#### 移动[英雄:莫甘娜] | MoveOrderMorgana
+- - `60DBA570`: ***今天，似乎我们都要暂时放下成见。***
+  - `63AC0B00`: ***你的剑在我手上，你想要回去吗？***
+  - `9A2B093D`: ***妹妹，如果不是为了飞翔，我们要这翅膀有什么用？***
+  - `A118C300`: ***妹妹，你还在和你的人类宠物玩耍吗？***
+  - `BB10D20A`: ***妹妹，别对我置若罔闻！***
+
+#### 长距离移动 | LongMove
+- - `17BF8242`: ***令我强盛，断绝黑暗，令我升华，迈进不朽。***
+  - `28356012`: ***我将会为这世间正义，无论任何代价。***
+  - `39692C66`: ***魔高一尺，道高一丈。***
+  - `AFE38114`: ***只有心怀恶意的人，才有必要惧怕光明。***
+  - `CC5A9F18`: ***只要活得够久，一切谎言都会化作尘土。***
+  - `E8984622`: ***不义之人，是一种溃烂的恶疾。我则是那把消除腐肉的尖刀。***
+  - `F2B7972B`: ***我必会净化世上的邪恶，以正义的烈火拔除黑暗。***
+  - `FA31172F`: ***我尽除心底的黑暗，于荣光中崛起。***
+
+#### 首次遇到敌方 | EnemyFirstEncounter
+- - `A295EC16`: ***如果你真的无辜，我便不会在此。***
+  - `F46A7A42`: ***光明之下无所遁形。***
+  - `FBA5E72C`: ***你的行径唤我前来。***
+
+#### 首次遇到敌方[地区:德玛西亚] | EnemyFirstEncounterDemacian
+- - `11814A62`: ***德玛西亚人已经迷失了放心。***
+
+#### 首次遇到敌方[英雄:盖伦] | EnemyFirstEncounterGaren
+- - `97F59F12`: ***盖伦，你看似够格，证明自己吧。***
+
+#### 首次遇到敌方[英雄:嘉文四世] | EnemyFirstEncounterJarvanIV
+- - `1395540B`: ***一顶皇冠，并不能让你免于审判，殿下。***
+
+#### 首次遇到时，回应敌方[英雄:莫甘娜] | EnemyFirstEncounterKayle01_Chat2
+- - `3CD11E1C`: ***破碎的心，胜过被囚禁的灵魂。***
+
+#### 首次遇到时，回应敌方[英雄:莫甘娜] | EnemyFirstEncounterKayle05_Chat2
+- - `A856393E`: ***你是在跟踪我吗？***
+
+#### 首次遇到时，回应敌方[英雄:莫甘娜] | EnemyFirstEncounterKayle06_Chat2
+- - `75A9423C`: ***不是杀人，是审判。***
+
+#### 首次遇到时，回应敌方[英雄:莫甘娜] | EnemyFirstEncounterKayle07_Chat2
+- - `81553B7E`: ***必要的事情。***
+
+#### 首次遇到敌方[英雄:拉克丝] | EnemyFirstEncounterLux
+- - `DEEB6865`: ***拉克丝，同谋者的罪过更甚。***
+
+#### 首次遇到敌方[英雄:莫甘娜] | EnemyFirstEncounterMorgana
+- - `3DBE5164`: ***妹妹，别对我置若罔闻！***
+  - `6304506E`: ***莫甘娜，你的能力本可拯救世界。可惜，它却毁了你。***
+  - `68FCD739`: ***妹妹，你还在和你的人类宠物玩耍吗？***
+  - `A9896B6A`: ***妹妹，如果不是为了飞翔，我们要这翅膀有什么用？***
+  - `E5D9291B`: ***妹妹，你又要来诋毁我吗？***
+  - `FB964971`: ***你的剑在我手上，你想要回去吗？***
+
+#### 首次遇到敌方[英雄:莫甘娜]与[种族:约德尔人] | EnemyFirstEncounterMorganaYordle
+- - `DD601457`: ***约德尔人，就是小孩子吗？***
+
+#### 首次遇到敌方[英雄:派克] | EnemyFirstEncounterPyke
+- - `A373304E`: ***有趣，你也在我的单子上。***
+
+#### 首次遇到敌方[英雄:塞拉斯] | EnemyFirstEncounterSylas
+- - `9082372B`: ***塞拉斯，也许你曾经确实无辜，但不再是了。***
+
+#### 首次遇到敌方[种族:约德尔人] | EnemyFirstEncounterYordle
+- - `465BE374`: ***你是会说话的动物？还是个小矮人？为什么你这么软乎？***
+
+#### 玩笑 | Joke
+- - `6951B273`: ***邪恶惧怕火焰。而约德尔人，他们到底是什么东西？***
+  - `E0A4EB3D`: ***一个小偷、一个杀人犯和一个败坏的守卫走近我面前，没了，哼哼哈哈哈哈***哈。
+
+#### 嘲讽 | Taunt
+- - `0FA21445`: ***你想好怎么辩护了吗？***
+  - `11363679`: ***归顺光明，我就饶恕你的灵魂。***
+
+#### 嘲讽[英雄:莫甘娜] | TauntMorgana
+- - `7C239A53`: ***妹妹，你还在学我的发型吗？***
+
+#### 嘲讽时，回应[英雄:莫甘娜] | TauntResponseMorgana01_Chat2
+- - `3F48A127`: ***我冷酷的心，恰是我们幸存的原因。***
+
+#### 嘲讽时，回应[英雄:莫甘娜] | TauntResponseMorgana02_Chat2
+- - `6F389501`: ***我的道理比你的鬼话有更大的美德。***
+
+#### 大笑 | Laugh
+- - `01279D2C`: *(语气)*
+  - `1FE85E29`: *(语气)*
+  - `DCE1106D`: *(语气)*
+
+#### [英雄:莫甘娜]背向凯尔 | TurnFromKayle01_Chat2
+- - `EF836830`: ***我就是光明。***
+
+#### P被动-阶段一 | KaylePassiveRank0_OnBuffActivate
+- - `D9A51727`: ***邪祟增长，我亦强盛。***
+
+#### P被动-阶段二 | KaylePassiveRank1_OnBuffActivate
+- - `7FC47E17`: ***利刃在手，制裁八方。***
+
+#### P被动-阶段三 | KaylePassiveRank2_OnBuffActivate
+- - `DE670D3A`: ***不义者，烈火焚身！***
+
+#### P被动-阶段四 | KaylePassiveRank3_OnBuffActivate
+- - `3588C935`: ***见证至高的烈火吧！***
+
+#### Q技能 | KayleQ_SpellCastQ
+- - `4BDB5B0A`: *(语气)*
+  - `D8CB7767`: *(语气)*
+
+#### W技能 | KayleW_SpellHitW
+- - `5A2CCC46`: ***火焰净化了你。***
+  - `B0503017`: ***火焰治愈了你。***
+
+#### W技能[英雄:莫甘娜] | KayleW_SpellHitWMorgana
+- - `086C503D`: ***火焰，会净化你。***
+
+#### E技能 | KayleE_SpellCastE
+- - `0B057120`: ***畏惧我！***
+  - `65EB9F7D`: ***我携来光的怒火！***
+  - `7200DE72`: ***忍受！***
+  - `E96BC45C`: ***让火焰奔腾吧！***
+
+#### R技能 | KayleR_SpellCastR
+- - `04B42815`: *(语气)*
+  - `107DE923`: ***圣火将你洗涤！***
+  - `2A162722`: ***够格的人才能幸存。***
+  - `6BA8FE42`: *(语气)*
+  - `71B91855`: ***我让你得救！***
+  - `7E63EF11`: *(语气)*
+  - `D1CCF805`: ***于光明中得救！***
+
+#### R技能[英雄:莫甘娜] | KayleR_SpellHitRMorgana
+- - `2ED3CA6A`: ***光芒给与你救赎！***
+  - `4AD87561`: ***妹妹！***
+  - `D07A7330`: ***我是你得救的机会！***
+
+#### 被释放护盾[英雄:莫甘娜] | ShieldKayle01_Chat2
+- - `34BDD67D`: ***我什么也没看到。***
+
+#### 被释放护盾[英雄:莫甘娜] | ShieldKayle02_Chat2
+- - `B27C3B17`: ***你真亲切。***
+
+#### 被释放护盾[英雄:莫甘娜] | ShieldKayle03_Chat2
+- - `CEDE6722`: ***我什么也没说。***

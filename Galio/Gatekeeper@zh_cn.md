@@ -48,8 +48,8 @@
 * [嘲讽[英雄:提莫] | TauntTeemo](#嘲讽英雄提莫--TauntTeemo)
 * [嘲讽[英雄:崔斯特] | TauntTwistedFate](#嘲讽英雄崔斯特--TauntTwistedFate)
 * [嘲讽[英雄:图奇] | TauntTwitch](#嘲讽英雄图奇--TauntTwitch)
-* [嘲讽回应 | TauntEndedNearbyTauntResponseEnemy](#嘲讽回应--TauntEndedNearbyTauntResponseEnemy)
-* [嘲讽回应[英雄:波比] | TauntEndedNearbyTauntResponsePoppy](#嘲讽回应英雄波比--TauntEndedNearbyTauntResponsePoppy)
+* [嘲讽时，回应 | TauntEndedNearbyTauntResponseEnemy](#嘲讽时回应--TauntEndedNearbyTauntResponseEnemy)
+* [嘲讽时，回应[英雄:波比] | TauntEndedNearbyTauntResponsePoppy](#嘲讽时回应英雄波比--TauntEndedNearbyTauntResponsePoppy)
 * [大笑 | LaughGeneral](#大笑--LaughGeneral)
 * [购买道具 | BuyItem](#购买道具--BuyItem)
 * [购买道具[道具:红水晶] | BuyItem1028](#购买道具道具红水晶--BuyItem1028)
@@ -353,11 +353,11 @@
 #### 嘲讽[英雄:图奇] | TauntTwitch
 - - `925DA80C`: ***图谋不轨，哼？第四层！***
 
-#### 嘲讽回应 | TauntEndedNearbyTauntResponseEnemy
+#### 嘲讽时，回应 | TauntEndedNearbyTauntResponseEnemy
 - - `220C1434`: ***第八层，聪明的家伙们。***
   - `54D3A210`: ***老兄，你得回去好好练练。***
 
-#### 嘲讽回应[英雄:波比] | TauntEndedNearbyTauntResponsePoppy
+#### 嘲讽时，回应[英雄:波比] | TauntEndedNearbyTauntResponsePoppy
 - - `7F005F22`: ***石像鬼？哈哈，不，我更像是一个折磨他人的恶魔化身。***
 
 #### 大笑 | LaughGeneral
