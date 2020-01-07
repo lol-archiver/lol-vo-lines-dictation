@@ -319,7 +319,7 @@
   - `1FE85E29`: *(语气)*
   - `DCE1106D`: *(语气)*
 
-#### [英雄:莫甘娜]背向凯尔 | TurnFromKayle01_Chat2
+#### 背向[英雄:莫甘娜] | TurnFromKayle01_Chat2
 - - `EF836830`: ***我就是光明。***
 
 #### P被动-阶段一 | KaylePassiveRank0_OnBuffActivate
