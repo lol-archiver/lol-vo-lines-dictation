@@ -1,6 +1,29 @@
 # Sett:瑟提
 
 ## Catalog:目录
+* [攻击英雄 | AttackChampion](#攻击英雄--AttackChampion)
+* [普通攻击1，3、Q技能攻击1 | SettBasicAttack/SettBasicAttack3/SettQAttack](#普通攻击13Q技能攻击1--SettBasicAttackSettBasicAttack3SettQAttack)
+* [普通攻击2，4 | SettBasicAttack2/SettBasicAttack4](#普通攻击24--SettBasicAttack2SettBasicAttack4)
+* [Q技能攻击2 | SettQAttack2](#Q技能攻击2--SettQAttack2)
+* [击杀英雄 | KillChampion](#击杀英雄--KillChampion)
+* [[多杀:五杀] | PentaKill](#多杀五杀--PentaKill)
+* [阵亡 | Death](#阵亡--Death)
+* [重生 | Respawn](#重生--Respawn)
+* [首次移动 | FirstMove](#首次移动--FirstMove)
+* [移动 | MoveOrder](#移动--MoveOrder)
+* [长距离移动 | MoveOrderLong](#长距离移动--MoveOrderLong)
+* [回城 | RecallLeadin](#回城--RecallLeadin)
+* [首次遇到 | FirstEncounter](#首次遇到--FirstEncounter)
+* [首次遇到[地区:比尔吉沃特] | FirstEncounterBilgewater](#首次遇到地区比尔吉沃特--FirstEncounterBilgewater)
+* [首次遇到 | FirstEncounterNoxians](#首次遇到--FirstEncounterNoxians)
+* [首次遇到[种族:瓦斯塔亚] | FirstEncounterVastaya](#首次遇到种族瓦斯塔亚--FirstEncounterVastaya)
+* [玩笑 | Joke](#玩笑--Joke)
+* [嘲讽 | Taunt](#嘲讽--Taunt)
+* [嘲讽回应 | TauntResponse](#嘲讽回应--TauntResponse)
+* [大笑 | Laugh](#大笑--Laugh)
+* [W技能 | SettW](#W技能--SettW)
+* [E技能 | SettE](#E技能--SettE)
+* [R技能 | SettR](#R技能--SettR)
 
 ## Lines:目录
 #### 攻击英雄 | AttackChampion
