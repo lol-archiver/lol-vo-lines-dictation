@@ -1,6 +1,6 @@
 # Vladimir:弗拉基米尔 ==> Blood Lord Vladimir:鲜血领主 弗拉基米尔
 
-## Catalog:事件目录
+## Catalog:目录
 * [攻击英雄 | AttackChampion](#攻击英雄--AttackChampion)
 * [普通攻击1-4、暴击 | VladimirBasicAttack/VladimirBasicAttack2/VladimirBasicAttack3/VladimirBasicAttack4/VladimirCritAttack](#普通攻击1-4暴击--VladimirBasicAttackVladimirBasicAttack2VladimirBasicAttack3VladimirBasicAttack4VladimirCritAttack)
 * [阵亡 | Death](#阵亡--Death)
@@ -13,7 +13,7 @@
 * [E技能 | VladimirE](#E技能--VladimirE)
 * [R技能 | VladimirHemoplague](#R技能--VladimirHemoplague)
 
-## Lines:目录
+## Lines:台词
 #### 攻击英雄 | AttackChampion
 - - CRC32[C51EA9CC] `0B5B4306`: ***感受生命的流逝吧。***
   - CRC32[F6AB3283] `1690892D`: ***我想把这个留到最后。***

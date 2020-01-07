@@ -25,7 +25,7 @@
 * [E技能 | SettE](#E技能--SettE)
 * [R技能 | SettR](#R技能--SettR)
 
-## Lines:目录
+## Lines:台词
 #### 攻击英雄 | AttackChampion
 - - `029B5C64`: ***来啊！打我！***
   - `03F03D7F`: ***下巴要保不住了。***

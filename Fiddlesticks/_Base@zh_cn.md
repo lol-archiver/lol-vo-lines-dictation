@@ -10,7 +10,7 @@
 * [大笑、R技能-激活 | LaughGeneral/Crowstorm_OnBuffActivate](#大笑R技能-激活--LaughGeneralCrowstorm_OnBuffActivate)
 * [R技能-激活 | Crowstorm_OnBuffActivate](#R技能-激活--Crowstorm_OnBuffActivate)
 
-## Lines:目录
+## Lines:台词
 #### 攻击英雄 | AttackChampion
 - - CRC32[C646BAF0] `0DE61C2F`: ***畏惧我吧！***
   - CRC32[30EE2422] `64541319`: ***是！我的主人。***

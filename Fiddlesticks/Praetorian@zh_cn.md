@@ -8,7 +8,7 @@
 * [嘲讽 | TauntGeneral](#嘲讽--TauntGeneral)
 * [大笑 | LaughGeneral](#大笑--LaughGeneral)
 
-## Lines:目录
+## Lines:台词
 #### 攻击英雄 | AttackChampion
 - - CRC32[37FB4FD5] `1EF5EA32`: *(人工语言)*
   - CRC32[A27F3E61] `2D2AB225`: *(人工语言)*

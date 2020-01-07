@@ -1,6 +1,6 @@
 # LeBlanc:乐芙兰
 
-## Catalog:事件目录
+## Catalog:目录
 * [攻击英雄 | AttackChampion](#攻击英雄--AttackChampion)
 * [阵亡 | Death](#阵亡--Death)
 * [移动 | MoveOrder](#移动--MoveOrder)
@@ -13,7 +13,7 @@
 * [Q技能、E技能、R技能-复制Q技能、R技能-复制E技能 | LeblancQ/LeblancRQ/LeblancE/LeblancRE](#Q技能E技能R技能-复制Q技能R技能-复制E技能--LeblancQLeblancRQLeblancELeblancRE)
 * [E技能、W技能、R技能-复制E技能、R技能-复制W技能 | LeblancE/LeblancRE/LeblancW/LeblancRW](#E技能W技能R技能-复制E技能R技能-复制W技能--LeblancELeblancRELeblancWLeblancRW)
 
-## Lines:目录
+## Lines:台词
 #### 攻击英雄 | AttackChampion
 - - `37B0221E`: ***谁都别想逃。***
   - `402CB804`: ***该现身了。***

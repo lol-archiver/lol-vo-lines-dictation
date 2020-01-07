@@ -1,6 +1,6 @@
 # Vladimir:弗拉基米尔
 
-## Catalog:事件目录
+## Catalog:目录
 * [攻击英雄 | AttackChampion](#攻击英雄--AttackChampion)
 * [普通攻击1-4、暴击 | VladimirBasicAttack/VladimirBasicAttack2/VladimirBasicAttack3/VladimirBasicAttack4/VladimirCritAttack](#普通攻击1-4暴击--VladimirBasicAttackVladimirBasicAttack2VladimirBasicAttack3VladimirBasicAttack4VladimirCritAttack)
 * [阵亡 | Death](#阵亡--Death)
@@ -13,7 +13,7 @@
 * [E技能 | VladimirE](#E技能--VladimirE)
 * [R技能 | VladimirHemoplague](#R技能--VladimirHemoplague)
 
-## Lines:目录
+## Lines:台词
 #### 攻击英雄 | AttackChampion
 - - `1D8FCE22`: ***啊，可口的静脉。***
   - `3CC38716`: ***一次吮吸练习。***
