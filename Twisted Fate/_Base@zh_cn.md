@@ -1,4 +1,4 @@
-# Twisted Fate:崔斯特
+^# [4000] Twisted Fate:崔斯特
 
 ## Catalog:目录
 * [攻击英雄 | AttackChampion](#攻击英雄--AttackChampion)

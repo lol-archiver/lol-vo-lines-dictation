@@ -1,4 +1,4 @@
-# Sett:瑟提
+^# [875000] Sett:瑟提
 
 ## Catalog:目录
 * [攻击英雄 | AttackChampion](#攻击英雄--AttackChampion)

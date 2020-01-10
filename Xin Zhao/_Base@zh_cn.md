@@ -1,4 +1,4 @@
-# Xin Zhao:赵信
+^# [5000] Xin Zhao:赵信
 
 ## Catalog:目录
 * [攻击英雄 | AttackChampion](#攻击英雄--AttackChampion)

@@ -1,4 +1,4 @@
-# LeBlanc:乐芙兰
+^# [7000] LeBlanc:乐芙兰
 
 ## Catalog:目录
 * [攻击英雄 | AttackChampion](#攻击英雄--AttackChampion)

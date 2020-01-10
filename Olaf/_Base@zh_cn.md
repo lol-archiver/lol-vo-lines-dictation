@@ -1,4 +1,4 @@
-# Olaf:奥拉夫
+^# [2000] Olaf:奥拉夫
 
 ## Catalog:目录
 * [攻击英雄 | AttackChampion](#攻击英雄--AttackChampion)

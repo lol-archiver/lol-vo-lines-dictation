@@ -1,4 +1,4 @@
-# Kayle:凯尔
+^# [10000] Kayle:凯尔
 
 ## Catalog:目录
 * [攻击英雄 | AttackChampion](#攻击英雄--AttackChampion)

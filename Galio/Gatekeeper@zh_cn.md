@@ -1,4 +1,4 @@
-# Galio:加里奥 ==> Gatekeeper Galio:地狱守门员 加里奥
+^# [3004] Galio:加里奥 ==> Gatekeeper Galio:地狱守门员 加里奥
 
 ## Catalog:目录
 * [攻击英雄 | AttackChampion](#攻击英雄--AttackChampion)

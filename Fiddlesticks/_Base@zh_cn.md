@@ -1,4 +1,4 @@
-# Fiddlesticks:费德提克
+^# [9000] Fiddlesticks:费德提克
 
 ## Catalog:目录
 * [攻击英雄 | AttackChampion](#攻击英雄--AttackChampion)
