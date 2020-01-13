@@ -1,30 +1,5 @@
 # [875001] Jax:贾克斯 ==> Mecha Kingdoms Jax:王国机神 白虎 贾克斯
 ## Catalog:目录
-* [攻击英雄 | AttackChampion](#攻击英雄--AttackChampion)
-* [普通攻击 | JaxBasicAttack/JaxBasicAttack2/JaxBasicAttack3](#普通攻击--JaxBasicAttackJaxBasicAttack2JaxBasicAttack3)
-* [击杀英雄 | KillChampion](#击杀英雄--KillChampion)
-* [击杀英雄[多杀:五杀] | KillChampionPentakill](#击杀英雄多杀五杀--KillChampionPentakill)
-* [击杀英雄[英雄:贾克斯] | KillChampionJax](#击杀英雄英雄贾克斯--KillChampionJax)
-* [击杀英雄[皮肤:司马懿 仲达 (阿兹尔)] | KillChampionAzirSkin4](#击杀英雄皮肤司马懿-仲达-阿兹尔--KillChampionAzirSkin4)
-* [击杀英雄[皮肤:王国机神 青龙 德莱文] | KillChampionDravenSkin13](#击杀英雄皮肤王国机神-青龙-德莱文--KillChampionDravenSkin13)
-* [击杀英雄[皮肤:张辽 文远 (盖伦)] | KillChampionGarenSkin11](#击杀英雄皮肤张辽-文远-盖伦--KillChampionGarenSkin11)
-* [击杀英雄[皮肤:王国机神 玄武 盖伦] | KillChampionGarenSkin22](#击杀英雄皮肤王国机神-玄武-盖伦--KillChampionGarenSkin22)
-* [击杀英雄[皮肤:吕布 奉先 (嘉文四世)] | KillChampionJarvanIVSkin5](#击杀英雄皮肤吕布-奉先-嘉文四世--KillChampionJarvanIVSkin5)
-* [击杀英雄[皮肤:闭月之颜 貂蝉 (卡特琳娜)] | KillChampionKatarinaSkin8](#击杀英雄皮肤闭月之颜-貂蝉-卡特琳娜--KillChampionKatarinaSkin8)
-* [击杀英雄[皮肤:王国机神 朱雀 蕾欧娜] | KillChampionLeonaSkin12](#击杀英雄皮肤王国机神-朱雀-蕾欧娜--KillChampionLeonaSkin12)
-* [击杀英雄[皮肤:枭姬 孙尚香 (奈德丽)] | KillChampionNidaleeSkin7](#击杀英雄皮肤枭姬-孙尚香-奈德丽--KillChampionNidaleeSkin7)
-* [击杀英雄[皮肤:替父从军 花木兰 (锐雯)] | KillChampionRivenSkin17](#击杀英雄皮肤替父从军-花木兰-锐雯--KillChampionRivenSkin17)
-* [击杀英雄[皮肤:王国机神 驰狼 瑟提] | KillChampionSettSkin1](#击杀英雄皮肤王国机神-驰狼-瑟提--KillChampionSettSkin1)
-* [击杀英雄[皮肤:银龙裁决 泰隆] | KillChampionTalonSkin6](#击杀英雄皮肤银龙裁决-泰隆--KillChampionTalonSkin6)
-* [击杀英雄[皮肤:关羽 云长(泰达米尔)] | KillChampionTryndamereSkin6](#击杀英雄皮肤关羽-云长泰达米尔--KillChampionTryndamereSkin6)
-* [击杀英雄[皮肤:虎痴之拳 蔚] | KillChampionViSkin5](#击杀英雄皮肤虎痴之拳-蔚--KillChampionViSkin5)
-* [击杀英雄[皮肤:赵云 子龙 (赵信)] | KillChampionXinZhaoSkin5](#击杀英雄皮肤赵云-子龙-赵信--KillChampionXinZhaoSkin5)
-* [阵亡 | Death](#阵亡--Death)
-* [重生 | Respawn](#重生--Respawn)
-* [首次移动 | FirstMove](#首次移动--FirstMove)
-* [移动 | MoveOrder](#移动--MoveOrder)
-* [长距离移动 | MoveOrderLong](#长距离移动--MoveOrderLong)
-* [回城 | RecallLeadin](#回城--RecallLeadin)
 * [首次遇到[英雄:贾克斯] | FirstEncounterJax](#首次遇到英雄贾克斯--FirstEncounterJax)
 * [首次遇到[皮肤:司马懿 仲达 (阿兹尔)] | FirstEncounterAzirSkin4](#首次遇到皮肤司马懿-仲达-阿兹尔--FirstEncounterAzirSkin4)
 * [首次遇到[皮肤:王国机神 青龙 德莱文] | FirstEncounterDravenSkin13](#首次遇到皮肤王国机神-青龙-德莱文--FirstEncounterDravenSkin13)
@@ -41,6 +16,31 @@
 * [首次遇到[皮肤:关羽 云长(泰达米尔)] | FirstEncounterTryndamereSkin6](#首次遇到皮肤关羽-云长泰达米尔--FirstEncounterTryndamereSkin6)
 * [首次遇到[皮肤:虎痴之拳 蔚] | FirstEncounterViSkin5](#首次遇到皮肤虎痴之拳-蔚--FirstEncounterViSkin5)
 * [首次遇到[皮肤:赵云 子龙 (赵信)] | FirstEncounterXinZhaoSkin5](#首次遇到皮肤赵云-子龙-赵信--FirstEncounterXinZhaoSkin5)
+* [攻击英雄 | AttackChampion](#攻击英雄--AttackChampion)
+* [普通攻击 | JaxBasicAttack/JaxBasicAttack2/JaxBasicAttack3](#普通攻击--JaxBasicAttackJaxBasicAttack2JaxBasicAttack3)
+* [击杀英雄 | KillChampion](#击杀英雄--KillChampion)
+* [击杀[多杀:五杀] | KillChampionPentakill](#击杀多杀五杀--KillChampionPentakill)
+* [击杀[英雄:贾克斯] | KillChampionJax](#击杀英雄贾克斯--KillChampionJax)
+* [击杀[皮肤:司马懿 仲达 (阿兹尔)] | KillChampionAzirSkin4](#击杀皮肤司马懿-仲达-阿兹尔--KillChampionAzirSkin4)
+* [击杀[皮肤:王国机神 青龙 德莱文] | KillChampionDravenSkin13](#击杀皮肤王国机神-青龙-德莱文--KillChampionDravenSkin13)
+* [击杀[皮肤:张辽 文远 (盖伦)] | KillChampionGarenSkin11](#击杀皮肤张辽-文远-盖伦--KillChampionGarenSkin11)
+* [击杀[皮肤:王国机神 玄武 盖伦] | KillChampionGarenSkin22](#击杀皮肤王国机神-玄武-盖伦--KillChampionGarenSkin22)
+* [击杀[皮肤:吕布 奉先 (嘉文四世)] | KillChampionJarvanIVSkin5](#击杀皮肤吕布-奉先-嘉文四世--KillChampionJarvanIVSkin5)
+* [击杀[皮肤:闭月之颜 貂蝉 (卡特琳娜)] | KillChampionKatarinaSkin8](#击杀皮肤闭月之颜-貂蝉-卡特琳娜--KillChampionKatarinaSkin8)
+* [击杀[皮肤:王国机神 朱雀 蕾欧娜] | KillChampionLeonaSkin12](#击杀皮肤王国机神-朱雀-蕾欧娜--KillChampionLeonaSkin12)
+* [击杀[皮肤:枭姬 孙尚香 (奈德丽)] | KillChampionNidaleeSkin7](#击杀皮肤枭姬-孙尚香-奈德丽--KillChampionNidaleeSkin7)
+* [击杀[皮肤:替父从军 花木兰 (锐雯)] | KillChampionRivenSkin17](#击杀皮肤替父从军-花木兰-锐雯--KillChampionRivenSkin17)
+* [击杀[皮肤:王国机神 驰狼 瑟提] | KillChampionSettSkin1](#击杀皮肤王国机神-驰狼-瑟提--KillChampionSettSkin1)
+* [击杀[皮肤:银龙裁决 泰隆] | KillChampionTalonSkin6](#击杀皮肤银龙裁决-泰隆--KillChampionTalonSkin6)
+* [击杀[皮肤:关羽 云长(泰达米尔)] | KillChampionTryndamereSkin6](#击杀皮肤关羽-云长泰达米尔--KillChampionTryndamereSkin6)
+* [击杀[皮肤:虎痴之拳 蔚] | KillChampionViSkin5](#击杀皮肤虎痴之拳-蔚--KillChampionViSkin5)
+* [击杀[皮肤:赵云 子龙 (赵信)] | KillChampionXinZhaoSkin5](#击杀皮肤赵云-子龙-赵信--KillChampionXinZhaoSkin5)
+* [阵亡 | Death](#阵亡--Death)
+* [重生 | Respawn](#重生--Respawn)
+* [首次移动 | FirstMove](#首次移动--FirstMove)
+* [移动 | MoveOrder](#移动--MoveOrder)
+* [长距离移动 | MoveOrderLong](#长距离移动--MoveOrderLong)
+* [回城 | RecallLeadin](#回城--RecallLeadin)
 * [玩笑 | Joke](#玩笑--Joke)
 * [玩笑回应 | JokeResponse](#玩笑回应--JokeResponse)
 * [嘲讽 | Taunt](#嘲讽--Taunt)
@@ -51,6 +51,54 @@
 * [E技能-激活 | JaxCounterStrike_OnBuffDeactivate](#E技能-激活--JaxCounterStrike_OnBuffDeactivate)
 
 ## Lines:台词
+#### 首次遇到[英雄:贾克斯] | FirstEncounterJax
+- - `28C1653A`: ***这位先生，你看起来又高又帅，跟我打一架吧！***
+
+#### 首次遇到[皮肤:司马懿 仲达 (阿兹尔)] | FirstEncounterAzirSkin4
+- - `63E32E59`: ***你还要让多少士兵的怨魂挡在你身前？阿兹尔。***
+
+#### 首次遇到[皮肤:王国机神 青龙 德莱文] | FirstEncounterDravenSkin13
+- - `9FE60060`: ***旋转飞斧，粗鲁的野蛮人。唔，你叫什么来着？***
+
+#### 首次遇到[皮肤:张辽 文远 (盖伦)] | FirstEncounterGarenSkin11
+- - `C06D3D01`: ***盖伦，不是肩膀够大就是个好战士。***
+
+#### 首次遇到[皮肤:王国机神 玄武 盖伦] | FirstEncounterGarenSkin22
+- - `D479351C`: ***盖伦，维森提亚的军阀，你偷穿这么大的肩甲，你老妈知道吗？***
+
+#### 首次遇到[皮肤:吕布 奉先 (嘉文四世)] | FirstEncounterJarvanIVSkin5
+- - `E6DF0C6A`: ***嘉文，只要你还活着，我就会穷追不舍。***
+
+#### 首次遇到[皮肤:百夫长 贾克斯] | FirstEncounterJaxSkin5
+- - `959A9852`: ***孩子，你是真正的战死。***
+
+#### 首次遇到[皮肤:闭月之颜 貂蝉 (卡特琳娜)] | FirstEncounterKatarinaSkin8
+- - `C5047736`: ***卡特琳娜，又一个小公主变成了刺客。你这样的，我都解决了不知多少个了。***
+
+#### 首次遇到[皮肤:王国机神 朱雀 蕾欧娜] | FirstEncounterLeonaSkin12
+- - `7BDEEC3B`: ***蕾欧娜，拂晓王国的女王。我期待在战斗中击败你。***
+
+#### 首次遇到[皮肤:枭姬 孙尚香 (奈德丽)] | FirstEncounterNidaleeSkin7
+- - `3F7F615D`: ***奈德丽，白虎之灵。与你交手是我的荣幸。***
+
+#### 首次遇到[皮肤:替父从军 花木兰 (锐雯)] | FirstEncounterRivenSkin17
+- - `136D546B`: ***锐雯，我倒要看看。龙炎是不是真的听你号令。***
+
+#### 首次遇到[皮肤:王国机神 驰狼 瑟提] | FirstEncounterSettSkin1
+- - `A5D90960`: ***瑟提，这可不是你熟悉的街头斗殴。我是真的会打人的。***
+
+#### 首次遇到[皮肤:银龙裁决 泰隆] | FirstEncounterTalonSkin6
+- - `E1299317`: ***让我看看暗影的力量吧，泰隆。***
+
+#### 首次遇到[皮肤:关羽 云长(泰达米尔)] | FirstEncounterTryndamereSkin6
+- - `0070A323`: ***他们说你是战神，泰达米尔。请允许我挑战这个头衔。***
+
+#### 首次遇到[皮肤:虎痴之拳 蔚] | FirstEncounterViSkin5
+- - `F8ABB13A`: ***蔚，你的玉石拳头很漂亮。但打起架来，真的好用吗？***
+
+#### 首次遇到[皮肤:赵云 子龙 (赵信)] | FirstEncounterXinZhaoSkin5
+- - `5555982F`: ***我听过你的传说，赵信。让我看看所谓的虎将有多厉害吧！***
+
 #### 攻击英雄 | AttackChampion
 - - `09094A67`: ***哈，一只蚂蚁在挡路。***
   - `140F584B`: ***我知道被碾压的感觉吗？***
@@ -81,7 +129,7 @@
   - `B773042F`: *(语气)*
   - `D88C1C04`: *(语气)*
 
-#### 击杀英雄 | KillChampion
+#### 击杀 | KillChampion
 - - `106F7A71`: ***哇，我可真能打！***
   - `30302427`: ***我火力全开，你？乖乖凉了吧！***
   - `5474AC17`: ***这下可伤得不轻啊！***
@@ -91,54 +139,54 @@
   - `AFFBD549`: ***全新的阿瓦隆，不变的结果。***
   - `EBCA1F38`: ***意料之中！***
 
-#### 击杀英雄[多杀:五杀] | KillChampionPentakill
+#### 击杀[多杀:五杀] | KillChampionPentakill
 - - `4E2BE747`: ***我才是最强的！都给我记住了！***
   - `84A48A6F`: ***昭告天下各国：不用谢！***
   - `CEDB764B`: ***把这一战载入史册吧！***
 
-#### 击杀英雄[英雄:贾克斯] | KillChampionJax
+#### 击杀[英雄:贾克斯] | KillChampionJax
 - - `35252D4D`: ***下回换个最强的武器再来吧。***
 
-#### 击杀英雄[皮肤:司马懿 仲达 (阿兹尔)] | KillChampionAzirSkin4
+#### 击杀[皮肤:司马懿 仲达 (阿兹尔)] | KillChampionAzirSkin4
 - - `548BDD3B`: ***就算是一整只军队，也无法和我匹敌。***
 
-#### 击杀英雄[皮肤:王国机神 青龙 德莱文] | KillChampionDravenSkin13
+#### 击杀[皮肤:王国机神 青龙 德莱文] | KillChampionDravenSkin13
 - - `58C75645`: ***这也德莱文，那也德莱文。行了！大家都听腻了！***
 
-#### 击杀英雄[皮肤:张辽 文远 (盖伦)] | KillChampionGarenSkin11
+#### 击杀[皮肤:张辽 文远 (盖伦)] | KillChampionGarenSkin11
 - - `ECD3CB13`: ***转圈转得好，就是赢不了，哈哈哈！***
 
-#### 击杀英雄[皮肤:王国机神 玄武 盖伦] | KillChampionGarenSkin22
+#### 击杀[皮肤:王国机神 玄武 盖伦] | KillChampionGarenSkin22
 - - `8CB8387B`: ***维森提亚需要的是领袖，不是白痴。***
 
-#### 击杀英雄[皮肤:吕布 奉先 (嘉文四世)] | KillChampionJarvanIVSkin5
+#### 击杀[皮肤:吕布 奉先 (嘉文四世)] | KillChampionJarvanIVSkin5
 - - `C3093647`: ***嘉文，你的传奇就此终结。***
 
-#### 击杀英雄[皮肤:闭月之颜 貂蝉 (卡特琳娜)] | KillChampionKatarinaSkin8
+#### 击杀[皮肤:闭月之颜 貂蝉 (卡特琳娜)] | KillChampionKatarinaSkin8
 - - `4FD4AA67`: ***你老老实实专挑无名的将军下手就行了，卡特琳娜。***
 
-#### 击杀英雄[皮肤:王国机神 朱雀 蕾欧娜] | KillChampionLeonaSkin12
+#### 击杀[皮肤:王国机神 朱雀 蕾欧娜] | KillChampionLeonaSkin12
 - - `24335E3A`: ***别担心，蕾欧娜！你的儿女将继续承载拂晓王国的荣光。***
 
-#### 击杀英雄[皮肤:枭姬 孙尚香 (奈德丽)] | KillChampionNidaleeSkin7
+#### 击杀[皮肤:枭姬 孙尚香 (奈德丽)] | KillChampionNidaleeSkin7
 - - `46D0017D`: ***即使是猛虎也毫无胜算。***
 
-#### 击杀英雄[皮肤:替父从军 花木兰 (锐雯)] | KillChampionRivenSkin17
+#### 击杀[皮肤:替父从军 花木兰 (锐雯)] | KillChampionRivenSkin17
 - - `A5E75700`: ***锐雯，你不配用这把龙炎宝刀。***
 
-#### 击杀英雄[皮肤:王国机神 驰狼 瑟提] | KillChampionSettSkin1
+#### 击杀[皮肤:王国机神 驰狼 瑟提] | KillChampionSettSkin1
 - - `78F2A560`: ***继续跟罪犯和山贼打架吧，瑟提。你还得再练练。***
 
-#### 击杀英雄[皮肤:银龙裁决 泰隆] | KillChampionTalonSkin6
+#### 击杀[皮肤:银龙裁决 泰隆] | KillChampionTalonSkin6
 - - `6DFE4F32`: ***回到暗影中吧！泰隆。***
 
-#### 击杀英雄[皮肤:关羽 云长(泰达米尔)] | KillChampionTryndamereSkin6
+#### 击杀[皮肤:关羽 云长(泰达米尔)] | KillChampionTryndamereSkin6
 - - `88675F7E`: ***对无神论者来说，战神算什么？***
 
-#### 击杀英雄[皮肤:虎痴之拳 蔚] | KillChampionViSkin5
+#### 击杀[皮肤:虎痴之拳 蔚] | KillChampionViSkin5
 - - `B4E9F84D`: ***哈哈哈，换个更大的拳头吧，蔚。***
 
-#### 击杀英雄[皮肤:赵云 子龙 (赵信)] | KillChampionXinZhaoSkin5
+#### 击杀[皮肤:赵云 子龙 (赵信)] | KillChampionXinZhaoSkin5
 - - `3A4F5257`: ***作为五虎将之一，你的死很英勇。***
 
 #### 阵亡 | Death
@@ -200,54 +248,6 @@
 - - `41C37454`: ***噢对了，那些发明家让我给这个东西补充燃料，也不知道是什么意思？***
   - `5AC9A727`: ***我的王国正面临危机，我想去救一下，待会儿接着跟你打。***
   - `BE33CD30`: ***它们有种奇怪的动静，最好检修一下。***
-
-#### 首次遇到[英雄:贾克斯] | FirstEncounterJax
-- - `28C1653A`: ***这位先生，你看起来又高又帅，跟我打一架吧！***
-
-#### 首次遇到[皮肤:司马懿 仲达 (阿兹尔)] | FirstEncounterAzirSkin4
-- - `63E32E59`: ***你还要让多少士兵的怨魂挡在你身前？阿兹尔。***
-
-#### 首次遇到[皮肤:王国机神 青龙 德莱文] | FirstEncounterDravenSkin13
-- - `9FE60060`: ***旋转飞斧，粗鲁的野蛮人。唔，你叫什么来着？***
-
-#### 首次遇到[皮肤:张辽 文远 (盖伦)] | FirstEncounterGarenSkin11
-- - `C06D3D01`: ***盖伦，不是肩膀够大就是个好战士。***
-
-#### 首次遇到[皮肤:王国机神 玄武 盖伦] | FirstEncounterGarenSkin22
-- - `D479351C`: ***盖伦，维森提亚的军阀，你偷穿这么大的肩甲，你老妈知道吗？***
-
-#### 首次遇到[皮肤:吕布 奉先 (嘉文四世)] | FirstEncounterJarvanIVSkin5
-- - `E6DF0C6A`: ***嘉文，只要你还活着，我就会穷追不舍。***
-
-#### 首次遇到[皮肤:百夫长 贾克斯] | FirstEncounterJaxSkin5
-- - `959A9852`: ***孩子，你是真正的战死。***
-
-#### 首次遇到[皮肤:闭月之颜 貂蝉 (卡特琳娜)] | FirstEncounterKatarinaSkin8
-- - `C5047736`: ***卡特琳娜，又一个小公主变成了刺客。你这样的，我都解决了不知多少个了。***
-
-#### 首次遇到[皮肤:王国机神 朱雀 蕾欧娜] | FirstEncounterLeonaSkin12
-- - `7BDEEC3B`: ***蕾欧娜，拂晓王国的女王。我期待在战斗中击败你。***
-
-#### 首次遇到[皮肤:枭姬 孙尚香 (奈德丽)] | FirstEncounterNidaleeSkin7
-- - `3F7F615D`: ***奈德丽，白虎之灵。与你交手是我的荣幸。***
-
-#### 首次遇到[皮肤:替父从军 花木兰 (锐雯)] | FirstEncounterRivenSkin17
-- - `136D546B`: ***锐雯，我倒要看看。龙炎是不是真的听你号令。***
-
-#### 首次遇到[皮肤:王国机神 驰狼 瑟提] | FirstEncounterSettSkin1
-- - `A5D90960`: ***瑟提，这可不是你熟悉的街头斗殴。我是真的会打人的。***
-
-#### 首次遇到[皮肤:银龙裁决 泰隆] | FirstEncounterTalonSkin6
-- - `E1299317`: ***让我看看暗影的力量吧，泰隆。***
-
-#### 首次遇到[皮肤:关羽 云长(泰达米尔)] | FirstEncounterTryndamereSkin6
-- - `0070A323`: ***他们说你是战神，泰达米尔。请允许我挑战这个头衔。***
-
-#### 首次遇到[皮肤:虎痴之拳 蔚] | FirstEncounterViSkin5
-- - `F8ABB13A`: ***蔚，你的玉石拳头很漂亮。但打起架来，真的好用吗？***
-
-#### 首次遇到[皮肤:赵云 子龙 (赵信)] | FirstEncounterXinZhaoSkin5
-- - `5555982F`: ***我听过你的传说，赵信。让我看看所谓的虎将有多厉害吧！***
 
 #### 玩笑 | Joke
 - - `4EC16902`: ***冷知识，剥蛋壳要比保家卫国更花时间。***

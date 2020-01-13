@@ -1,6 +1,10 @@
 ^# [875000] Sett:瑟提
 
 ## Catalog:目录
+* [首次遇到 | FirstEncounter](#首次遇到--FirstEncounter)
+* [首次遇到[地区:比尔吉沃特] | FirstEncounterBilgewater](#首次遇到地区比尔吉沃特--FirstEncounterBilgewater)
+* [首次遇到 | FirstEncounterNoxians](#首次遇到--FirstEncounterNoxians)
+* [首次遇到[种族:瓦斯塔亚] | FirstEncounterVastaya](#首次遇到种族瓦斯塔亚--FirstEncounterVastaya)
 * [攻击英雄 | AttackChampion](#攻击英雄--AttackChampion)
 * [普通攻击1，3、Q技能攻击1 | SettBasicAttack/SettBasicAttack3/SettQAttack](#普通攻击13Q技能攻击1--SettBasicAttackSettBasicAttack3SettQAttack)
 * [普通攻击2，4 | SettBasicAttack2/SettBasicAttack4](#普通攻击24--SettBasicAttack2SettBasicAttack4)
@@ -13,10 +17,6 @@
 * [移动 | MoveOrder](#移动--MoveOrder)
 * [长距离移动 | MoveOrderLong](#长距离移动--MoveOrderLong)
 * [回城 | RecallLeadin](#回城--RecallLeadin)
-* [首次遇到 | FirstEncounter](#首次遇到--FirstEncounter)
-* [首次遇到[地区:比尔吉沃特] | FirstEncounterBilgewater](#首次遇到地区比尔吉沃特--FirstEncounterBilgewater)
-* [首次遇到 | FirstEncounterNoxians](#首次遇到--FirstEncounterNoxians)
-* [首次遇到[种族:瓦斯塔亚] | FirstEncounterVastaya](#首次遇到种族瓦斯塔亚--FirstEncounterVastaya)
 * [玩笑 | Joke](#玩笑--Joke)
 * [嘲讽 | Taunt](#嘲讽--Taunt)
 * [嘲讽回应 | TauntResponse](#嘲讽回应--TauntResponse)
@@ -26,6 +26,20 @@
 * [R技能 | SettR](#R技能--SettR)
 
 ## Lines:台词
+#### 首次遇到[地区:比尔吉沃特] | FirstEncounterBilgewater
+- - `CFCEEA36`: ***臭水沟的耗子，你见过我老爸吗？他就像你一样混蛋。***
+
+#### 首次遇到 | FirstEncounterNoxians
+- - `05A56A3D`: ***搏击场是你们诺克萨斯人发明的。但是多亏了我，它才变得这么完美***
+  - `407A9721`: ***诺克萨斯，你知道规矩。我们井水不犯河水。***
+  - `48A66B4F`: ***你们诺克萨斯人也不全是坏人。当然也不都是好人。***
+  - `8318DF02`: ***嚯，你是诺克萨斯人。就像我老爸，我尽量不针对你吧。***
+
+#### 首次遇到[种族:瓦斯塔亚] | FirstEncounterVastaya
+- - `3BCADA4F`: ***瞧瞧，纯种的瓦斯塔亚。你觉得我配不上你们，是吗？***
+  - `A4E1187A`: ***你很快就会见到我的人性，态度可就不像现在这么好了。***
+  - `EE93485D`: ***我之所以还没有踩烂你，就是因为我老妈，也是瓦斯塔亚人。***
+
 #### 攻击英雄 | AttackChampion
 - - `029B5C64`: ***来啊！打我！***
   - `03F03D7F`: ***下巴要保不住了。***
@@ -80,7 +94,7 @@
   - `9CCEB913`: *(语气)*
   - `BD6C3662`: *(语气)*
 
-#### 击杀英雄 | KillChampion
+#### 击杀 | KillChampion
 - - `07825B32`: ***淘汰？因为逃得不够快。***
   - `1529231B`: ***你不配！***
   - `1B56C96F`: ***钱到手了。***
@@ -192,20 +206,6 @@
   - `9D459F0F`: ***你胆子够大，刚好我打上一拳。***
   - `A7B32838`: ***要是你在梦里打过我，你最好现在就醒醒，给我道歉。***
   - `D7157F67`: ***你要是够聪明，就应学学我老爸，他跑了。***
-
-#### 首次遇到[地区:比尔吉沃特] | FirstEncounterBilgewater
-- - `CFCEEA36`: ***臭水沟的耗子，你见过我老爸吗？他就像你一样混蛋。***
-
-#### 首次遇到 | FirstEncounterNoxians
-- - `05A56A3D`: ***搏击场是你们诺克萨斯人发明的。但是多亏了我，它才变得这么完美***
-  - `407A9721`: ***诺克萨斯，你知道规矩。我们井水不犯河水。***
-  - `48A66B4F`: ***你们诺克萨斯人也不全是坏人。当然也不都是好人。***
-  - `8318DF02`: ***嚯，你是诺克萨斯人。就像我老爸，我尽量不针对你吧。***
-
-#### 首次遇到[种族:瓦斯塔亚] | FirstEncounterVastaya
-- - `3BCADA4F`: ***瞧瞧，纯种的瓦斯塔亚。你觉得我配不上你们，是吗？***
-  - `A4E1187A`: ***你很快就会见到我的人性，态度可就不像现在这么好了。***
-  - `EE93485D`: ***我之所以还没有踩烂你，就是因为我老妈，也是瓦斯塔亚人。***
 
 #### 玩笑 | Joke
 - - `D40A4826`: ***爱你老妈，明天见。姆啊！***

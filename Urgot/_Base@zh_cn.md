@@ -4,9 +4,9 @@
 * [攻击英雄 | AttackChampion](#攻击英雄--AttackChampion)
 * [普通攻击 | UrgotBasicAttack](#普通攻击--UrgotBasicAttack)
 * [击杀英雄 | KillChampion](#击杀英雄--KillChampion)
-* [击杀英雄[地区:诺克萨斯] | KillChampionNoxus](#击杀英雄地区诺克萨斯--KillChampionNoxus)
-* [击杀英雄[地区:祖安] | KillChampionZaun](#击杀英雄地区祖安--KillChampionZaun)
-* [击杀英雄[连杀:大杀特杀] | KillChampionKillingSpree](#击杀英雄连杀大杀特杀--KillChampionKillingSpree)
+* [击杀[地区:诺克萨斯] | KillChampionNoxus](#击杀地区诺克萨斯--KillChampionNoxus)
+* [击杀[地区:祖安] | KillChampionZaun](#击杀地区祖安--KillChampionZaun)
+* [击杀[连杀:大杀特杀] | KillChampionKillingSpree](#击杀连杀大杀特杀--KillChampionKillingSpree)
 * [回城 | RecallLeadIn](#回城--RecallLeadIn)
 * [回城1、大笑 | Recall_efforts01/LaughGeneral](#回城1大笑--Recall_efforts01LaughGeneral)
 * [回城2 | Recall_efforts02](#回城2--Recall_efforts02)
@@ -181,7 +181,7 @@
   - `3FE37D6C`: *(语气)*
   - `E1798C61`: *(语气)*
 
-#### 击杀英雄 | KillChampion
+#### 击杀 | KillChampion
 - - `0F350B20`: ***我帮你舍生取义。***
   - `118C7A6E`: ***有多少次崛起，就有多少次陨落。***
   - `13003A64`: ***承认你自己的弱点吧。***
@@ -190,13 +190,13 @@
   - `A223FC58`: ***把尸体挂起来，让祖安好好看。***
   - `E975C30B`: ***至少，你找对了自己的位置。***
 
-#### 击杀英雄[地区:诺克萨斯] | KillChampionNoxus
+#### 击杀[地区:诺克萨斯] | KillChampionNoxus
 - - `5489A201`: ***我，才是强者。***
 
-#### 击杀英雄[地区:祖安] | KillChampionZaun
+#### 击杀[地区:祖安] | KillChampionZaun
 - - `14199638`: ***祖安，这给你的警告。***
 
-#### 击杀英雄[连杀:大杀特杀] | KillChampionKillingSpree
+#### 击杀[连杀:大杀特杀] | KillChampionKillingSpree
 - - `4EB00151`: ***雕虫小技。***
   - `763A541C`: ***一个合格的对手都没有吗？***
   - `FCF4061C`: ***别浪费我的时间。***

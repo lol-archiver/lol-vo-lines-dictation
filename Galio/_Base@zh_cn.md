@@ -9,8 +9,8 @@
 * [普通攻击、普通攻击[特效:被动] | GalioBasicAttack|GalioPassiveAttack](#普通攻击普通攻击特效被动--GalioBasicAttackGalioPassiveAttack)
 * [普通攻击[特效:被动] | GalioPassiveAttack](#普通攻击特效被动--GalioPassiveAttack)
 * [击杀英雄 | KillChampion](#击杀英雄--KillChampion)
-* [击杀英雄[连杀:大杀特杀] | KillChampionKillingSpree](#击杀英雄连杀大杀特杀--KillChampionKillingSpree)
-* [击杀英雄[种族:德玛西亚] | KillChampionDemacia](#击杀英雄种族德玛西亚--KillChampionDemacia)
+* [击杀[连杀:大杀特杀] | KillChampionKillingSpree](#击杀连杀大杀特杀--KillChampionKillingSpree)
+* [击杀[种族:德玛西亚] | KillChampionDemacia](#击杀种族德玛西亚--KillChampionDemacia)
 * [回城 | RecallLeadin](#回城--RecallLeadin)
 * [阵亡 | Death](#阵亡--Death)
 * [重生 | Respawn](#重生--Respawn)
@@ -115,7 +115,7 @@
   - `8AE6EF23`: ***就是这样。***
   - `DC04AE25`: ***大破。***
 
-#### 击杀英雄 | KillChampion
+#### 击杀 | KillChampion
 - - `438AE81F`: ***呃哦，死人黏在我脚指头上了。***
   - `8833D609`: ***下一个！***
   - `904F6900`: ***太轻松。***
@@ -124,13 +124,13 @@
   - `D7286228`: ***手下败将。***
   - `EA1BF917`: ***草包。***
 
-#### 击杀英雄[连杀:大杀特杀] | KillChampionKillingSpree
+#### 击杀[连杀:大杀特杀] | KillChampionKillingSpree
 - - `6A732E0A`: ***还有谁没趴下？***
   - `A8AF913E`: ***草包！草包！草包！***
   - `9DBB1A36`: ***哇，多么辉煌啊！***
   - `D8FCE913`: ***哼哈哈哈哈，我们赢了没？***
 
-#### 击杀英雄[种族:德玛西亚] | KillChampionDemacia
+#### 击杀[种族:德玛西亚] | KillChampionDemacia
 - - `8A7E9A0D`: ***糟糕，误伤友军。***
 
 #### 回城 | RecallLeadin

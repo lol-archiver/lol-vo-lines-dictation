@@ -9,7 +9,7 @@
 * [普通攻击 | GalioBasicAttack](#普通攻击--GalioBasicAttack)
 * [普通攻击[特效:被动] | GalioPassiveAttack](#普通攻击特效被动--GalioPassiveAttack)
 * [击杀英雄 | KillChampion](#击杀英雄--KillChampion)
-* [击杀英雄[连杀:大杀特杀] | KillChampionKillingSpree](#击杀英雄连杀大杀特杀--KillChampionKillingSpree)
+* [击杀[连杀:大杀特杀] | KillChampionKillingSpree](#击杀连杀大杀特杀--KillChampionKillingSpree)
 * [回城 | RecallLeadIn](#回城--RecallLeadIn)
 * [阵亡 | Death](#阵亡--Death)
 * [重生 | Respawn](#重生--Respawn)
@@ -144,7 +144,7 @@
   - `A1E2A33B`: ***赎罪！***
   - `C5BAA402`: ***罪孽！***
 
-#### 击杀英雄 | KillChampion
+#### 击杀 | KillChampion
 - - `0E7F9B0C`: ***噗，凡人啊。***
   - `1C6E852D`: ***又一个可以点火的灵魂。***
   - `828CCE2D`: ***见鬼啦！***
@@ -152,7 +152,7 @@
   - `D7126C23`: ***六百六十六加零。***
   - `EA38AC27`: ***你必须接受审判。***
 
-#### 击杀英雄[连杀:大杀特杀] | KillChampionKillingSpree
+#### 击杀[连杀:大杀特杀] | KillChampionKillingSpree
 - - `619D5E34`: ***哇哦，下面都挤爆了。***
   - `93A5CB21`: ***总是还能多抓一个。***
   - `9940E93E`: ***苦难喜欢有人陪伴。***

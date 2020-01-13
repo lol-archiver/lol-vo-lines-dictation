@@ -1,4 +1,6 @@
 # Event Sort Order
+- First Encounter
+
 - Attack Champion
 - Basic Attack
 - Crit
@@ -11,8 +13,6 @@
 - Move Order
 - Approach
 - Recall
-
-- First Encounter
 
 - Joke
 - Taunt
