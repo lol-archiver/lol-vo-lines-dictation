@@ -25,3 +25,5 @@
 - PQWER
 
 - Shield By
+
+[|[\]():/]
