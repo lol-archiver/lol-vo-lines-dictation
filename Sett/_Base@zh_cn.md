@@ -1,4 +1,4 @@
-^# [875000] Sett:瑟提
+# [875000] Sett:瑟提
 
 ## Catalog:目录
 * [首次遇到 | FirstEncounter](#首次遇到--FirstEncounter)
