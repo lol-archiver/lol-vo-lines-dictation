@@ -24,8 +24,8 @@
 * [普通攻击[英雄:莫甘娜] | KayleBasicAttack_AttackChampionMorgana](#普通攻击英雄莫甘娜--KayleBasicAttack_AttackChampionMorgana)
 * [击杀英雄 | KillChampion](#击杀英雄--KillChampion)
 * [击杀[英雄:莫甘娜] | KillChampionMorgana](#击杀英雄莫甘娜--KillChampionMorgana)
-* [击杀[多杀:五杀] | KillChampionPentaKill](#击杀多杀五杀--KillChampionPentaKill)
 * [击杀[英雄:维克兹] | KillChampionVelkoz](#击杀英雄维克兹--KillChampionVelkoz)
+* [击杀[多杀:五杀] | KillChampionPentaKill](#击杀多杀五杀--KillChampionPentaKill)
 * [回城 | Recall](#回城--Recall)
 * [阵亡 | Death](#阵亡--Death)
 * [重生 | Respawn](#重生--Respawn)
@@ -181,11 +181,11 @@
 - - `99018C6F`: ***这个世界不配有你。***
   - `FE1C964B`: ***你死在自己的剑下。***
 
-#### 击杀[多杀:五杀] | KillChampionPentaKill
-- - `BD7DDD5C`: ***高举我吧！***
-
 #### 击杀[英雄:维克兹] | KillChampionVelkoz
 - - `0325DC00`: ***以眼，还眼。***
+
+#### 击杀[多杀:五杀] | KillChampionPentaKill
+- - `BD7DDD5C`: ***高举我吧！***
 
 #### 回城 | Recall
 - - `1F633E7B`: ***星辰间的国度，在召唤我！***

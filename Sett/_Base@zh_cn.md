@@ -3,14 +3,14 @@
 ## Catalog:目录
 * [首次遇到 | FirstEncounter](#首次遇到--FirstEncounter)
 * [首次遇到[地区:比尔吉沃特] | FirstEncounterBilgewater](#首次遇到地区比尔吉沃特--FirstEncounterBilgewater)
-* [首次遇到 | FirstEncounterNoxians](#首次遇到--FirstEncounterNoxians)
+* [首次遇到[地区:诺克萨斯] | FirstEncounterNoxians](#首次遇到地区诺克萨斯--FirstEncounterNoxians)
 * [首次遇到[种族:瓦斯塔亚] | FirstEncounterVastaya](#首次遇到种族瓦斯塔亚--FirstEncounterVastaya)
 * [攻击英雄 | AttackChampion](#攻击英雄--AttackChampion)
 * [普通攻击1，3、Q技能攻击1 | SettBasicAttack/SettBasicAttack3/SettQAttack](#普通攻击13Q技能攻击1--SettBasicAttackSettBasicAttack3SettQAttack)
 * [普通攻击2，4 | SettBasicAttack2/SettBasicAttack4](#普通攻击24--SettBasicAttack2SettBasicAttack4)
 * [Q技能攻击2 | SettQAttack2](#Q技能攻击2--SettQAttack2)
 * [击杀英雄 | KillChampion](#击杀英雄--KillChampion)
-* [[多杀:五杀] | PentaKill](#多杀五杀--PentaKill)
+* [击杀[多杀:五杀] | PentaKill](#击杀多杀五杀--PentaKill)
 * [阵亡 | Death](#阵亡--Death)
 * [重生 | Respawn](#重生--Respawn)
 * [首次移动 | FirstMove](#首次移动--FirstMove)
@@ -26,14 +26,26 @@
 * [R技能 | SettR](#R技能--SettR)
 
 ## Lines:台词
-#### 首次遇到[地区:比尔吉沃特] | FirstEncounterBilgewater
-- - `CFCEEA36`: ***臭水沟的耗子，你见过我老爸吗？他就像你一样混蛋。***
+#### 首次遇到 | FirstEncounter
+- - `0C647068`: ***要上位，就得把上位的人先打趴。可我看不出你有这个本事。***
+  - `0C83243B`: ***瞧瞧那张脸，哭着喊着在说：“来打我呀！”***
+  - `2308085C`: ***哼，就这？我怎么输啊？***
+  - `3CD7AE53`: ***你就是头号挑战者？我好像把这一片的对手清得太干净了。***
+  - `6284FA5D`: ***好好看看小朋友，现在已经是淘汰赛。***
+  - `8299B91F`: ***我从来没输过，你知道的对吧。***
+  - `858AAB6B`: ***欢迎参加我的表演！要是你能活下来，就欢迎你再来。***
+  - `9D459F0F`: ***你胆子够大，刚好我打上一拳。***
+  - `A7B32838`: ***要是你在梦里打过我，你最好现在就醒醒，给我道歉。***
+  - `D7157F67`: ***你要是够聪明，就应学学我老爸，他跑了。***
 
-#### 首次遇到 | FirstEncounterNoxians
+#### 首次遇到[地区:比尔吉沃特] | FirstEncounterBilgewater
+
+#### 首次遇到[地区:诺克萨斯] | FirstEncounterNoxians
 - - `05A56A3D`: ***搏击场是你们诺克萨斯人发明的。但是多亏了我，它才变得这么完美***
   - `407A9721`: ***诺克萨斯，你知道规矩。我们井水不犯河水。***
   - `48A66B4F`: ***你们诺克萨斯人也不全是坏人。当然也不都是好人。***
   - `8318DF02`: ***嚯，你是诺克萨斯人。就像我老爸，我尽量不针对你吧。***
+- - `CFCEEA36`: ***臭水沟的耗子，你见过我老爸吗？他就像你一样混蛋。***
 
 #### 首次遇到[种族:瓦斯塔亚] | FirstEncounterVastaya
 - - `3BCADA4F`: ***瞧瞧，纯种的瓦斯塔亚。你觉得我配不上你们，是吗？***
@@ -106,7 +118,7 @@
   - `9EEEDE15`: ***我的地盘，都给我滚吧！***
   - `CF847F1E`: ***你没打着？***
 
-#### [多杀:五杀] | PentaKill
+#### 击杀[多杀:五杀] | PentaKill
 - - `9EF7562D`: ***给我把马车推进来！***
   - `A1004935`: ***各位注意！新的冠军诞生了！***
 
@@ -194,18 +206,6 @@
   - `D85F9E76`: ***你们懂吗？每次击倒之间的休息，才是生活的真谛。***
   - `E70C423B`: ***每节之间休息一会，然后，再回来打。***
   - `F96D476C`: ***我喜欢的东西？我老妈、扭断人的脖子，还有，上好的艾欧尼亚丝绸。***
-
-#### 首次遇到 | FirstEncounter
-- - `0C647068`: ***要上位，就得把上位的人先打趴。可我看不出你有这个本事。***
-  - `0C83243B`: ***瞧瞧那张脸，哭着喊着在说：“来打我呀！”***
-  - `2308085C`: ***哼，就这？我怎么输啊？***
-  - `3CD7AE53`: ***你就是头号挑战者？我好像把这一片的对手清得太干净了。***
-  - `6284FA5D`: ***好好看看小朋友，现在已经是淘汰赛。***
-  - `8299B91F`: ***我从来没输过，你知道的对吧。***
-  - `858AAB6B`: ***欢迎参加我的表演！要是你能活下来，就欢迎你再来。***
-  - `9D459F0F`: ***你胆子够大，刚好我打上一拳。***
-  - `A7B32838`: ***要是你在梦里打过我，你最好现在就醒醒，给我道歉。***
-  - `D7157F67`: ***你要是够聪明，就应学学我老爸，他跑了。***
 
 #### 玩笑 | Joke
 - - `D40A4826`: ***爱你老妈，明天见。姆啊！***

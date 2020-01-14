@@ -19,7 +19,6 @@
 * [攻击英雄 | AttackChampion](#攻击英雄--AttackChampion)
 * [普通攻击 | JaxBasicAttack/JaxBasicAttack2/JaxBasicAttack3](#普通攻击--JaxBasicAttackJaxBasicAttack2JaxBasicAttack3)
 * [击杀英雄 | KillChampion](#击杀英雄--KillChampion)
-* [击杀[多杀:五杀] | KillChampionPentakill](#击杀多杀五杀--KillChampionPentakill)
 * [击杀[英雄:贾克斯] | KillChampionJax](#击杀英雄贾克斯--KillChampionJax)
 * [击杀[皮肤:司马懿 仲达 (阿兹尔)] | KillChampionAzirSkin4](#击杀皮肤司马懿-仲达-阿兹尔--KillChampionAzirSkin4)
 * [击杀[皮肤:王国机神 青龙 德莱文] | KillChampionDravenSkin13](#击杀皮肤王国机神-青龙-德莱文--KillChampionDravenSkin13)
@@ -35,6 +34,7 @@
 * [击杀[皮肤:关羽 云长(泰达米尔)] | KillChampionTryndamereSkin6](#击杀皮肤关羽-云长泰达米尔--KillChampionTryndamereSkin6)
 * [击杀[皮肤:虎痴之拳 蔚] | KillChampionViSkin5](#击杀皮肤虎痴之拳-蔚--KillChampionViSkin5)
 * [击杀[皮肤:赵云 子龙 (赵信)] | KillChampionXinZhaoSkin5](#击杀皮肤赵云-子龙-赵信--KillChampionXinZhaoSkin5)
+* [击杀[多杀:五杀] | KillChampionPentakill](#击杀多杀五杀--KillChampionPentakill)
 * [阵亡 | Death](#阵亡--Death)
 * [重生 | Respawn](#重生--Respawn)
 * [首次移动 | FirstMove](#首次移动--FirstMove)
@@ -139,11 +139,6 @@
   - `AFFBD549`: ***全新的阿瓦隆，不变的结果。***
   - `EBCA1F38`: ***意料之中！***
 
-#### 击杀[多杀:五杀] | KillChampionPentakill
-- - `4E2BE747`: ***我才是最强的！都给我记住了！***
-  - `84A48A6F`: ***昭告天下各国：不用谢！***
-  - `CEDB764B`: ***把这一战载入史册吧！***
-
 #### 击杀[英雄:贾克斯] | KillChampionJax
 - - `35252D4D`: ***下回换个最强的武器再来吧。***
 
@@ -188,6 +183,11 @@
 
 #### 击杀[皮肤:赵云 子龙 (赵信)] | KillChampionXinZhaoSkin5
 - - `3A4F5257`: ***作为五虎将之一，你的死很英勇。***
+
+#### 击杀[多杀:五杀] | KillChampionPentakill
+- - `4E2BE747`: ***我才是最强的！都给我记住了！***
+  - `84A48A6F`: ***昭告天下各国：不用谢！***
+  - `CEDB764B`: ***把这一战载入史册吧！***
 
 #### 阵亡 | Death
 - - `19C4E84D`: ***告诉我的人民，我爱他们。***
