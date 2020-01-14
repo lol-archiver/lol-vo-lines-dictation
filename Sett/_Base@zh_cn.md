@@ -1,6 +1,8 @@
 # [875000] Sett:瑟提
 
 ## Catalog:目录
+* [选择 | Pick](#选择--Pick)
+* [禁用 | Ban](#禁用--Ban)
 * [首次遇到 | FirstEncounter](#首次遇到--FirstEncounter)
 * [首次遇到[地区:比尔吉沃特] | FirstEncounterBilgewater](#首次遇到地区比尔吉沃特--FirstEncounterBilgewater)
 * [首次遇到[地区:诺克萨斯] | FirstEncounterNoxians](#首次遇到地区诺克萨斯--FirstEncounterNoxians)
@@ -26,6 +28,12 @@
 * [R技能 | SettR](#R技能--SettR)
 
 ## Lines:台词
+#### 选择 | Pick
+- - `00000000`: ***那必须是我了。***
+
+#### 禁用 | Ban
+- - `00000000`: ***行吧，打不赢的架，就别打了。***
+
 #### 首次遇到 | FirstEncounter
 - - `0C647068`: ***要上位，就得把上位的人先打趴。可我看不出你有这个本事。***
   - `0C83243B`: ***瞧瞧那张脸，哭着喊着在说：“来打我呀！”***

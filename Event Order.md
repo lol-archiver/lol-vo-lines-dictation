@@ -1,4 +1,7 @@
 # Event Sort Order
+- Pick
+- Ban
+
 - First Encounter
 
 - Attack Champion
