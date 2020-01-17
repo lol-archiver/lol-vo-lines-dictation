@@ -46,9 +46,9 @@
 * [嘲讽 | Taunt](#嘲讽--Taunt)
 * [嘲讽回应 | TauntResponse](#嘲讽回应--TauntResponse)
 * [大笑 | Laugh](#大笑--Laugh)
-* [P被动 | JaxRelentlessAssault](#P被动--JaxRelentlessAssault)
 * [Q技能 | JaxLeapStrike](#Q技能--JaxLeapStrike)
 * [E技能-激活 | JaxCounterStrike_OnBuffDeactivate](#E技能-激活--JaxCounterStrike_OnBuffDeactivate)
+* [R技能 | JaxRelentlessAssault](#R技能--JaxRelentlessAssault)
 
 ## Lines:台词
 #### 首次遇到[英雄:贾克斯] | FirstEncounterJax
@@ -271,12 +271,6 @@
   - `A6265E61`: *(语气)*
   - `CAE60340`: *(语气)*
 
-#### P被动 | JaxRelentlessAssault
-- - `0BA2050D`: ***来看看这个大红按钮是干嘛的？***
-  - `1C381028`: ***切换至高档位！***
-  - `7896D177`: ***功率最大化！***
-  - `DD228E72`: ***我一个人打他们所有！***
-
 #### Q技能 | JaxLeapStrike
 - - `10C76F1D`: *(语气)*
   - `45984A75`: *(语气)*
@@ -292,3 +286,9 @@
   - `4508E279`: ***展开反击！***
   - `5D901006`: ***攻防转换！***
   - `9E21554C`: ***转圈就能赢，大概是吧。***
+
+#### R技能 | JaxRelentlessAssault
+- - `0BA2050D`: ***来看看这个大红按钮是干嘛的？***
+  - `1C381028`: ***切换至高档位！***
+  - `7896D177`: ***功率最大化！***
+  - `DD228E72`: ***我一个人打他们所有！***
