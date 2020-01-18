@@ -31,7 +31,7 @@
 * [大笑 | LaughGeneral](#大笑--LaughGeneral)
 * [P被动 | SorakaPassive_OnBuffCast](#P被动--SorakaPassive_OnBuffCast)
 * [Q技能 | SorakaQ](#Q技能--SorakaQ)
-* [W技能 | SorakaW_](#W技能--SorakaW_)
+* [W技能 | SorakaW](#W技能--SorakaW)
 * [W技能[皮肤:神王 德莱厄斯] | SorakaW_DariusSkin15](#W技能皮肤神王-德莱厄斯--SorakaW_DariusSkin15)
 * [W技能[皮肤:神王 盖伦] | SorakaW_GarenSkin13](#W技能皮肤神王-盖伦--SorakaW_GarenSkin13)
 * [W技能[皮肤:黎明使者 卡尔玛] | SorakaW_KarmaSkin19](#W技能皮肤黎明使者-卡尔玛--SorakaW_KarmaSkin19)
@@ -220,7 +220,7 @@
   - `F29A0E74`: ***洗礼！***
   - `F8F2DD5A`: ***天堂降临。***
 
-#### W技能 | SorakaW_
+#### W技能 | SorakaW
 - - `50D5DD04`: ***闪耀的赠礼。***
   - `52DB0A30`: ***笃信不疑。***
   - `8F8B1B00`: ***挺住！***
