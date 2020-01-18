@@ -3,12 +3,13 @@
 - Ban
 
 - First Encounter
-
+****
 - Attack Champion
 - Basic Attack
 - Crit
 
 - Kill Champion
+- Multi Kill
 - Death
 - Respawn
 
