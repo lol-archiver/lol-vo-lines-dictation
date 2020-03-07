@@ -1,6 +1,34 @@
 # [99018] Lux:拉克丝 ==> Cosmic Lux:耀星女神 拉克丝
 
 ## Catalog:目录
+* [首次遇到[皮肤:御星魔矢 艾希] | FirstEncounterAsheSkin11](#首次遇到皮肤御星魔矢-艾希--FirstEncounterAsheSkin11)
+* [首次遇到[皮肤:暗星尊 烬] | FirstEncounterJhinSkin05](#首次遇到皮肤暗星尊-烬--FirstEncounterJhinSkin05)
+* [首次遇到[皮肤:暗星 墨菲特] | FirstEncounterMalphiteSkin23](#首次遇到皮肤暗星-墨菲特--FirstEncounterMalphiteSkin23)
+* [首次遇到[皮肤:暗星 莫德凯撒] | FirstEncounterMordekaiserSkin06](#首次遇到皮肤暗星-莫德凯撒--FirstEncounterMordekaiserSkin06)
+* [首次遇到[皮肤:暗星 锤石] | FirstEncounterThreshSkin05](#首次遇到皮肤暗星-锤石--FirstEncounterThreshSkin05)
+* [首次遇到[皮肤:暗星 泽拉斯] | FirstEncounterXerathSkin05](#首次遇到皮肤暗星-泽拉斯--FirstEncounterXerathSkin05)
+* [首次遇到[系列:星界] | FirstEncounterCelestial](#首次遇到系列星界--FirstEncounterCelestial)
+* [首次遇到[系列:暗星] | FirstEncounterDarkStar](#首次遇到系列暗星--FirstEncounterDarkStar)
+* [攻击英雄 | AttackChampion](#攻击英雄--AttackChampion)
+* [击杀英雄 | KillChampion](#击杀英雄--KillChampion)
+* [击杀英雄[系列:星界] | KillChampionCelestial](#击杀英雄系列星界--KillChampionCelestial)
+* [击杀英雄[系列:暗星] | KillChampionDarkStar](#击杀英雄系列暗星--KillChampionDarkStar)
+* [击杀英雄[多杀:五杀] | KillChampionPentakill](#击杀英雄多杀五杀--KillChampionPentakill)
+* [阵亡 | Death](#阵亡--Death)
+* [重生 | Respawn](#重生--Respawn)
+* [首次移动 | FirstMove](#首次移动--FirstMove)
+* [移动 | MoveOrder](#移动--MoveOrder)
+* [长距离移动 | MoveOrderLong](#长距离移动--MoveOrderLong)
+* [回城 | RecallLeadIn](#回城--RecallLeadIn)
+* [玩笑 | Joke](#玩笑--Joke)
+* [玩笑回应 | JokeResponse](#玩笑回应--JokeResponse)
+* [嘲讽 | Taunt](#嘲讽--Taunt)
+* [嘲讽回应 | TauntResponse](#嘲讽回应--TauntResponse)
+* [大笑 | Laugh](#大笑--Laugh)
+* [Q技能 | LuxLightBindingMis_OnHit](#Q技能--LuxLightBindingMis_OnHit)
+* [W技能 | LuxPrismaticWave](#W技能--LuxPrismaticWave)
+* [E技能 | LuxLightStrikeKugel_OnBuffDeactivate](#E技能--LuxLightStrikeKugel_OnBuffDeactivate)
+* [R技能 | LuxMaliceCannon](#R技能--LuxMaliceCannon)
 
 ## Lines:台词
 #### 首次遇到[皮肤:御星魔矢 艾希] | FirstEncounterAsheSkin11
