@@ -54,6 +54,12 @@
 * [R技能 | FiddlesticksR](#R技能--FiddlesticksR)
 
 ## Lines:台词
+#### 选用 | Pick
+- - `00000000`: ***恐惧***
+
+#### 禁用 | Ban
+- - `00000000`: ***畏缩***
+
 #### 初遇[英雄:安妮] | FirstEncounterAnnie
 - - `A524C93D`: ***安妮！救我，安妮！***
 

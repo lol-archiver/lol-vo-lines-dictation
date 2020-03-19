@@ -37,7 +37,7 @@
 * [击杀[多杀:五杀] | KillChampionPentakill](#击杀多杀五杀--KillChampionPentakill)
 * [阵亡 | Death](#阵亡--Death)
 * [重生 | Respawn](#重生--Respawn)
-* [首次移动 | FirstMove](#首次移动--FirstMove)
+* [初次移动 | FirstMove](#初次移动--FirstMove)
 * [移动 | MoveOrder](#移动--MoveOrder)
 * [长距离移动 | MoveOrderLong](#长距离移动--MoveOrderLong)
 * [回城 | RecallLeadin](#回城--RecallLeadin)
@@ -198,7 +198,7 @@
   - `E0EA8324`: ***以前从来没有发生过这种事。***
   - `F6494175`: ***哈，原来这就是失败的感觉。***
 
-#### 首次移动 | FirstMove
+#### 初次移动 | FirstMove
 - - `92F3FF7D`: ***看到了吗？这就是我的最强武器。***
   - `A609207F`: ***艾斯特王国的贾克斯，为你效劳。***
   - `AF03CC63`: ***光荣至极，我正好要试一试我的新铁，呃，新铁甲，阿瓦隆！呃是叫这名字。***

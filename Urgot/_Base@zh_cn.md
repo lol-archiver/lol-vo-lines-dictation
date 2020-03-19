@@ -12,7 +12,7 @@
 * [回城2 | Recall_efforts02](#回城2--Recall_efforts02)
 * [阵亡 | Death](#阵亡--Death)
 * [重生 | Respawn](#重生--Respawn)
-* [首次移动 | FirstMove](#首次移动--FirstMove)
+* [初次移动 | FirstMove](#初次移动--FirstMove)
 * [移动 | MoveOrder](#移动--MoveOrder)
 * [玩笑 | JokeGeneral](#玩笑--JokeGeneral)
 * [玩笑时，回应[英雄:卡尔萨斯] | JokeEndedNearbyKarthus](#玩笑时回应英雄卡尔萨斯--JokeEndedNearbyKarthus)
@@ -221,7 +221,7 @@
   - `80ACCB1E`: ***来自深渊的回声。***
   - `A4812767`: ***祖安，正在呼唤刽子手。***
 
-#### 首次移动 | FirstMove
+#### 初次移动 | FirstMove
 - - `085B0A21`: ***享受最后一刻吧，你的试练即将开始。***
   - `1BD66F50`: ***控制他们很简单，我只需要用手扼住他们的咽喉。***
   - `4660F561`: ***如果他们能明白“沉钩”的真相，我就不用撬开他们的头盖骨硬灌了。***

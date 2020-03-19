@@ -1,11 +1,11 @@
 # [875001] Sett:瑟提 ==> Mecha Kingdoms Sett:王国机神 瑟提
 ## Catalog:目录
-* [首次移动 | FirstMove](#首次移动--FirstMove)
+* [初次移动 | FirstMove](#初次移动--FirstMove)
 * [移动 | MoveOrder](#移动--MoveOrder)
 * [R技能 | SettR](#R技能--SettR)
 
 ## Lines:台词
-#### 首次移动 | FirstMove
+#### 初次移动 | FirstMove
 - - `05141B45`: ***没人有阿瓦隆吗？看来全都得我来干了。
   - `646E3531`: ***一个金属机甲加强版的我，谁会不想买票来看呢。
   - `81D31B46`: ***喔，要是老妈知道我开着这么大一台死亡机甲到处乱晃，肯定会要了我的命。

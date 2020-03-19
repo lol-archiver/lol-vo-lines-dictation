@@ -1,7 +1,7 @@
 # [875000] Sett:瑟提
 
 ## Catalog:目录
-* [选择 | Pick](#选择--Pick)
+* [选用 | Pick](#选用--Pick)
 * [禁用 | Ban](#禁用--Ban)
 * [初遇 | FirstEncounter](#初遇--FirstEncounter)
 * [初遇[地区:比尔吉沃特] | FirstEncounterBilgewater](#初遇地区比尔吉沃特--FirstEncounterBilgewater)
@@ -15,7 +15,7 @@
 * [击杀[多杀:五杀] | PentaKill](#击杀多杀五杀--PentaKill)
 * [阵亡 | Death](#阵亡--Death)
 * [重生 | Respawn](#重生--Respawn)
-* [首次移动 | FirstMove](#首次移动--FirstMove)
+* [初次移动 | FirstMove](#初次移动--FirstMove)
 * [移动 | MoveOrder](#移动--MoveOrder)
 * [长距离移动 | MoveOrderLong](#长距离移动--MoveOrderLong)
 * [回城 | RecallLeadin](#回城--RecallLeadin)
@@ -28,7 +28,7 @@
 * [R技能 | SettR](#R技能--SettR)
 
 ## Lines:台词
-#### 选择 | Pick
+#### 选用 | Pick
 - - `00000000`: ***那必须是我了。***
 
 #### 禁用 | Ban
@@ -152,7 +152,7 @@
   - `B7AC1630`: ***呃，当命运递给你一个柠檬。就恨恨扼住它的喉咙。***
   - `F705F06E`: ***好，我现在热身完毕了。***
 
-#### 首次移动 | FirstMove
+#### 初次移动 | FirstMove
 - - `39BE480E`: ***喂，现场有医生吗？替我的对手问的。***
   - `7BEC541A`: ***五打五？哼，哪位神经病会组织这样的拳赛。***
   - `A6CE8916`: ***哎，我跟你说，没必要让我妈知道这些事，懂吗？***

@@ -14,7 +14,7 @@
 * [回城 | RecallLeadin](#回城--RecallLeadin)
 * [阵亡 | Death](#阵亡--Death)
 * [重生 | Respawn](#重生--Respawn)
-* [首次移动 | FirstMove](#首次移动--FirstMove)
+* [初次移动 | FirstMove](#初次移动--FirstMove)
 * [移动 | MoveOrder](#移动--MoveOrder)
 * [接近[建筑:水晶枢纽] | ApproachNexus](#接近建筑水晶枢纽--ApproachNexus)
 * [玩笑 | JokeGeneral](#玩笑--JokeGeneral)
@@ -158,7 +158,7 @@
   - `F5DE2237`: ***嗨，我认识这个地方。***
   - `F9780A0F`: ***刚才怎么了？又是冰霜巨魔吗？***
 
-#### 首次移动 | FirstMove
+#### 初次移动 | FirstMove
 - - `3A60D515`: ***作为伟大国家的象征，我提议：咋们去痛扁法师吧！***
   - `42830135`: ***我对魔法的耐受度很高。得多来一些才能让我有感觉。***
   - `4350951F`: ***人们真有意思，他们在我脚下走来走去日复一日。***

@@ -20,7 +20,7 @@
 * [击杀英雄[多杀:五杀] | KillChampionPentakill](#击杀英雄多杀五杀--KillChampionPentakill)
 * [阵亡 | Death](#阵亡--Death)
 * [重生 | Respawn](#重生--Respawn)
-* [首次移动 | FirstMove](#首次移动--FirstMove)
+* [初次移动 | FirstMove](#初次移动--FirstMove)
 * [移动 | MoveOrder](#移动--MoveOrder)
 * [长距离移动 | MoveOrderLong](#长距离移动--MoveOrderLong)
 * [回城 | Recall](#回城--Recall)
@@ -137,7 +137,7 @@
   - `69F89211`: ***我的使命尚未完成，我的宿命尚未实现。***
   - `F7735A62`: ***新的一天，新的一夜。***
 
-#### 首次移动 | FirstMove
+#### 初次移动 | FirstMove
 - - `69F79A4D`: ***觉醒吧！希望与秩序。***
   - `ACBAFA2E`: ***我携来光明，烧尽混沌的虚伪。***
   - `AF9FBE77`: ***诸神纷争的风暴已经肆虐了太久，我将是那刺穿乌云的光。***

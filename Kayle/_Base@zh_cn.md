@@ -29,9 +29,9 @@
 * [回城 | Recall](#回城--Recall)
 * [阵亡 | Death](#阵亡--Death)
 * [重生 | Respawn](#重生--Respawn)
-* [首次移动 | FirstMove](#首次移动--FirstMove)
-* [首次移动敌方[英雄:莫甘娜] | FirstMoveEnemyMorgana](#首次移动敌方英雄莫甘娜--FirstMoveEnemyMorgana)
-* [首次移动友方[英雄:莫甘娜] | FirstMoveAllyMorgana](#首次移动友方英雄莫甘娜--FirstMoveAllyMorgana)
+* [初次移动 | FirstMove](#初次移动--FirstMove)
+* [初次移动敌方[英雄:莫甘娜] | FirstMoveEnemyMorgana](#初次移动敌方英雄莫甘娜--FirstMoveEnemyMorgana)
+* [初次移动友方[英雄:莫甘娜] | FirstMoveAllyMorgana](#初次移动友方英雄莫甘娜--FirstMoveAllyMorgana)
 * [移动 | MoveOrder](#移动--MoveOrder)
 * [移动时，回应[英雄:莫甘娜] | MoveOrder01_Chat2](#移动时回应英雄莫甘娜--MoveOrder01_Chat2)
 * [移动时，回应[英雄:莫甘娜] | MoveOrder02_Chat3](#移动时回应英雄莫甘娜--MoveOrder02_Chat3)
@@ -202,19 +202,19 @@
 - - `356DCF35`: ***光明重现。***
   - `C40CA26E`: ***正义不死。***
 
-#### 首次移动 | FirstMove
+#### 初次移动 | FirstMove
 - - `05015B6B`: ***折磨生出苦难，苦难又会加剧折磨。凡间这无穷的循环，将由我来终结。***
   - `27FCB74D`: ***我以天理为凭，踏入这片荒芜，不再受凡人的枷锁遏制。***
   - `A780EC1D`: ***赐我以神力，用烈火铸就一个无上的世界。***
   - `B8EBAD70`: ***我曾望进母亲的眼睛，看到一处充满荣耀与正义的圣地，我正是为此而战。***
   - `C697117E`: ***千万刀锋之力，万丈烈焰之怒，在我心中鼓荡。***
 
-#### 首次移动敌方[英雄:莫甘娜] | FirstMoveEnemyMorgana
+#### 初次移动敌方[英雄:莫甘娜] | FirstMoveEnemyMorgana
 - - `18801912`: ***哼，我又要和自己矫情的妹妹交手了。***
   - `1A9FCA68`: ***莫甘娜来了，这是多么珍贵的机会，让我和自己的阴影作战。***
   - `D58EE10F`: ***我的妹妹来了，就是为了在我眼前再次失败并且堕落。***
 
-#### 首次移动友方[英雄:莫甘娜] | FirstMoveAllyMorgana
+#### 初次移动友方[英雄:莫甘娜] | FirstMoveAllyMorgana
 - - `60F96B07`: ***妹妹，你在帮他们给黑暗找藉口吗？***
 
 #### 移动 | MoveOrder

@@ -16,7 +16,7 @@
 * [击杀英雄[多杀:五杀] | KillChampionPentakill](#击杀英雄多杀五杀--KillChampionPentakill)
 * [阵亡 | Death](#阵亡--Death)
 * [重生 | Respawn](#重生--Respawn)
-* [首次移动 | FirstMove](#首次移动--FirstMove)
+* [初次移动 | FirstMove](#初次移动--FirstMove)
 * [移动 | MoveOrder](#移动--MoveOrder)
 * [长距离移动 | MoveOrderLong](#长距离移动--MoveOrderLong)
 * [回城 | RecallLeadIn](#回城--RecallLeadIn)
@@ -95,7 +95,7 @@
 - - `80CD3328`: ***火星，重燃。***
   - `DA837D50`: ***我虚怀若谷，填满希望，燃着星火。***
 
-#### 首次移动 | FirstMove
+#### 初次移动 | FirstMove
 - - `52D6967E`: ***我心中依然存留着黑暗的碎片，但我不会任它吞噬。***
   - `5E1BEB73`: ***我依然能听到黑暗的低语。当我的光芒让它原形毕露，不外乎谎言与欺骗。***
   - `DE154F00`: ***天界华庭已经被暗星腐蚀。但我依然坚守职责。***

@@ -30,7 +30,7 @@
 * [初遇 | FirstEncounter2DSolari](#初遇--FirstEncounter2DSolari)
 * [初遇[索拉卡] | FirstEncounter2DSoraka](#初遇索拉卡--FirstEncounter2DSoraka)
 * [初遇 | FirstEncounter2DYuumi](#初遇--FirstEncounter2DYuumi)
-* [首次移动 | FirstMove2D](#首次移动--FirstMove2D)
+* [初次移动 | FirstMove2D](#初次移动--FirstMove2D)
 * [玩笑 | Joke3DGeneral](#玩笑--Joke3DGeneral)
 * [玩笑 | Joke3DGeneral_loop](#玩笑--Joke3DGeneral_loop)
 * [击杀英雄[黛安娜] | KillChampion3DDiana](#击杀英雄黛安娜--KillChampion3DDiana)
@@ -223,7 +223,7 @@
 #### 初遇 | FirstEncounter2DYuumi
 - - `B276FA4C`: ***悠米来探望我时，要乖巧的多。它偎依在我脚边，陪我翻着魔典，想象着下雨的感觉。
 
-#### 首次移动 | FirstMove2D
+#### 初次移动 | FirstMove2D
 - - CRC32[0B20D0ED] `6E39DF33`: ***亦步亦趋，同生共X憩。
   - `8F31C626`: ***厄斐琉斯，我能听见你，我知道献出了什么。
   - `90B91138`: ***哥哥，即使相隔着星辰间的帷幕，我依然与你同在。
@@ -341,10 +341,10 @@
 
 # Nightbringer Aphelios
 ## Catalog:目录
-* [首次移动 | FirstMove2D](#首次移动--FirstMove2D)
+* [初次移动 | FirstMove2D](#初次移动--FirstMove2D)
 
 ## Lines:台词
-#### 首次移动 | FirstMove2D
+#### 初次移动 | FirstMove2D
 - - `4FED0157`: ***他们死前，是否会看着你的双眼？依旧称你为恶魔，还是像我一样会看到救世之人的灵光，厄斐琉斯。
   - `DB31F114`: ***我们本该仇恨彼此。但是，我们会让他们看到，天使与恶魔携手并立的强大。
   - `DFD1E104`: ***秩序为光，混沌为影。而月亮，本身就皆有两者，那是一条生路。

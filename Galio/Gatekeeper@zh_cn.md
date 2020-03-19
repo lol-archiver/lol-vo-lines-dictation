@@ -13,7 +13,7 @@
 * [回城 | RecallLeadIn](#回城--RecallLeadIn)
 * [阵亡 | Death](#阵亡--Death)
 * [重生 | Respawn](#重生--Respawn)
-* [首次移动 | FirstMove](#首次移动--FirstMove)
+* [初次移动 | FirstMove](#初次移动--FirstMove)
 * [移动 | MoveOrder](#移动--MoveOrder)
 * [抵达[建筑:商店] | ArriveShop](#抵达建筑商店--ArriveShop)
 * [接近[建筑:水晶枢纽] | ApproachNexus](#接近建筑水晶枢纽--ApproachNexus)
@@ -187,7 +187,7 @@
   - `F878813C`: ***我一定要折磨那个犯事的人。***
   - `FD2F5526`: ***我，回来宣判！***
 
-#### 首次移动 | FirstMove
+#### 初次移动 | FirstMove
 - - `07A9F538`: ***地狱有许多层，花样越多我越喜欢。***
   - `4371EC26`: ***这个世界和十亿恶灵之间的屏障，只有我一个。***
   - `639DF70E`: ***我闻到了罪人，这一定会很好玩。***

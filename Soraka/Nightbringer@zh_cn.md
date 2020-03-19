@@ -20,7 +20,7 @@
 * [击杀英雄[多杀:五杀] | KillChampionPentakill](#击杀英雄多杀五杀--KillChampionPentakill)
 * [阵亡 | Death](#阵亡--Death)
 * [重生 | Respawn](#重生--Respawn)
-* [首次移动 | FirstMove](#首次移动--FirstMove)
+* [初次移动 | FirstMove](#初次移动--FirstMove)
 * [移动 | MoveOrder](#移动--MoveOrder)
 * [长距离移动 | MoveOrderLong](#长距离移动--MoveOrderLong)
 * [回城 | Recall](#回城--Recall)
@@ -137,7 +137,7 @@
   - `D4E4A10D`: ***新的一天，新的一夜。***
   - `D8A25B6F`: ***我的使命尚未完成，我的宿命尚未实现。***
 
-#### 首次移动 | FirstMove
+#### 初次移动 | FirstMove
 - - `330CDE67`: ***诸神纷争的风暴已经肆虐了太久，我将是令雷鸣禁声的夜。***
   - `88767D38`: ***秩序不由分说地压制一切，这幻像将由我来打破。***
   - `C2D6C160`: ***黑夜中，潜藏着无数可能。***

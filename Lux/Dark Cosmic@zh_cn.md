@@ -16,7 +16,7 @@
 * [击杀英雄[多杀:五杀] | KillChampionPentakill](#击杀英雄多杀五杀--KillChampionPentakill)
 * [阵亡 | Death](#阵亡--Death)
 * [重生 | Respawn2D](#重生--Respawn2D)
-* [首次移动 | FirstMove](#首次移动--FirstMove)
+* [初次移动 | FirstMove](#初次移动--FirstMove)
 * [移动 | MoveOrder](#移动--MoveOrder)
 * [长距离移动 | MoveOrderLong](#长距离移动--MoveOrderLong)
 * [回城 | RecallLeadIn](#回城--RecallLeadIn)
@@ -31,31 +31,37 @@
 * [R技能 | LuxMaliceCannon](#R技能--LuxMaliceCannon)
 
 ## Lines:台词
-#### 初遇[皮肤:御星魔矢 艾希] | FirstEncounterAsheSkin11
+#### 初遇[皮肤:御星魔矢-艾希] | FirstEncounterAsheSkin11
 - - `3553F258`: ***虚假的女王，俯首恭迎真正的至尊吧！***
 
-#### 初遇[皮肤:暗星尊 烬] | FirstEncounterJhinSkin05qi
+#### 初遇[皮肤:暗星尊-烬] | FirstEncounterJhinSkin05qi
 - - `D0734505`: ***暗星那凄厉的召唤，你听到了吗？烬。***
 
-#### 初遇[皮肤:暗星 墨菲特] | FirstEncounterMalphiteSkin23
+#### 初遇[皮肤:暗星-墨菲特] | FirstEncounterMalphiteSkin23
 - - `D0D31B06`: ***墨菲特，我赋予你形态。为的是荡平一切阻碍。要么服从，要么毁灭。***
 
-#### 初遇[皮肤:暗星 莫德凯撒] | FirstEncounterMordekaiserSkin06
+#### 初遇[皮肤:暗星-莫德凯撒] | FirstEncounterMordekaiserSkin06
 - - `E2D57424`: ***天界华庭弃你于不顾，莫德凯撒。归来吧，让他们回想起何为恐惧。***
 
-#### 初遇[皮肤:暗星 锤石] | FirstEncounterThreshSkin05
+#### 初遇[皮肤:暗星-锤石] | FirstEncounterThreshSkin05
 - - `E498324C`: ***锤石你只是一名信使，而我才是你要传达的黑暗。***
 
-#### 初遇[皮肤:暗星 泽拉斯] | FirstEncounterXerathSkin05
+#### 初遇[皮肤:暗星-泽拉斯] | FirstEncounterXerathSkin05
 - - `F6EDD746`: ***泽拉斯，你诞生于我的怨念。在女皇面前，叩拜，或是湮灭。***
 
 #### 初遇[系列:星界] | FirstEncounterCelestial
 - - `4A2E2A33`: ***依然在天界华庭的谎言中不能自拔吗，天神？***
 
+#### 击杀[系列:星界] | KillChampionCelestial
+- - `4C29DF4F`: ***你孱弱的光在我的野心面前毫无意义。***
+
 #### 初遇[系列:暗星] | FirstEncounterDarkStar
 - - `F3D9C701`: ***臣服于我，沉沦的人。***
 
-#### 攻击英雄 | AttackChampion
+#### 击杀[系列:暗星] | KillChampionDarkStar
+- - `4642D070`: ***女王在此，跪下。***
+
+#### 攻击[英雄] | AttackChampion
 - - `118E5A6C`: ***无声的空间将你拥入怀中。***
   - `1D32087E`: ***这力量超乎你的理解。***
   - `30977838`: ***没人能听到你的惨叫。***
@@ -73,18 +79,12 @@
   - `DE42A34C`: ***毁灭现实的一切！***
   - `E6656742`: ***在寂静的虚空中饱受苦难吧！***
 
-#### 击杀英雄 | KillChampion
+#### 击杀[英雄] | KillChampion
 - - `1E06EC14`: ***化为空无。***
   - `46FE6F21`: ***啊，灭散之神性。***
   - `C74F9040`: ***凝视深渊，你将欣喜若狂。***
 
-#### 击杀英雄[系列:星界] | KillChampionCelestial
-- - `4C29DF4F`: ***你孱弱的光在我的野心面前毫无意义。***
-
-#### 击杀英雄[系列:暗星] | KillChampionDarkStar
-- - `4642D070`: ***女王在此，跪下。***
-
-#### 击杀英雄[多杀:五杀] | KillChampionPentakill
+#### 击杀[多杀:五杀] | KillChampionPentakill
 - - `0D95AA2B`: ***黑暗魔宫崛起于星辰寂灭后的灰烬。***
   - `6360EE69`: ***黑暗女王所向，万物皆羡慕。***
 
@@ -93,11 +93,11 @@
   - `9F34615F`: *(语气)*
   - `D429F46C`: ***离散，只是暂时的。***
 
-#### 重生 | Respawn2D
+#### 重生 | Respawn
 - - `3611917D`: ***毁灭的化身是不灭的存在。***
   - `6ECEE017`: ***重新聚合。***
 
-#### 首次移动 | FirstMove
+#### 初次移动 | FirstMove
 - - `2394C741`: ***诞生之初便以埋下了黑暗。却被迫带上光明的假面。饥饿的双手撕下虚伪的脸，揭露出一片空无。***
   - `84D98B52`: ***天界华庭那些自以为是的愚者，他们被自己的光蒙蔽了双眼。于此际的黑暗中，我终于能洞察一切。***
   - `BCBABA69`: ***暗星在虚空中横冲直撞，狂放不羁吞食一切。身为其主，我，将统御四方。***
