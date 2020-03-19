@@ -1,6 +1,8 @@
 # [9000] Fiddlesticks:费德提克
 
 ## Catalog:目录
+* [选用 | Pick](#选用--Pick)
+* [禁用 | Ban](#禁用--Ban)
 * [初遇[英雄:安妮] | FirstEncounterAnnie](#初遇英雄安妮--FirstEncounterAnnie)
 * [击杀[英雄:安妮] | KillChampionAnnie](#击杀英雄安妮--KillChampionAnnie)
 * [初遇[英雄:伊芙琳] | FirstEncounterEvelynn](#初遇英雄伊芙琳--FirstEncounterEvelynn)
