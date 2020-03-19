@@ -1,23 +1,23 @@
 # [875001] Jax:贾克斯 ==> Mecha Kingdoms Jax:王国机神 白虎 贾克斯
 ## Catalog:目录
-* [首次遇到[英雄:贾克斯] | FirstEncounterJax](#首次遇到英雄贾克斯--FirstEncounterJax)
-* [首次遇到[皮肤:司马懿 仲达 (阿兹尔)] | FirstEncounterAzirSkin4](#首次遇到皮肤司马懿-仲达-阿兹尔--FirstEncounterAzirSkin4)
-* [首次遇到[皮肤:王国机神 青龙 德莱文] | FirstEncounterDravenSkin13](#首次遇到皮肤王国机神-青龙-德莱文--FirstEncounterDravenSkin13)
-* [首次遇到[皮肤:张辽 文远 (盖伦)] | FirstEncounterGarenSkin11](#首次遇到皮肤张辽-文远-盖伦--FirstEncounterGarenSkin11)
-* [首次遇到[皮肤:王国机神 玄武 盖伦] | FirstEncounterGarenSkin22](#首次遇到皮肤王国机神-玄武-盖伦--FirstEncounterGarenSkin22)
-* [首次遇到[皮肤:吕布 奉先 (嘉文四世)] | FirstEncounterJarvanIVSkin5](#首次遇到皮肤吕布-奉先-嘉文四世--FirstEncounterJarvanIVSkin5)
-* [首次遇到[皮肤:百夫长 贾克斯] | FirstEncounterJaxSkin5](#首次遇到皮肤百夫长-贾克斯--FirstEncounterJaxSkin5)
-* [首次遇到[皮肤:闭月之颜 貂蝉 (卡特琳娜)] | FirstEncounterKatarinaSkin8](#首次遇到皮肤闭月之颜-貂蝉-卡特琳娜--FirstEncounterKatarinaSkin8)
-* [首次遇到[皮肤:王国机神 朱雀 蕾欧娜] | FirstEncounterLeonaSkin12](#首次遇到皮肤王国机神-朱雀-蕾欧娜--FirstEncounterLeonaSkin12)
-* [首次遇到[皮肤:枭姬 孙尚香 (奈德丽)] | FirstEncounterNidaleeSkin7](#首次遇到皮肤枭姬-孙尚香-奈德丽--FirstEncounterNidaleeSkin7)
-* [首次遇到[皮肤:替父从军 花木兰 (锐雯)] | FirstEncounterRivenSkin17](#首次遇到皮肤替父从军-花木兰-锐雯--FirstEncounterRivenSkin17)
-* [首次遇到[皮肤:王国机神 驰狼 瑟提] | FirstEncounterSettSkin1](#首次遇到皮肤王国机神-驰狼-瑟提--FirstEncounterSettSkin1)
-* [首次遇到[皮肤:银龙裁决 泰隆] | FirstEncounterTalonSkin6](#首次遇到皮肤银龙裁决-泰隆--FirstEncounterTalonSkin6)
-* [首次遇到[皮肤:关羽 云长(泰达米尔)] | FirstEncounterTryndamereSkin6](#首次遇到皮肤关羽-云长泰达米尔--FirstEncounterTryndamereSkin6)
-* [首次遇到[皮肤:虎痴之拳 蔚] | FirstEncounterViSkin5](#首次遇到皮肤虎痴之拳-蔚--FirstEncounterViSkin5)
-* [首次遇到[皮肤:赵云 子龙 (赵信)] | FirstEncounterXinZhaoSkin5](#首次遇到皮肤赵云-子龙-赵信--FirstEncounterXinZhaoSkin5)
+* [初遇[英雄:贾克斯] | FirstEncounterJax](#初遇英雄贾克斯--FirstEncounterJax)
+* [初遇[皮肤:司马懿-仲达 (阿兹尔)] | FirstEncounterAzirSkin4](#初遇皮肤司马懿-仲达-阿兹尔--FirstEncounterAzirSkin4)
+* [初遇[皮肤:王国机神 青龙 德莱文] | FirstEncounterDravenSkin13](#初遇皮肤王国机神-青龙-德莱文--FirstEncounterDravenSkin13)
+* [初遇[皮肤:张辽 文远 (盖伦)] | FirstEncounterGarenSkin11](#初遇皮肤张辽-文远-盖伦--FirstEncounterGarenSkin11)
+* [初遇[皮肤:王国机神 玄武 盖伦] | FirstEncounterGarenSkin22](#初遇皮肤王国机神-玄武-盖伦--FirstEncounterGarenSkin22)
+* [初遇[皮肤:吕布 奉先 (嘉文四世)] | FirstEncounterJarvanIVSkin5](#初遇皮肤吕布-奉先-嘉文四世--FirstEncounterJarvanIVSkin5)
+* [初遇[皮肤:百夫长 贾克斯] | FirstEncounterJaxSkin5](#初遇皮肤百夫长-贾克斯--FirstEncounterJaxSkin5)
+* [初遇[皮肤:闭月之颜 貂蝉 (卡特琳娜)] | FirstEncounterKatarinaSkin8](#初遇皮肤闭月之颜-貂蝉-卡特琳娜--FirstEncounterKatarinaSkin8)
+* [初遇[皮肤:王国机神 朱雀 蕾欧娜] | FirstEncounterLeonaSkin12](#初遇皮肤王国机神-朱雀-蕾欧娜--FirstEncounterLeonaSkin12)
+* [初遇[皮肤:枭姬 孙尚香 (奈德丽)] | FirstEncounterNidaleeSkin7](#初遇皮肤枭姬-孙尚香-奈德丽--FirstEncounterNidaleeSkin7)
+* [初遇[皮肤:替父从军 花木兰 (锐雯)] | FirstEncounterRivenSkin17](#初遇皮肤替父从军-花木兰-锐雯--FirstEncounterRivenSkin17)
+* [初遇[皮肤:王国机神 驰狼 瑟提] | FirstEncounterSettSkin1](#初遇皮肤王国机神-驰狼-瑟提--FirstEncounterSettSkin1)
+* [初遇[皮肤:银龙裁决 泰隆] | FirstEncounterTalonSkin6](#初遇皮肤银龙裁决-泰隆--FirstEncounterTalonSkin6)
+* [初遇[皮肤:关羽 云长(泰达米尔)] | FirstEncounterTryndamereSkin6](#初遇皮肤关羽-云长泰达米尔--FirstEncounterTryndamereSkin6)
+* [初遇[皮肤:虎痴之拳 蔚] | FirstEncounterViSkin5](#初遇皮肤虎痴之拳-蔚--FirstEncounterViSkin5)
+* [初遇[皮肤:赵云 子龙 (赵信)] | FirstEncounterXinZhaoSkin5](#初遇皮肤赵云-子龙-赵信--FirstEncounterXinZhaoSkin5)
 * [攻击英雄 | AttackChampion](#攻击英雄--AttackChampion)
-* [普通攻击 | JaxBasicAttack/JaxBasicAttack2/JaxBasicAttack3](#普通攻击--JaxBasicAttackJaxBasicAttack2JaxBasicAttack3)
+* [攻击 | JaxBasicAttack/JaxBasicAttack2/JaxBasicAttack3](#攻击--JaxBasicAttackJaxBasicAttack2JaxBasicAttack3)
 * [击杀英雄 | KillChampion](#击杀英雄--KillChampion)
 * [击杀[英雄:贾克斯] | KillChampionJax](#击杀英雄贾克斯--KillChampionJax)
 * [击杀[皮肤:司马懿 仲达 (阿兹尔)] | KillChampionAzirSkin4](#击杀皮肤司马懿-仲达-阿兹尔--KillChampionAzirSkin4)
@@ -51,52 +51,52 @@
 * [R技能 | JaxRelentlessAssault](#R技能--JaxRelentlessAssault)
 
 ## Lines:台词
-#### 首次遇到[英雄:贾克斯] | FirstEncounterJax
+#### 初遇[英雄:贾克斯] | FirstEncounterJax
 - - `28C1653A`: ***这位先生，你看起来又高又帅，跟我打一架吧！***
 
-#### 首次遇到[皮肤:司马懿 仲达 (阿兹尔)] | FirstEncounterAzirSkin4
+#### 初遇[皮肤:司马懿 仲达 (阿兹尔)] | FirstEncounterAzirSkin4
 - - `63E32E59`: ***你还要让多少士兵的怨魂挡在你身前？阿兹尔。***
 
-#### 首次遇到[皮肤:王国机神 青龙 德莱文] | FirstEncounterDravenSkin13
+#### 初遇[皮肤:王国机神 青龙 德莱文] | FirstEncounterDravenSkin13
 - - `9FE60060`: ***旋转飞斧，粗鲁的野蛮人。唔，你叫什么来着？***
 
-#### 首次遇到[皮肤:张辽 文远 (盖伦)] | FirstEncounterGarenSkin11
+#### 初遇[皮肤:张辽 文远 (盖伦)] | FirstEncounterGarenSkin11
 - - `C06D3D01`: ***盖伦，不是肩膀够大就是个好战士。***
 
-#### 首次遇到[皮肤:王国机神 玄武 盖伦] | FirstEncounterGarenSkin22
+#### 初遇[皮肤:王国机神 玄武 盖伦] | FirstEncounterGarenSkin22
 - - `D479351C`: ***盖伦，维森提亚的军阀，你偷穿这么大的肩甲，你老妈知道吗？***
 
-#### 首次遇到[皮肤:吕布 奉先 (嘉文四世)] | FirstEncounterJarvanIVSkin5
+#### 初遇[皮肤:吕布 奉先 (嘉文四世)] | FirstEncounterJarvanIVSkin5
 - - `E6DF0C6A`: ***嘉文，只要你还活着，我就会穷追不舍。***
 
-#### 首次遇到[皮肤:百夫长 贾克斯] | FirstEncounterJaxSkin5
+#### 初遇[皮肤:百夫长 贾克斯] | FirstEncounterJaxSkin5
 - - `959A9852`: ***孩子，你是真正的战士。***
 
-#### 首次遇到[皮肤:闭月之颜 貂蝉 (卡特琳娜)] | FirstEncounterKatarinaSkin8
+#### 初遇[皮肤:闭月之颜 貂蝉 (卡特琳娜)] | FirstEncounterKatarinaSkin8
 - - `C5047736`: ***卡特琳娜，又一个小公主变成了刺客。你这样的，我都解决了不知多少个了。***
 
-#### 首次遇到[皮肤:王国机神 朱雀 蕾欧娜] | FirstEncounterLeonaSkin12
+#### 初遇[皮肤:王国机神 朱雀 蕾欧娜] | FirstEncounterLeonaSkin12
 - - `7BDEEC3B`: ***蕾欧娜，拂晓王国的女王。我期待在战斗中击败你。***
 
-#### 首次遇到[皮肤:枭姬 孙尚香 (奈德丽)] | FirstEncounterNidaleeSkin7
+#### 初遇[皮肤:枭姬 孙尚香 (奈德丽)] | FirstEncounterNidaleeSkin7
 - - `3F7F615D`: ***奈德丽，白虎之灵。与你交手是我的荣幸。***
 
-#### 首次遇到[皮肤:替父从军 花木兰 (锐雯)] | FirstEncounterRivenSkin17
+#### 初遇[皮肤:替父从军 花木兰 (锐雯)] | FirstEncounterRivenSkin17
 - - `136D546B`: ***锐雯，我倒要看看。龙炎是不是真的听你号令。***
 
-#### 首次遇到[皮肤:王国机神 驰狼 瑟提] | FirstEncounterSettSkin1
+#### 初遇[皮肤:王国机神 驰狼 瑟提] | FirstEncounterSettSkin1
 - - `A5D90960`: ***瑟提，这可不是你熟悉的街头斗殴。我是真的会打人的。***
 
-#### 首次遇到[皮肤:银龙裁决 泰隆] | FirstEncounterTalonSkin6
+#### 初遇[皮肤:银龙裁决 泰隆] | FirstEncounterTalonSkin6
 - - `E1299317`: ***让我看看暗影的力量吧，泰隆。***
 
-#### 首次遇到[皮肤:关羽 云长(泰达米尔)] | FirstEncounterTryndamereSkin6
+#### 初遇[皮肤:关羽 云长(泰达米尔)] | FirstEncounterTryndamereSkin6
 - - `0070A323`: ***他们说你是战神，泰达米尔。请允许我挑战这个头衔。***
 
-#### 首次遇到[皮肤:虎痴之拳 蔚] | FirstEncounterViSkin5
+#### 初遇[皮肤:虎痴之拳 蔚] | FirstEncounterViSkin5
 - - `F8ABB13A`: ***蔚，你的玉石拳头很漂亮。但打起架来，真的好用吗？***
 
-#### 首次遇到[皮肤:赵云 子龙 (赵信)] | FirstEncounterXinZhaoSkin5
+#### 初遇[皮肤:赵云 子龙 (赵信)] | FirstEncounterXinZhaoSkin5
 - - `5555982F`: ***我听过你的传说，赵信。让我看看所谓的虎将有多厉害吧！***
 
 #### 攻击英雄 | AttackChampion
@@ -123,7 +123,7 @@
   - `CDAB7804`: ***没想到吧！我就没走！***
   - `D8A83979`: ***来和我的大个朋友打个招呼。***
 
-#### 普通攻击 | JaxBasicAttack/JaxBasicAttack2/JaxBasicAttack3
+#### 攻击 | JaxBasicAttack/JaxBasicAttack2/JaxBasicAttack3
 - - `1158BE03`: *(语气)*
   - `7912E149`: *(语气)*
   - `B773042F`: *(语气)*

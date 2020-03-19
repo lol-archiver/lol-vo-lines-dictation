@@ -3,13 +3,13 @@
 ## Catalog:目录
 * [选择 | Pick](#选择--Pick)
 * [禁用 | Ban](#禁用--Ban)
-* [首次遇到 | FirstEncounter](#首次遇到--FirstEncounter)
-* [首次遇到[地区:比尔吉沃特] | FirstEncounterBilgewater](#首次遇到地区比尔吉沃特--FirstEncounterBilgewater)
-* [首次遇到[地区:诺克萨斯] | FirstEncounterNoxians](#首次遇到地区诺克萨斯--FirstEncounterNoxians)
-* [首次遇到[种族:瓦斯塔亚] | FirstEncounterVastaya](#首次遇到种族瓦斯塔亚--FirstEncounterVastaya)
+* [初遇 | FirstEncounter](#初遇--FirstEncounter)
+* [初遇[地区:比尔吉沃特] | FirstEncounterBilgewater](#初遇地区比尔吉沃特--FirstEncounterBilgewater)
+* [初遇[地区:诺克萨斯] | FirstEncounterNoxians](#初遇地区诺克萨斯--FirstEncounterNoxians)
+* [初遇[种族:瓦斯塔亚] | FirstEncounterVastaya](#初遇种族瓦斯塔亚--FirstEncounterVastaya)
 * [攻击英雄 | AttackChampion](#攻击英雄--AttackChampion)
-* [普通攻击1，3、Q技能攻击1 | SettBasicAttack/SettBasicAttack3/SettQAttack](#普通攻击13Q技能攻击1--SettBasicAttackSettBasicAttack3SettQAttack)
-* [普通攻击2，4 | SettBasicAttack2/SettBasicAttack4](#普通攻击24--SettBasicAttack2SettBasicAttack4)
+* [攻击1，3、Q技能攻击1 | SettBasicAttack/SettBasicAttack3/SettQAttack](#攻击13Q技能攻击1--SettBasicAttackSettBasicAttack3SettQAttack)
+* [攻击2，4 | SettBasicAttack2/SettBasicAttack4](#攻击24--SettBasicAttack2SettBasicAttack4)
 * [Q技能攻击2 | SettQAttack2](#Q技能攻击2--SettQAttack2)
 * [击杀英雄 | KillChampion](#击杀英雄--KillChampion)
 * [击杀[多杀:五杀] | PentaKill](#击杀多杀五杀--PentaKill)
@@ -34,7 +34,7 @@
 #### 禁用 | Ban
 - - `00000000`: ***行吧，打不赢的架，就别打了。***
 
-#### 首次遇到 | FirstEncounter
+#### 初遇 | FirstEncounter
 - - `0C647068`: ***要上位，就得把上位的人先打趴。可我看不出你有这个本事。***
   - `0C83243B`: ***瞧瞧那张脸，哭着喊着在说：“来打我呀！”***
   - `2308085C`: ***哼，就这？我怎么输啊？***
@@ -46,16 +46,16 @@
   - `A7B32838`: ***要是你在梦里打过我，你最好现在就醒醒，给我道歉。***
   - `D7157F67`: ***你要是够聪明，就应学学我老爸，他跑了。***
 
-#### 首次遇到[地区:比尔吉沃特] | FirstEncounterBilgewater
+#### 初遇[地区:比尔吉沃特] | FirstEncounterBilgewater
 - - `CFCEEA36`: ***臭水沟的耗子，你见过我老爸吗？他就像你一样混蛋。***
 
-#### 首次遇到[地区:诺克萨斯] | FirstEncounterNoxians
+#### 初遇[地区:诺克萨斯] | FirstEncounterNoxians
 - - `05A56A3D`: ***搏击场是你们诺克萨斯人发明的。但是多亏了我，它才变得这么完美***
   - `407A9721`: ***诺克萨斯，你知道规矩。我们井水不犯河水。***
   - `48A66B4F`: ***你们诺克萨斯人也不全是坏人。当然也不都是好人。***
   - `8318DF02`: ***嚯，你是诺克萨斯人。就像我老爸，我尽量不针对你吧。***
 
-#### 首次遇到[种族:瓦斯塔亚] | FirstEncounterVastaya
+#### 初遇[种族:瓦斯塔亚] | FirstEncounterVastaya
 - - `3BCADA4F`: ***瞧瞧，纯种的瓦斯塔亚。你觉得我配不上你们，是吗？***
   - `A4E1187A`: ***你很快就会见到我的人性，态度可就不像现在这么好了。***
   - `EE93485D`: ***我之所以还没有踩烂你，就是因为我老妈，也是瓦斯塔亚人。***
@@ -95,14 +95,14 @@
   - `E79D8F0A`: ***随便打！***
   - `FCF0F523`: ***你现在我的场子里了。***
 
-#### 普通攻击1，3、Q技能攻击1 | SettBasicAttack/SettBasicAttack3/SettQAttack
+#### 攻击1，3、Q技能攻击1 | SettBasicAttack/SettBasicAttack3/SettQAttack
 - - `34A36729`: *(语气)*
   - `523BB522`: *(语气)*
   - `64D90912`: *(语气)*
   - `69A3FE31`: *(语气)*
   - `91DE8B2D`: *(语气)*
 
-#### 普通攻击2，4 | SettBasicAttack2/SettBasicAttack4
+#### 攻击2，4 | SettBasicAttack2/SettBasicAttack4
 - - `132DD934`: *(语气)*
   - `225C800E`: *(语气)*
   - `509BF50C`: *(语气)*

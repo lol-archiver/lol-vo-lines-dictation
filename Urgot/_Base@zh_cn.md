@@ -2,7 +2,7 @@
 
 ## Catalog:目录
 * [攻击英雄 | AttackChampion](#攻击英雄--AttackChampion)
-* [普通攻击 | UrgotBasicAttack](#普通攻击--UrgotBasicAttack)
+* [攻击 | UrgotBasicAttack](#攻击--UrgotBasicAttack)
 * [击杀英雄 | KillChampion](#击杀英雄--KillChampion)
 * [击杀[地区:诺克萨斯] | KillChampionNoxus](#击杀地区诺克萨斯--KillChampionNoxus)
 * [击杀[地区:祖安] | KillChampionZaun](#击杀地区祖安--KillChampionZaun)
@@ -175,7 +175,7 @@
   - `D56B8D43`: ***你，将了解恐惧。***
   - `FB60D706`: ***祖安，睁眼见证吧！***
 
-#### 普通攻击 | UrgotBasicAttack
+#### 攻击 | UrgotBasicAttack
 - - `3496F431`: *(语气)*
   - `3BE1B12D`: *(语气)*
   - `3FE37D6C`: *(语气)*

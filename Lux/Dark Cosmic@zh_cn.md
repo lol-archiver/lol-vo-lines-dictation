@@ -1,14 +1,14 @@
 # [99017] Lux:拉克丝 ==> Dark Cosmic Lux:暗星女王 拉克丝
 
 ## Catalog:目录
-* [首次遇到[皮肤:御星魔矢 艾希] | FirstEncounterAsheSkin11](#首次遇到皮肤御星魔矢-艾希--FirstEncounterAsheSkin11)
-* [首次遇到[皮肤:暗星尊 烬] | FirstEncounterJhinSkin05](#首次遇到皮肤暗星尊-烬--FirstEncounterJhinSkin05)
-* [首次遇到[皮肤:暗星 墨菲特] | FirstEncounterMalphiteSkin23](#首次遇到皮肤暗星-墨菲特--FirstEncounterMalphiteSkin23)
-* [首次遇到[皮肤:暗星 莫德凯撒] | FirstEncounterMordekaiserSkin06](#首次遇到皮肤暗星-莫德凯撒--FirstEncounterMordekaiserSkin06)
-* [首次遇到[皮肤:暗星 锤石] | FirstEncounterThreshSkin05](#首次遇到皮肤暗星-锤石--FirstEncounterThreshSkin05)
-* [首次遇到[皮肤:暗星 泽拉斯] | FirstEncounterXerathSkin05](#首次遇到皮肤暗星-泽拉斯--FirstEncounterXerathSkin05)
-* [首次遇到[系列:星界] | FirstEncounterCelestial](#首次遇到系列星界--FirstEncounterCelestial)
-* [首次遇到[系列:暗星] | FirstEncounterDarkStar](#首次遇到系列暗星--FirstEncounterDarkStar)
+* [初遇[皮肤:御星魔矢 艾希] | FirstEncounterAsheSkin11](#初遇皮肤御星魔矢-艾希--FirstEncounterAsheSkin11)
+* [初遇[皮肤:暗星尊 烬] | FirstEncounterJhinSkin05](#初遇皮肤暗星尊-烬--FirstEncounterJhinSkin05)
+* [初遇[皮肤:暗星 墨菲特] | FirstEncounterMalphiteSkin23](#初遇皮肤暗星-墨菲特--FirstEncounterMalphiteSkin23)
+* [初遇[皮肤:暗星 莫德凯撒] | FirstEncounterMordekaiserSkin06](#初遇皮肤暗星-莫德凯撒--FirstEncounterMordekaiserSkin06)
+* [初遇[皮肤:暗星 锤石] | FirstEncounterThreshSkin05](#初遇皮肤暗星-锤石--FirstEncounterThreshSkin05)
+* [初遇[皮肤:暗星 泽拉斯] | FirstEncounterXerathSkin05](#初遇皮肤暗星-泽拉斯--FirstEncounterXerathSkin05)
+* [初遇[系列:星界] | FirstEncounterCelestial](#初遇系列星界--FirstEncounterCelestial)
+* [初遇[系列:暗星] | FirstEncounterDarkStar](#初遇系列暗星--FirstEncounterDarkStar)
 * [攻击英雄 | AttackChampion](#攻击英雄--AttackChampion)
 * [击杀英雄 | KillChampion](#击杀英雄--KillChampion)
 * [击杀英雄[系列:星界] | KillChampionCelestial](#击杀英雄系列星界--KillChampionCelestial)
@@ -31,28 +31,28 @@
 * [R技能 | LuxMaliceCannon](#R技能--LuxMaliceCannon)
 
 ## Lines:台词
-#### 首次遇到[皮肤:御星魔矢 艾希] | FirstEncounterAsheSkin11
+#### 初遇[皮肤:御星魔矢 艾希] | FirstEncounterAsheSkin11
 - - `3553F258`: ***虚假的女王，俯首恭迎真正的至尊吧！***
 
-#### 首次遇到[皮肤:暗星尊 烬] | FirstEncounterJhinSkin05qi
+#### 初遇[皮肤:暗星尊 烬] | FirstEncounterJhinSkin05qi
 - - `D0734505`: ***暗星那凄厉的召唤，你听到了吗？烬。***
 
-#### 首次遇到[皮肤:暗星 墨菲特] | FirstEncounterMalphiteSkin23
+#### 初遇[皮肤:暗星 墨菲特] | FirstEncounterMalphiteSkin23
 - - `D0D31B06`: ***墨菲特，我赋予你形态。为的是荡平一切阻碍。要么服从，要么毁灭。***
 
-#### 首次遇到[皮肤:暗星 莫德凯撒] | FirstEncounterMordekaiserSkin06
+#### 初遇[皮肤:暗星 莫德凯撒] | FirstEncounterMordekaiserSkin06
 - - `E2D57424`: ***天界华庭弃你于不顾，莫德凯撒。归来吧，让他们回想起何为恐惧。***
 
-#### 首次遇到[皮肤:暗星 锤石] | FirstEncounterThreshSkin05
+#### 初遇[皮肤:暗星 锤石] | FirstEncounterThreshSkin05
 - - `E498324C`: ***锤石你只是一名信使，而我才是你要传达的黑暗。***
 
-#### 首次遇到[皮肤:暗星 泽拉斯] | FirstEncounterXerathSkin05
+#### 初遇[皮肤:暗星 泽拉斯] | FirstEncounterXerathSkin05
 - - `F6EDD746`: ***泽拉斯，你诞生于我的怨念。在女皇面前，叩拜，或是湮灭。***
 
-#### 首次遇到[系列:星界] | FirstEncounterCelestial
+#### 初遇[系列:星界] | FirstEncounterCelestial
 - - `4A2E2A33`: ***依然在天界华庭的谎言中不能自拔吗，天神？***
 
-#### 首次遇到[系列:暗星] | FirstEncounterDarkStar
+#### 初遇[系列:暗星] | FirstEncounterDarkStar
 - - `F3D9C701`: ***臣服于我，沉沦的人。***
 
 #### 攻击英雄 | AttackChampion

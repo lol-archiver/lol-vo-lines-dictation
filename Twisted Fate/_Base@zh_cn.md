@@ -2,7 +2,7 @@
 
 ## Catalog:目录
 * [攻击英雄 | AttackChampion](#攻击英雄--AttackChampion)
-* [普通攻击1-4、暴击 | TwistedFateBasicAttack/TwistedFateBasicAttack2/TwistedFateBasicAttack3/TwistedFateBasicAttack4/TwistedFateCritAttack](#普通攻击1-4暴击--TwistedFateBasicAttackTwistedFateBasicAttack2TwistedFateBasicAttack3TwistedFateBasicAttack4TwistedFateCritAttack)
+* [攻击1-4、暴击 | TwistedFateBasicAttack/TwistedFateBasicAttack2/TwistedFateBasicAttack3/TwistedFateBasicAttack4/TwistedFateCritAttack](#攻击1-4暴击--TwistedFateBasicAttackTwistedFateBasicAttack2TwistedFateBasicAttack3TwistedFateBasicAttack4TwistedFateCritAttack)
 * [阵亡 | Death](#阵亡--Death)
 * [移动 | MoveOrder](#移动--MoveOrder)
 * [眩晕[英雄:格雷福斯] | InteractiveInteractiveChampionSpecific1](#眩晕英雄格雷福斯--InteractiveInteractiveChampionSpecific1)
@@ -29,7 +29,7 @@
   - `7FE2F433`: ***别碰我的帽子。***
   - `94EB812C`: ***我有这个。***
 
-#### 普通攻击1-4、暴击 | TwistedFateBasicAttack/TwistedFateBasicAttack2/TwistedFateBasicAttack3/TwistedFateBasicAttack4/TwistedFateCritAttack
+#### 攻击1-4、暴击 | TwistedFateBasicAttack/TwistedFateBasicAttack2/TwistedFateBasicAttack3/TwistedFateBasicAttack4/TwistedFateCritAttack
 - - `07D05C98`: *(语气)*
   - `09B71174`: *(语气)*
   - `09BA253A`: *(语气)*

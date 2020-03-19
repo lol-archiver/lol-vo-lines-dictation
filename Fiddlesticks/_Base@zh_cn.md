@@ -1,46 +1,45 @@
 # [9000] Fiddlesticks:费德提克
 
 ## Catalog:目录
-* [首次遇到[安妮] | FirstEncounterAnnie](#首次遇到安妮--FirstEncounterAnnie)
-* [首次遇到[伊芙琳] | FirstEncounterEvelynn](#首次遇到伊芙琳--FirstEncounterEvelynn)
-* [首次遇到[盖伦] | FirstEncounterGaren](#首次遇到盖伦--FirstEncounterGaren)
-* [首次遇到[金克斯] | FirstEncounterJinx](#首次遇到金克斯--FirstEncounterJinx)
-* [首次遇到[千珏] | FirstEncounterKindred](#首次遇到千珏--FirstEncounterKindred)
-* [首次遇到[拉克丝] | FirstEncounterLux](#首次遇到拉克丝--FirstEncounterLux)
-* [首次遇到[厄运小姐] | FirstEncounterMissFortune](#首次遇到厄运小姐--FirstEncounterMissFortune)
-* [首次遇到[魔腾] | FirstEncounterNocturne](#首次遇到魔腾--FirstEncounterNocturne)
-* [首次遇到[努努与威朗普] | FirstEncounterNunu](#首次遇到努努与威朗普--FirstEncounterNunu)
-* [首次遇到[锐雯] | FirstEncounterRiven](#首次遇到锐雯--FirstEncounterRiven)
-* [首次遇到[索拉卡] | FirstEncounterSoraka](#首次遇到索拉卡--FirstEncounterSoraka)
-* [首次遇到[斯维因] | FirstEncounterSwain](#首次遇到斯维因--FirstEncounterSwain)
-* [首次遇到[塞拉斯] | FirstEncounterSylas](#首次遇到塞拉斯--FirstEncounterSylas)
-* [首次遇到[塔姆·肯奇] | FirstEncounterTahmKench](#首次遇到塔姆肯奇--FirstEncounterTahmKench)
-* [首次遇到[薇恩] | FirstEncounterVayne](#首次遇到薇恩--FirstEncounterVayne)
-* [首次遇到[亚索] | FirstEncounterYasuo](#首次遇到亚索--FirstEncounterYasuo)
-* [首次遇到[地区:德玛西亚] | FirstEncounterDemacia](#首次遇到地区德玛西亚--FirstEncounterDemacia)
-* [攻击英雄 | AttackChampion](#攻击英雄--AttackChampion)
-* [普通攻击、暴击 | FiddlesticksCritAttack/FiddlesticksBasicAttack2/FiddlesticksCritAttack](#普通攻击暴击--FiddlesticksCritAttackFiddlesticksBasicAttack2FiddlesticksCritAttack)
-* [击杀英雄 | KillChampion](#击杀英雄--KillChampion)
-* [击杀英雄[安妮] | KillChampionAnnie](#击杀英雄安妮--KillChampionAnnie)
-* [击杀英雄[伊芙琳] | KillChampionEvelynn](#击杀英雄伊芙琳--KillChampionEvelynn)
-* [击杀英雄[盖伦] | KillChampionGaren](#击杀英雄盖伦--KillChampionGaren)
-* [击杀英雄[金克斯] | KillChampionJinx](#击杀英雄金克斯--KillChampionJinx)
-* [击杀英雄[千珏] | KillChampionKindred](#击杀英雄千珏--KillChampionKindred)
-* [击杀英雄[拉克丝] | KillChampionLux](#击杀英雄拉克丝--KillChampionLux)
-* [击杀英雄[厄运小姐] | KillChampionMissFortune](#击杀英雄厄运小姐--KillChampionMissFortune)
-* [击杀英雄[魔腾] | KillChampionNocturne](#击杀英雄魔腾--KillChampionNocturne)
-* [击杀英雄[努努与威朗普] | KillChampionNunu](#击杀英雄努努与威朗普--KillChampionNunu)
-* [击杀英雄[锐雯] | KillChampionRiven](#击杀英雄锐雯--KillChampionRiven)
-* [击杀英雄[索拉卡] | KillChampionSoraka](#击杀英雄索拉卡--KillChampionSoraka)
-* [击杀英雄[斯维因] | KillChampionSwain](#击杀英雄斯维因--KillChampionSwain)
-* [击杀英雄[塞拉斯] | KillChampionSylas](#击杀英雄塞拉斯--KillChampionSylas)
-* [击杀英雄[塔姆·肯奇] | KillChampionTahmKench](#击杀英雄塔姆肯奇--KillChampionTahmKench)
-* [击杀英雄[薇恩] | KillChampionVayne](#击杀英雄薇恩--KillChampionVayne)
-* [击杀英雄[亚索] | KillChampionYasuo](#击杀英雄亚索--KillChampionYasuo)
-* [击杀英雄[五杀] | KillChampionPentakill](#击杀英雄五杀--KillChampionPentakill)
+* [初遇[英雄:安妮] | FirstEncounterAnnie](#初遇英雄安妮--FirstEncounterAnnie)
+* [击杀[英雄:安妮] | KillChampionAnnie](#击杀英雄安妮--KillChampionAnnie)
+* [初遇[英雄:伊芙琳] | FirstEncounterEvelynn](#初遇英雄伊芙琳--FirstEncounterEvelynn)
+* [击杀[英雄:伊芙琳] | KillChampionEvelynn](#击杀英雄伊芙琳--KillChampionEvelynn)
+* [初遇[英雄:盖伦] | FirstEncounterGaren](#初遇英雄盖伦--FirstEncounterGaren)
+* [击杀[英雄:盖伦] | KillChampionGaren](#击杀英雄盖伦--KillChampionGaren)
+* [初遇[英雄:金克斯] | FirstEncounterJinx](#初遇英雄金克斯--FirstEncounterJinx)
+* [击杀[英雄:金克斯] | KillChampionJinx](#击杀英雄金克斯--KillChampionJinx)
+* [初遇[英雄:千珏] | FirstEncounterKindred](#初遇英雄千珏--FirstEncounterKindred)
+* [击杀[英雄:千珏] | KillChampionKindred](#击杀英雄千珏--KillChampionKindred)
+* [初遇[英雄:拉克丝] | FirstEncounterLux](#初遇英雄拉克丝--FirstEncounterLux)
+* [击杀[英雄:拉克丝] | KillChampionLux](#击杀英雄拉克丝--KillChampionLux)
+* [初遇[英雄:厄运小姐] | FirstEncounterMissFortune](#初遇英雄厄运小姐--FirstEncounterMissFortune)
+* [击杀[英雄:厄运小姐] | KillChampionMissFortune](#击杀英雄厄运小姐--KillChampionMissFortune)
+* [初遇[英雄:魔腾] | FirstEncounterNocturne](#初遇英雄魔腾--FirstEncounterNocturne)
+* [击杀[英雄:魔腾] | KillChampionNocturne](#击杀英雄魔腾--KillChampionNocturne)
+* [初遇[英雄:努努与威朗普] | FirstEncounterNunu](#初遇英雄努努与威朗普--FirstEncounterNunu)
+* [击杀[英雄:努努与威朗普] | KillChampionNunu](#击杀英雄努努与威朗普--KillChampionNunu)
+* [初遇[英雄:锐雯] | FirstEncounterRiven](#初遇英雄锐雯--FirstEncounterRiven)
+* [击杀[英雄:锐雯] | KillChampionRiven](#击杀英雄锐雯--KillChampionRiven)
+* [初遇[英雄:索拉卡] | FirstEncounterSoraka](#初遇英雄索拉卡--FirstEncounterSoraka)
+* [击杀[英雄:索拉卡] | KillChampionSoraka](#击杀英雄索拉卡--KillChampionSoraka)
+* [初遇[英雄:斯维因] | FirstEncounterSwain](#初遇英雄斯维因--FirstEncounterSwain)
+* [击杀[英雄:斯维因] | KillChampionSwain](#击杀英雄斯维因--KillChampionSwain)
+* [初遇[英雄:塞拉斯] | FirstEncounterSylas](#初遇英雄塞拉斯--FirstEncounterSylas)
+* [击杀[英雄:塞拉斯] | KillChampionSylas](#击杀英雄塞拉斯--KillChampionSylas)
+* [初遇[英雄:塔姆·肯奇] | FirstEncounterTahmKench](#初遇英雄塔姆肯奇--FirstEncounterTahmKench)
+* [击杀[英雄:塔姆·肯奇] | KillChampionTahmKench](#击杀英雄塔姆肯奇--KillChampionTahmKench)
+* [初遇[英雄:薇恩] | FirstEncounterVayne](#初遇英雄薇恩--FirstEncounterVayne)
+* [击杀[英雄:薇恩] | KillChampionVayne](#击杀英雄薇恩--KillChampionVayne)
+* [初遇[英雄:亚索] | FirstEncounterYasuo](#初遇英雄亚索--FirstEncounterYasuo)
+* [击杀[英雄:亚索] | KillChampionYasuo](#击杀英雄亚索--KillChampionYasuo)
+* [初遇[地区:德玛西亚] | FirstEncounterDemacia](#初遇地区德玛西亚--FirstEncounterDemacia)
+* [攻击[英雄] | AttackChampion](#攻击英雄--AttackChampion)
+* [击杀[英雄] | KillChampion](#击杀英雄--KillChampion)
+* [击杀[多杀:五杀] | KillChampionPentakill](#击杀多杀五杀--KillChampionPentakill)
 * [阵亡 | Death](#阵亡--Death)
 * [重生 | Respawn](#重生--Respawn)
-* [首次移动 | FirstMove](#首次移动--FirstMove)
+* [初次移动 | FirstMove](#初次移动--FirstMove)
 * [移动 | MoveOrder](#移动--MoveOrder)
 * [长距离移动 | MoveOrderLong](#长距离移动--MoveOrderLong)
 * [回城 | RecallLeadIn](#回城--RecallLeadIn)
@@ -49,63 +48,112 @@
 * [嘲讽 | Taunt](#嘲讽--Taunt)
 * [嘲讽回应 | TauntResponse](#嘲讽回应--TauntResponse)
 * [大笑 | Laugh](#大笑--Laugh)
+* [攻击、暴击 | FiddlesticksCritAttack/FiddlesticksCritAttack](#攻击暴击--FiddlesticksCritAttackFiddlesticksCritAttack)
 * [P被动 | FiddlesticksScarecrowEffigy](#P被动--FiddlesticksScarecrowEffigy)
 * [E技能 | FiddlesticksE](#E技能--FiddlesticksE)
 * [R技能 | FiddlesticksR](#R技能--FiddlesticksR)
 
 ## Lines:台词
-#### 首次遇到[安妮] | FirstEncounterAnnie
+#### 初遇[英雄:安妮] | FirstEncounterAnnie
 - - `A524C93D`: ***安妮！救我，安妮！***
 
-#### 首次遇到[伊芙琳] | FirstEncounterEvelynn
+#### 击杀[英雄:安妮] | KillChampionAnnie
+- - `7C2E0F7C`: ***安妮，别放手***
+
+#### 初遇[英雄:伊芙琳] | FirstEncounterEvelynn
 - - `5F586F37`: ***伊芙琳***
 
-#### 首次遇到[盖伦] | FirstEncounterGaren
+#### 击杀[英雄:伊芙琳] | KillChampionEvelynn
+- - `F770FD79`: ***剧痛***
+
+#### 初遇[英雄:盖伦] | FirstEncounterGaren
 - - `E35CDB3B`: ***盖伦，好兄弟，请不要恨我***
 
-#### 首次遇到[金克斯] | FirstEncounterJinx
+#### 击杀[英雄:盖伦] | KillChampionGaren
+- - `69CDF82F`: ***为了，德玛西亚***
+
+#### 初遇[英雄:金克斯] | FirstEncounterJinx
 - - `8079190C`: ***金克斯，都是你的错！都是你的错！***
 
-#### 首次遇到[千珏] | FirstEncounterKindred
+#### 击杀[英雄:金克斯] | KillChampionJinx
+- - `4067112B`: ***大家，都好惊慌***
+
+#### 初遇[英雄:千珏] | FirstEncounterKindred
 - - `38839452`: ***灰白的鬼怪***
 
-#### 首次遇到[拉克丝] | FirstEncounterLux
+#### 击杀[英雄:千珏] | KillChampionKindred
+- - `EC4C812C`: ***羊啊，给我讲个故事***
+
+#### 初遇[英雄:拉克丝] | FirstEncounterLux
 - - `D7059D1E`: ***微光***
 
-#### 首次遇到[厄运小姐] | FirstEncounterMissFortune
+#### 击杀[英雄:拉克丝] | KillChampionLux
+- - `8FEB455C`: ***微光，微光***
+
+#### 初遇[英雄:厄运小姐] | FirstEncounterMissFortune
 - - `937B5104`: ***莎拉？莎拉！***
 
-#### 首次遇到[魔腾] | FirstEncounterNocturne
+#### 击杀[英雄:厄运小姐] | KillChampionMissFortune
+- - `C73DA379`: ***藏好，莎拉，快藏好！***
+
+#### 初遇[英雄:魔腾] | FirstEncounterNocturne
 - - `A3F11111`: ***魔腾***
 
-#### 首次遇到[努努与威朗普] | FirstEncounterNunu
+#### 击杀[英雄:魔腾] | KillChampionNocturne
+- - `7BDBA677`: ***噩梦***
+
+#### 初遇[英雄:努努与威朗普] | FirstEncounterNunu
 - - `8C3F264E`: ***我一直在这里。我的，小英雄***
 
-#### 首次遇到[锐雯] | FirstEncounterRiven
+#### 击杀[英雄:努努与威朗普] | KillChampionNunu
+- - `83B8292D`: ***威朗普，我要救活你***
+
+#### 初遇[英雄:锐雯] | FirstEncounterRiven
 - - `1C3C3831`: ***有罪，有罪，有罪***
 
-#### 首次遇到[索拉卡] | FirstEncounterSoraka
+#### 击杀[英雄:锐雯] | KillChampionRiven
+- - `D2EF5E66`: ***断剑重铸之时，归来***
+
+#### 初遇[英雄:索拉卡] | FirstEncounterSoraka
 - - `6124F130`: ***看，群星***
 
-#### 首次遇到[斯维因] | FirstEncounterSwain
-- - `0882FD1B`: ***劳姆（注：斯维因体内的恶魔）***
+#### 击杀[英雄:索拉卡] | KillChampionSoraka
+- - `D1900978`: ***群星，聆听我的祈求***
 
-#### 首次遇到[塞拉斯] | FirstEncounterSylas
-- - `21B8B864`: ***瓦尼斯，你别碰她（注：宇宙故事《德玛西亚之心》角色）***
+#### 初遇[英雄:斯维因] | FirstEncounterSwain
+- - `0882FD1B`: ***劳姆（注：原文Raum，推测是斯维因体内的恶魔）***
 
-#### 首次遇到[塔姆·肯奇] | FirstEncounterTahmKench
+#### 击杀[英雄:斯维因] | KillChampionSwain
+- - `BD575239`: ***秘密***
+
+#### 初遇[英雄:塞拉斯] | FirstEncounterSylas
+- - `21B8B864`: ***瓦尼斯，你别碰她（注：宇宙故事《德玛西亚之心》人物）***
+
+#### 击杀[英雄:塞拉斯] | KillChampionSylas
+- - `0DEBE527`: ***人人有份***
+
+#### 初遇[英雄:塔姆·肯奇] | FirstEncounterTahmKench
 - - `91BB150E`: ***塔姆，肯奇***
 
-#### 首次遇到[薇恩] | FirstEncounterVayne
+#### 击杀[英雄:塔姆·肯奇] | KillChampionTahmKench
+- - `F285992F`: ***欲河（注：原文Addiction，瘾、嗜好）***
+
+#### 初遇[英雄:薇恩] | FirstEncounterVayne
 - - `3BFCE011`: ***薇恩，给我们，再笑一个***
 
-#### 首次遇到[亚索] | FirstEncounterYasuo
+#### 击杀[英雄:薇恩] | KillChampionVayne
+- - `7B47776F`: ***黑暗里畏惧我***
+
+#### 初遇[英雄:亚索] | FirstEncounterYasuo
 - - `7DD7ED76`: ***弟弟，你怎么能，令我蒙羞***
 
-#### 首次遇到[地区:德玛西亚] | FirstEncounterDemacia
+#### 击杀[英雄:亚索] | KillChampionYasuo
+- - `2B8F8008`: ***且随疾风***
+
+#### 初遇[地区:德玛西亚] | FirstEncounterDemacia
 - - `2161DD22`: ***德玛西亚***
 
-#### 攻击英雄 | AttackChampion
+#### 攻击[英雄] | AttackChampion
 - - `0A468649`: ***它是活的！***
   - `0A6C6321`: ***怪物***
   - `2D37137A`: *(语气)*
@@ -135,13 +183,7 @@
   - `F225F139`: ***它来了***
   - `FC984A2A`: *(语气)*
 
-#### 普通攻击、暴击 | FiddlesticksCritAttack/FiddlesticksBasicAttack2/FiddlesticksCritAttack
-- - `329EAC18`: *(语气)*
-  - `52EC636F`: *(语气)*
-  - `BC73C72D`: *(语气)*
-  - `CA542903`: *(语气)*
-
-#### 击杀英雄 | KillChampion
+#### 击杀[英雄] | KillChampion
 - - `01A07507`: ***它，没走吗？***
   - `0518AB1A`: ***就是个故事而已***
   - `7128BB05`: ***好可怕***
@@ -150,55 +192,7 @@
   - `DA4D182D`: *(语气)*
   - `E21C8A4D`: ***怪物***
 
-#### 击杀英雄[安妮] | KillChampionAnnie
-- - `7C2E0F7C`: ***安妮，别放手***
-
-#### 击杀英雄[伊芙琳] | KillChampionEvelynn
-- - `F770FD79`: ***剧痛***
-
-#### 击杀英雄[盖伦] | KillChampionGaren
-- - `69CDF82F`: ***为了，德玛西亚***
-
-#### 击杀英雄[金克斯] | KillChampionJinx
-- - `4067112B`: ***大家，都好惊慌***
-
-#### 击杀英雄[千珏] | KillChampionKindred
-- - `EC4C812C`: ***羊啊，给我讲个故事***
-
-#### 击杀英雄[拉克丝] | KillChampionLux
-- - `8FEB455C`: ***微光，微光***
-
-#### 击杀英雄[厄运小姐] | KillChampionMissFortune
-- - `C73DA379`: ***藏好，莎拉，快藏好！***
-
-#### 击杀英雄[魔腾] | KillChampionNocturne
-- - `7BDBA677`: ***噩梦***
-
-#### 击杀英雄[努努与威朗普] | KillChampionNunu
-- - `83B8292D`: ***威朗普，我要救活你***
-
-#### 击杀英雄[锐雯] | KillChampionRiven
-- - `D2EF5E66`: ***断剑重铸之时，归来***
-
-#### 击杀英雄[索拉卡] | KillChampionSoraka
-- - `D1900978`: ***群星，聆听我的祈求***
-
-#### 击杀英雄[斯维因] | KillChampionSwain
-- - `BD575239`: ***秘密***
-
-#### 击杀英雄[塞拉斯] | KillChampionSylas
-- - `0DEBE527`: ***人人有份***
-
-#### 击杀英雄[塔姆·肯奇] | KillChampionTahmKench
-- - `F285992F`: ***欲河***
-
-#### 击杀英雄[薇恩] | KillChampionVayne
-- - `7B47776F`: ***黑暗里畏惧我***
-
-#### 击杀英雄[亚索] | KillChampionYasuo
-- - `2B8F8008`: ***且随疾风***
-
-#### 击杀英雄[五杀] | KillChampionPentakill
+#### 击杀[多杀:五杀] | KillChampionPentakill
 - - `1A447F2A`: ***稻草人，把他们都带走了。一个不剩，除了我***
 
 #### 阵亡 | Death
@@ -213,7 +207,7 @@
   - `B4483308`: ***一分耕耘，一分收获***
   - `E857AF27`: ***看来没死***
 
-#### 首次移动 | FirstMove
+#### 初次移动 | FirstMove
 - - `4F1A0824`: *(语气)*
   - `5D79E54B`: ***它在追我们，它知道我们怕的是什么***
   - `CCD4DC14`: *(语气)*
@@ -274,6 +268,12 @@
 
 #### 大笑 | Laugh
 - - `BE71F07E`: *(语气)*
+
+#### 攻击、暴击 | FiddlesticksCritAttack/FiddlesticksCritAttack
+- - `329EAC18`: *(语气)*
+  - `52EC636F`: *(语气)*
+  - `BC73C72D`: *(语气)*
+  - `CA542903`: *(语气)*
 
 #### P被动 | FiddlesticksScarecrowEffigy
 - - `46EDEF27`: *(语气)*

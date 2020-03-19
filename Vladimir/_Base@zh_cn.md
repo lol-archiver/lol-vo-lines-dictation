@@ -2,7 +2,7 @@
 
 ## Catalog:目录
 * [攻击英雄 | AttackChampion](#攻击英雄--AttackChampion)
-* [普通攻击1-4、暴击 | VladimirBasicAttack/VladimirBasicAttack2/VladimirBasicAttack3/VladimirBasicAttack4/VladimirCritAttack](#普通攻击1-4暴击--VladimirBasicAttackVladimirBasicAttack2VladimirBasicAttack3VladimirBasicAttack4VladimirCritAttack)
+* [攻击1-4、暴击 | VladimirBasicAttack/VladimirBasicAttack2/VladimirBasicAttack3/VladimirBasicAttack4/VladimirCritAttack](#攻击1-4暴击--VladimirBasicAttackVladimirBasicAttack2VladimirBasicAttack3VladimirBasicAttack4VladimirCritAttack)
 * [阵亡 | Death](#阵亡--Death)
 * [移动 | MoveOrder](#移动--MoveOrder)
 * [玩笑 | Joke](#玩笑--Joke)
@@ -23,7 +23,7 @@
   - `CDA5EE3B`: ***愿意送我点血吗？***
   - `CEA2AF1E`: ***唔，唔，有些东西正在流出来。***
 
-#### 普通攻击1-4、暴击 | VladimirBasicAttack/VladimirBasicAttack2/VladimirBasicAttack3/VladimirBasicAttack4/VladimirCritAttack
+#### 攻击1-4、暴击 | VladimirBasicAttack/VladimirBasicAttack2/VladimirBasicAttack3/VladimirBasicAttack4/VladimirCritAttack
 - - `24403715`: *(语音)*
   - `46CE1212`: *(语音)*
   - `544D4D14`: *(语音)*

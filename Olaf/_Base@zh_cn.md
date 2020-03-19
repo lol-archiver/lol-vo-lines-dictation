@@ -2,7 +2,7 @@
 
 ## Catalog:目录
 * [攻击英雄 | AttackChampion](#攻击英雄--AttackChampion)
-* [普通攻击、暴击 | OlafBasicAttack/OlafCritAttack](#普通攻击暴击--OlafBasicAttackOlafCritAttack)
+* [攻击、暴击 | OlafBasicAttack/OlafCritAttack](#攻击暴击--OlafBasicAttackOlafCritAttack)
 * [阵亡 | Death](#阵亡--Death)
 * [移动 | MoveOrder](#移动--MoveOrder)
 * [玩笑 | JokeGeneral](#玩笑--JokeGeneral)
@@ -22,7 +22,7 @@
   - `B119C630`: ***我砍。我再砍！***
   - `DE565123`: ***我的大斧早已饥渴难耐了。***
 
-#### 普通攻击、暴击 | OlafBasicAttack/OlafCritAttack
+#### 攻击、暴击 | OlafBasicAttack/OlafCritAttack
 - - `00EFA279`: *(语气)*
   - `07C89B3A`: *(语气)*
   - `BFFDB331`: *(语气)*

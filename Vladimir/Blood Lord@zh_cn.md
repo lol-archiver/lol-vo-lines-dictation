@@ -2,7 +2,7 @@
 
 ## Catalog:目录
 * [攻击英雄 | AttackChampion](#攻击英雄--AttackChampion)
-* [普通攻击1-4、暴击 | VladimirBasicAttack/VladimirBasicAttack2/VladimirBasicAttack3/VladimirBasicAttack4/VladimirCritAttack](#普通攻击1-4暴击--VladimirBasicAttackVladimirBasicAttack2VladimirBasicAttack3VladimirBasicAttack4VladimirCritAttack)
+* [攻击1-4、暴击 | VladimirBasicAttack/VladimirBasicAttack2/VladimirBasicAttack3/VladimirBasicAttack4/VladimirCritAttack](#攻击1-4暴击--VladimirBasicAttackVladimirBasicAttack2VladimirBasicAttack3VladimirBasicAttack4VladimirCritAttack)
 * [阵亡 | Death](#阵亡--Death)
 * [移动 | MoveOrder](#移动--MoveOrder)
 * [玩笑 | JokeGeneral](#玩笑--JokeGeneral)
@@ -23,7 +23,7 @@
   - CRC32[1964F5AF] `79DDBB1A`: ***见识下绝望的深渊吧。***
   - CRC32[54F75262] `A8D35E2F`: ***站起来，面对我。***
 
-#### 普通攻击1-4、暴击 | VladimirBasicAttack/VladimirBasicAttack2/VladimirBasicAttack3/VladimirBasicAttack4/VladimirCritAttack
+#### 攻击1-4、暴击 | VladimirBasicAttack/VladimirBasicAttack2/VladimirBasicAttack3/VladimirBasicAttack4/VladimirCritAttack
 - - CRC32[C830B8CC] `5591EE1E`: *(语气)*
   - CRC32[347FEF80] `5C9B781B`: *(语气)*
   - CRC32[CB659512] `66599205`: *(语气)*

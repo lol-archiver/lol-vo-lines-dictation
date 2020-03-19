@@ -2,7 +2,7 @@
 
 ## Catalog:目录
 * [攻击英雄 | AttackChampion](#攻击英雄--AttackChampion)
-* [普通攻击、普通攻击2、暴击 | AnnieBasicAttack/AnnieBasicAttack2/AnnieCritAttack](#普通攻击普通攻击2暴击--AnnieBasicAttackAnnieBasicAttack2AnnieCritAttack)
+* [攻击、攻击2、暴击 | AnnieBasicAttack/AnnieBasicAttack2/AnnieCritAttack](#攻击攻击2暴击--AnnieBasicAttackAnnieBasicAttack2AnnieCritAttack)
 * [阵亡 | Death](#阵亡--Death)
 * [移动 | MoveOrder](#移动--MoveOrder)
 * [玩笑 | JokeGeneral](#玩笑--JokeGeneral)
@@ -24,7 +24,7 @@
   - `AD1FCE1B`: ***化为灰烬，就是他们的宿命！***
   - `B7D7ED11`: ***游戏时间到了咯！***
 
-#### 普通攻击、普通攻击2、暴击 | AnnieBasicAttack/AnnieBasicAttack2/AnnieCritAttack
+#### 攻击、攻击2、暴击 | AnnieBasicAttack/AnnieBasicAttack2/AnnieCritAttack
 - - `1237560E`: *(语气)*
   - `58D3762A`: *(语气)*
   - `E7E9E710`: *(语气)*

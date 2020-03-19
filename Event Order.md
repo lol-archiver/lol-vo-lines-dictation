@@ -2,21 +2,18 @@
 - Pick
 - Ban
 
-- First Encounter
-****
-- Attack Champion
-- Basic Attack
-- Crit
-
 - Kill Champion
+- First Encounter
+- Attack Champion
 - Multi Kill
+
 - Death
 - Respawn
 
 - First Move
 - Move Order
-- Approach
 - Recall
+- Approach
 
 - Joke
 - Taunt
@@ -26,8 +23,9 @@
 - But Item
 - Turn From
 
+- Basic Attack
+- Crit
+
 - PQWER
 
 - Shield By
-
-[|[\]():/]

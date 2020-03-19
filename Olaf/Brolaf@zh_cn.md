@@ -2,7 +2,7 @@
 
 ## Catalog:目录
 * [攻击英雄 | AttackChampion](#攻击英雄--AttackChampion)
-* [普通攻击、暴击 | OlafBasicAttackcast/OlafCritAttackcast](#普通攻击暴击--OlafBasicAttackcastOlafCritAttackcast)
+* [攻击、暴击 | OlafBasicAttackcast/OlafCritAttackcast](#攻击暴击--OlafBasicAttackcastOlafCritAttackcast)
 * [阵亡 | Death](#阵亡--Death)
 * [移动 | MoveOrder](#移动--MoveOrder)
 * [玩笑 | JokeGeneral](#玩笑--JokeGeneral)
@@ -23,7 +23,7 @@
   - `BCE5B832`: ***登上痛苦的列车，呜呜！***
   - `F7959111`: ***嗨，不要碰我的古记冰酒***
 
-#### 普通攻击、暴击 | OlafBasicAttackcast/OlafCritAttackcast
+#### 攻击、暴击 | OlafBasicAttackcast/OlafCritAttackcast
 - - `020FA32D`: *(语气)*
   - `045DA935`: *(语气)*
   - `70B24A2C`: *(语气)*

@@ -2,7 +2,7 @@
 
 ## Catalog:目录
 * [攻击英雄 | AttackChampion](#攻击英雄--AttackChampion)
-* [普通攻击2、暴击 | XinZhaoBasicAttack2/XinZhaoCritAttack](#普通攻击2暴击--XinZhaoBasicAttack2XinZhaoCritAttack)
+* [攻击2、暴击 | XinZhaoBasicAttack2/XinZhaoCritAttack](#攻击2暴击--XinZhaoBasicAttack2XinZhaoCritAttack)
 * [阵亡 | Death](#阵亡--Death)
 * [移动 | MoveOrder](#移动--MoveOrder)
 * [玩笑 | JokeGeneral](#玩笑--JokeGeneral)
@@ -24,7 +24,7 @@
   - `E18D2508`: ***命运已做出了他的选择。***
   - `F1788D12`: ***一点寒芒先到，随后枪出如龙。***
 
-#### 普通攻击2、暴击 | XinZhaoBasicAttack2/XinZhaoCritAttack
+#### 攻击2、暴击 | XinZhaoBasicAttack2/XinZhaoCritAttack
 - - `05021917`: *(语气)*
   - `2FCE7A05`: *(语气)*
   - `B70B2F04`: *(语气)*

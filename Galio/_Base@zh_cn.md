@@ -6,8 +6,8 @@
 * [攻击[中立生物:元素亚龙] | AttackNeutralDragon](#攻击中立生物元素亚龙--AttackNeutralDragon)
 * [攻击[中立生物:纳什男爵] | AttackNeutralBaron](#攻击中立生物纳什男爵--AttackNeutralBaron)
 * [攻击[建筑:防御塔] | InteractiveTowerAttack](#攻击建筑防御塔--InteractiveTowerAttack)
-* [普通攻击、普通攻击[特效:被动] | GalioBasicAttack|GalioPassiveAttack](#普通攻击普通攻击特效被动--GalioBasicAttackGalioPassiveAttack)
-* [普通攻击[特效:被动] | GalioPassiveAttack](#普通攻击特效被动--GalioPassiveAttack)
+* [攻击、攻击[特效:被动] | GalioBasicAttack|GalioPassiveAttack](#攻击攻击特效被动--GalioBasicAttackGalioPassiveAttack)
+* [攻击[特效:被动] | GalioPassiveAttack](#攻击特效被动--GalioPassiveAttack)
 * [击杀英雄 | KillChampion](#击杀英雄--KillChampion)
 * [击杀[连杀:大杀特杀] | KillChampionKillingSpree](#击杀连杀大杀特杀--KillChampionKillingSpree)
 * [击杀[种族:德玛西亚] | KillChampionDemacia](#击杀种族德玛西亚--KillChampionDemacia)
@@ -101,12 +101,12 @@
   - `486B182D`: ***你瞅啥？***
   - `FB1B0E10`: ***这里只容得下你我之中一个。***
 
-#### 普通攻击、普通攻击[特效:被动] | GalioBasicAttack|GalioPassiveAttack
+#### 攻击、攻击[特效:被动] | GalioBasicAttack|GalioPassiveAttack
 - - `B987CE01`: *(语气)*
   - `C5AB1C07`: *(语气)*
   - `67E31311`: *(语气)*
 
-#### 普通攻击[特效:被动] | GalioPassiveAttack
+#### 攻击[特效:被动] | GalioPassiveAttack
 - - `21BC4501`: ***手锤！***
   - `4F7C5F16`: *(语气)*
   - `701F3206`: ***粉碎。***

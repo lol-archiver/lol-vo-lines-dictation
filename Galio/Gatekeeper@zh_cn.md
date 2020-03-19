@@ -6,8 +6,8 @@
 * [攻击[中立生物:元素亚龙] | AttackNeutralDragon](#攻击中立生物元素亚龙--AttackNeutralDragon)
 * [攻击[中立生物:纳什男爵] | AttackNeutralBaron](#攻击中立生物纳什男爵--AttackNeutralBaron)
 * [攻击[建筑:防御塔] | InteractiveTowerAttack](#攻击建筑防御塔--InteractiveTowerAttack)
-* [普通攻击 | GalioBasicAttack](#普通攻击--GalioBasicAttack)
-* [普通攻击[特效:被动] | GalioPassiveAttack](#普通攻击特效被动--GalioPassiveAttack)
+* [攻击 | GalioBasicAttack](#攻击--GalioBasicAttack)
+* [攻击[特效:被动] | GalioPassiveAttack](#攻击特效被动--GalioPassiveAttack)
 * [击杀英雄 | KillChampion](#击杀英雄--KillChampion)
 * [击杀[连杀:大杀特杀] | KillChampionKillingSpree](#击杀连杀大杀特杀--KillChampionKillingSpree)
 * [回城 | RecallLeadIn](#回城--RecallLeadIn)
@@ -125,14 +125,14 @@
   - `ACEC8601`: ***倒塌吧！石雕的人像！***
   - `D8915B07`: ***地下世界也该弄个这玩意。***
 
-#### 普通攻击 | GalioBasicAttack
+#### 攻击 | GalioBasicAttack
 - - `78017425`: *(语气)*
   - `A9C1C535`: *(语气)*
   - `BDF08B3D`: *(语气)*
   - `F0DE3A06`: *(语气)*
   - `F17C8F20`: *(语气)*
 
-#### 普通攻击[特效:被动] | GalioPassiveAttack
+#### 攻击[特效:被动] | GalioPassiveAttack
 - - `1E8E8D24`: ***孤独！***
   - `23170B32`: *(语气)*
   - `28CF1535`: ***剧痛！***

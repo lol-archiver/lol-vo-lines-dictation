@@ -2,7 +2,7 @@
 
 ## Catalog:目录
 * [攻击英雄 | AttackChampion](#攻击英雄--AttackChampion)
-* [普通攻击2、暴击 | XinZhaoBasicAttack2/XinZhaoCritAttack](#普通攻击2暴击--XinZhaoBasicAttack2XinZhaoCritAttack)
+* [攻击2、暴击 | XinZhaoBasicAttack2/XinZhaoCritAttack](#攻击2暴击--XinZhaoBasicAttack2XinZhaoCritAttack)
 * [阵亡 | Death](#阵亡--Death)
 * [移动 | MoveOrder](#移动--MoveOrder)
 * [玩笑 | JokeGeneral](#玩笑--JokeGeneral)
@@ -24,7 +24,7 @@
   - `D6AA043D`: ***我乃常山赵子龙是也。
   - `DD7B2327`: ***全身都是破绽。
 
-#### 普通攻击2、暴击 | XinZhaoBasicAttack2/XinZhaoCritAttack
+#### 攻击2、暴击 | XinZhaoBasicAttack2/XinZhaoCritAttack
 - - `12587C0A`: *(语气)*
   - `46812315`: *(语气)*
   - `B214F52F`: *(语气)*

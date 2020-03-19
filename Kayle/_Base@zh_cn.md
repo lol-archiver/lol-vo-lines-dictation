@@ -1,27 +1,27 @@
 ^# [10000] Kayle:凯尔
 
 ## Catalog:目录
-* [首次遇到敌方 | EnemyFirstEncounter](#首次遇到敌方--EnemyFirstEncounter)
-* [首次遇到敌方[地区:德玛西亚] | EnemyFirstEncounterDemacian](#首次遇到敌方地区德玛西亚--EnemyFirstEncounterDemacian)
-* [首次遇到敌方[种族:约德尔人] | EnemyFirstEncounterYordle](#首次遇到敌方种族约德尔人--EnemyFirstEncounterYordle)
-* [首次遇到敌方[英雄:盖伦] | EnemyFirstEncounterGaren](#首次遇到敌方英雄盖伦--EnemyFirstEncounterGaren)
-* [首次遇到敌方[英雄:嘉文四世] | EnemyFirstEncounterJarvanIV](#首次遇到敌方英雄嘉文四世--EnemyFirstEncounterJarvanIV)
-* [首次遇到敌方[英雄:拉克丝] | EnemyFirstEncounterLux](#首次遇到敌方英雄拉克丝--EnemyFirstEncounterLux)
-* [首次遇到敌方[英雄:莫甘娜] | EnemyFirstEncounterMorgana](#首次遇到敌方英雄莫甘娜--EnemyFirstEncounterMorgana)
-* [首次遇到敌方[英雄:莫甘娜]与[种族:约德尔人] | EnemyFirstEncounterMorganaYordle](#首次遇到敌方英雄莫甘娜与种族约德尔人--EnemyFirstEncounterMorganaYordle)
-* [首次遇到敌方[英雄:派克] | EnemyFirstEncounterPyke](#首次遇到敌方英雄派克--EnemyFirstEncounterPyke)
-* [首次遇到敌方[英雄:塞拉斯] | EnemyFirstEncounterSylas](#首次遇到敌方英雄塞拉斯--EnemyFirstEncounterSylas)
-* [首次遇到时，回应敌方[英雄:莫甘娜] | EnemyFirstEncounterKayle01_Chat2](#首次遇到时回应敌方英雄莫甘娜--EnemyFirstEncounterKayle01_Chat2)
-* [首次遇到时，回应敌方[英雄:莫甘娜] | EnemyFirstEncounterKayle05_Chat2](#首次遇到时回应敌方英雄莫甘娜--EnemyFirstEncounterKayle05_Chat2)
-* [首次遇到时，回应敌方[英雄:莫甘娜] | EnemyFirstEncounterKayle06_Chat2](#首次遇到时回应敌方英雄莫甘娜--EnemyFirstEncounterKayle06_Chat2)
-* [首次遇到时，回应敌方[英雄:莫甘娜] | EnemyFirstEncounterKayle07_Chat2](#首次遇到时回应敌方英雄莫甘娜--EnemyFirstEncounterKayle07_Chat2)
+* [初遇敌方 | EnemyFirstEncounter](#初遇敌方--EnemyFirstEncounter)
+* [初遇敌方[地区:德玛西亚] | EnemyFirstEncounterDemacian](#初遇敌方地区德玛西亚--EnemyFirstEncounterDemacian)
+* [初遇敌方[种族:约德尔人] | EnemyFirstEncounterYordle](#初遇敌方种族约德尔人--EnemyFirstEncounterYordle)
+* [初遇敌方[英雄:盖伦] | EnemyFirstEncounterGaren](#初遇敌方英雄盖伦--EnemyFirstEncounterGaren)
+* [初遇敌方[英雄:嘉文四世] | EnemyFirstEncounterJarvanIV](#初遇敌方英雄嘉文四世--EnemyFirstEncounterJarvanIV)
+* [初遇敌方[英雄:拉克丝] | EnemyFirstEncounterLux](#初遇敌方英雄拉克丝--EnemyFirstEncounterLux)
+* [初遇敌方[英雄:莫甘娜] | EnemyFirstEncounterMorgana](#初遇敌方英雄莫甘娜--EnemyFirstEncounterMorgana)
+* [初遇敌方[英雄:莫甘娜]与[种族:约德尔人] | EnemyFirstEncounterMorganaYordle](#初遇敌方英雄莫甘娜与种族约德尔人--EnemyFirstEncounterMorganaYordle)
+* [初遇敌方[英雄:派克] | EnemyFirstEncounterPyke](#初遇敌方英雄派克--EnemyFirstEncounterPyke)
+* [初遇敌方[英雄:塞拉斯] | EnemyFirstEncounterSylas](#初遇敌方英雄塞拉斯--EnemyFirstEncounterSylas)
+* [初遇时，回应敌方[英雄:莫甘娜] | EnemyFirstEncounterKayle01_Chat2](#初遇时回应敌方英雄莫甘娜--EnemyFirstEncounterKayle01_Chat2)
+* [初遇时，回应敌方[英雄:莫甘娜] | EnemyFirstEncounterKayle05_Chat2](#初遇时回应敌方英雄莫甘娜--EnemyFirstEncounterKayle05_Chat2)
+* [初遇时，回应敌方[英雄:莫甘娜] | EnemyFirstEncounterKayle06_Chat2](#初遇时回应敌方英雄莫甘娜--EnemyFirstEncounterKayle06_Chat2)
+* [初遇时，回应敌方[英雄:莫甘娜] | EnemyFirstEncounterKayle07_Chat2](#初遇时回应敌方英雄莫甘娜--EnemyFirstEncounterKayle07_Chat2)
 * [攻击英雄 | AttackChampion](#攻击英雄--AttackChampion)
 * [攻击英雄时，回应[英雄:莫甘娜] | AttackChampionKayle01_Chat2](#攻击英雄时回应英雄莫甘娜--AttackChampionKayle01_Chat2)
 * [攻击英雄时，回应[英雄:莫甘娜] | AttackChampionKayle02_Chat2](#攻击英雄时回应英雄莫甘娜--AttackChampionKayle02_Chat2)
 * [攻击英雄时，回应[英雄:莫甘娜] | AttackChampionKayle03_Chat2](#攻击英雄时回应英雄莫甘娜--AttackChampionKayle03_Chat2)
 * [攻击英雄时，回应[英雄:莫甘娜] | AttackChampionKayle04_Chat2](#攻击英雄时回应英雄莫甘娜--AttackChampionKayle04_Chat2)
-* [普通攻击 | KayleBasicAttack_OnCast/KayleBasicAttack2_OnCast](#普通攻击--KayleBasicAttack_OnCast/KayleBasicAttack2_OnCast)
-* [普通攻击[英雄:莫甘娜] | KayleBasicAttack_AttackChampionMorgana](#普通攻击英雄莫甘娜--KayleBasicAttack_AttackChampionMorgana)
+* [攻击 | KayleBasicAttack_OnCast/KayleBasicAttack2_OnCast](#攻击--KayleBasicAttack_OnCast/KayleBasicAttack2_OnCast)
+* [攻击[英雄:莫甘娜] | KayleBasicAttack_AttackChampionMorgana](#攻击英雄莫甘娜--KayleBasicAttack_AttackChampionMorgana)
 * [击杀英雄 | KillChampion](#击杀英雄--KillChampion)
 * [击杀[英雄:莫甘娜] | KillChampionMorgana](#击杀英雄莫甘娜--KillChampionMorgana)
 * [击杀[英雄:维克兹] | KillChampionVelkoz](#击杀英雄维克兹--KillChampionVelkoz)
@@ -59,27 +59,27 @@
 * [被释放护盾[英雄:莫甘娜] | ShieldKayle03_Chat2](#被释放护盾英雄莫甘娜--ShieldKayle03_Chat2)
 
 ## Lines:台词
-#### 首次遇到敌方 | EnemyFirstEncounter
+#### 初遇敌方 | EnemyFirstEncounter
 - - `A295EC16`: ***如果你真的无辜，我便不会在此。***
   - `F46A7A42`: ***光明之下无所遁形。***
   - `FBA5E72C`: ***你的行径唤我前来。***
 
-#### 首次遇到敌方[地区:德玛西亚] | EnemyFirstEncounterDemacian
+#### 初遇敌方[地区:德玛西亚] | EnemyFirstEncounterDemacian
 - - `11814A62`: ***德玛西亚人已经迷失了放心。***
 
-#### 首次遇到敌方[种族:约德尔人] | EnemyFirstEncounterYordle
+#### 初遇敌方[种族:约德尔人] | EnemyFirstEncounterYordle
 - - `465BE374`: ***你是会说话的动物？还是个小矮人？为什么你这么软乎？***
 
-#### 首次遇到敌方[英雄:盖伦] | EnemyFirstEncounterGaren
+#### 初遇敌方[英雄:盖伦] | EnemyFirstEncounterGaren
 - - `97F59F12`: ***盖伦，你看似够格，证明自己吧。***
 
-#### 首次遇到敌方[英雄:嘉文四世] | EnemyFirstEncounterJarvanIV
+#### 初遇敌方[英雄:嘉文四世] | EnemyFirstEncounterJarvanIV
 - - `1395540B`: ***一顶皇冠，并不能让你免于审判，殿下。***
 
-#### 首次遇到敌方[英雄:拉克丝] | EnemyFirstEncounterLux
+#### 初遇敌方[英雄:拉克丝] | EnemyFirstEncounterLux
 - - `DEEB6865`: ***拉克丝，同谋者的罪过更甚。***
 
-#### 首次遇到敌方[英雄:莫甘娜] | EnemyFirstEncounterMorgana
+#### 初遇敌方[英雄:莫甘娜] | EnemyFirstEncounterMorgana
 - - `3DBE5164`: ***妹妹，别对我置若罔闻！***
   - `6304506E`: ***莫甘娜，你的能力本可拯救世界。可惜，它却毁了你。***
   - `68FCD739`: ***妹妹，你还在和你的人类宠物玩耍吗？***
@@ -87,25 +87,25 @@
   - `E5D9291B`: ***妹妹，你又要来诋毁我吗？***
   - `FB964971`: ***你的剑在我手上，你想要回去吗？***
 
-#### 首次遇到敌方[英雄:莫甘娜]与[种族:约德尔人] | EnemyFirstEncounterMorganaYordle
+#### 初遇敌方[英雄:莫甘娜]与[种族:约德尔人] | EnemyFirstEncounterMorganaYordle
 - - `DD601457`: ***约德尔人，就是小孩子吗？***
 
-#### 首次遇到敌方[英雄:派克] | EnemyFirstEncounterPyke
+#### 初遇敌方[英雄:派克] | EnemyFirstEncounterPyke
 - - `A373304E`: ***有趣，你也在我的单子上。***
 
-#### 首次遇到敌方[英雄:塞拉斯] | EnemyFirstEncounterSylas
+#### 初遇敌方[英雄:塞拉斯] | EnemyFirstEncounterSylas
 - - `9082372B`: ***塞拉斯，也许你曾经确实无辜，但不再是了。***
 
-#### 首次遇到时，回应敌方[英雄:莫甘娜] | EnemyFirstEncounterKayle01_Chat2
+#### 初遇时，回应敌方[英雄:莫甘娜] | EnemyFirstEncounterKayle01_Chat2
 - - `3CD11E1C`: ***破碎的心，胜过被囚禁的灵魂。***
 
-#### 首次遇到时，回应敌方[英雄:莫甘娜] | EnemyFirstEncounterKayle05_Chat2
+#### 初遇时，回应敌方[英雄:莫甘娜] | EnemyFirstEncounterKayle05_Chat2
 - - `A856393E`: ***你是在跟踪我吗？***
 
-#### 首次遇到时，回应敌方[英雄:莫甘娜] | EnemyFirstEncounterKayle06_Chat2
+#### 初遇时，回应敌方[英雄:莫甘娜] | EnemyFirstEncounterKayle06_Chat2
 - - `75A9423C`: ***不是杀人，是审判。***
 
-#### 首次遇到时，回应敌方[英雄:莫甘娜] | EnemyFirstEncounterKayle07_Chat2
+#### 初遇时，回应敌方[英雄:莫甘娜] | EnemyFirstEncounterKayle07_Chat2
 - - `81553B7E`: ***必要的事情。***
 
 #### 攻击英雄 | AttackChampion
@@ -153,7 +153,7 @@
 #### 攻击英雄时，回应[英雄:莫甘娜] | AttackChampionKayle04_Chat2
 - - `A749F92D`: ***你就是这样诅咒了自己。***
 
-#### 普通攻击 | KayleBasicAttack_OnCast/KayleBasicAttack2_OnCast
+#### 攻击 | KayleBasicAttack_OnCast/KayleBasicAttack2_OnCast
 - - `22D3DA29`: *(语气)*
   - `5361CC53`: *(语气)*
   - `58586048`: *(语气)*
@@ -167,7 +167,7 @@
   - `DEA24A67`: *(语气)*
   - `EF296707`: *(语气)*
 
-#### 普通攻击[英雄:莫甘娜] | KayleBasicAttack_AttackChampionMorgana
+#### 攻击[英雄:莫甘娜] | KayleBasicAttack_AttackChampionMorgana
 - - `90D0D078`: ***不留情面！***
   - `D9C1C32A`: ***魔法的小把戏，真可爱！***
   - `DD2FD844`: ***不留慈悲！***

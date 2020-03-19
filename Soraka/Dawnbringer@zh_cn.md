@@ -1,14 +1,14 @@
 # [16015] Soraka:索拉卡 ==> Dawnbringer Soraka:黎明使者 索拉卡
 ## Catalog:目录
-* [首次遇到[皮肤:黑夜使者 厄斐琉斯] | FirstEncounterApheliosSkin01](#首次遇到皮肤黑夜使者-厄斐琉斯--FirstEncounterApheliosSkin01)
-* [首次遇到[皮肤:神王 德莱厄斯] | FirstEncounterDariusSkin15](#首次遇到皮肤神王-德莱厄斯--FirstEncounterDariusSkin15)
-* [首次遇到[皮肤:神王 盖伦] | FirstEncounterGarenSkin13](#首次遇到皮肤神王-盖伦--FirstEncounterGarenSkin13)
-* [首次遇到[皮肤:黎明使者 卡尔玛] | FirstEncounterKarmaSkin19](#首次遇到皮肤黎明使者-卡尔玛--FirstEncounterKarmaSkin19)
-* [首次遇到[皮肤:黑夜使者 李青] | FirstEncounterLeeSinSkin27](#首次遇到皮肤黑夜使者-李青--FirstEncounterLeeSinSkin27)
-* [首次遇到[皮肤:黎明使者 奈德丽] | FirstEncounterNidaleeSkin11](#首次遇到皮肤黎明使者-奈德丽--FirstEncounterNidaleeSkin11)
-* [首次遇到[皮肤:黎明使者 锐雯] | FirstEncounterRivenSkin16](#首次遇到皮肤黎明使者-锐雯--FirstEncounterRivenSkin16)
-* [首次遇到[皮肤:黑夜使者 弗拉基米尔] | FirstEncounterVladimirSkin14](#首次遇到皮肤黑夜使者-弗拉基米尔--FirstEncounterVladimirSkin14)
-* [首次遇到[皮肤:黑夜使者 亚索] | FirstEncounterYasuoSkin9](#首次遇到皮肤黑夜使者-亚索--FirstEncounterYasuoSkin9)
+* [初遇[皮肤:黑夜使者 厄斐琉斯] | FirstEncounterApheliosSkin01](#初遇皮肤黑夜使者-厄斐琉斯--FirstEncounterApheliosSkin01)
+* [初遇[皮肤:神王 德莱厄斯] | FirstEncounterDariusSkin15](#初遇皮肤神王-德莱厄斯--FirstEncounterDariusSkin15)
+* [初遇[皮肤:神王 盖伦] | FirstEncounterGarenSkin13](#初遇皮肤神王-盖伦--FirstEncounterGarenSkin13)
+* [初遇[皮肤:黎明使者 卡尔玛] | FirstEncounterKarmaSkin19](#初遇皮肤黎明使者-卡尔玛--FirstEncounterKarmaSkin19)
+* [初遇[皮肤:黑夜使者 李青] | FirstEncounterLeeSinSkin27](#初遇皮肤黑夜使者-李青--FirstEncounterLeeSinSkin27)
+* [初遇[皮肤:黎明使者 奈德丽] | FirstEncounterNidaleeSkin11](#初遇皮肤黎明使者-奈德丽--FirstEncounterNidaleeSkin11)
+* [初遇[皮肤:黎明使者 锐雯] | FirstEncounterRivenSkin16](#初遇皮肤黎明使者-锐雯--FirstEncounterRivenSkin16)
+* [初遇[皮肤:黑夜使者 弗拉基米尔] | FirstEncounterVladimirSkin14](#初遇皮肤黑夜使者-弗拉基米尔--FirstEncounterVladimirSkin14)
+* [初遇[皮肤:黑夜使者 亚索] | FirstEncounterYasuoSkin9](#初遇皮肤黑夜使者-亚索--FirstEncounterYasuoSkin9)
 * [攻击英雄 | AttackChampion](#攻击英雄--AttackChampion)
 * [击杀英雄 | KillChampion](#击杀英雄--KillChampion)
 * [击杀英雄[皮肤:黎明使者 卡尔玛] | KillChampionKarmaSkin19](#击杀英雄皮肤黎明使者-卡尔玛--KillChampionKarmaSkin19)
@@ -44,31 +44,31 @@
 * [R技能 | SorakaR](#R技能--SorakaR)
 
 ## Lines:台词
-#### 首次遇到[皮肤:黑夜使者 厄斐琉斯] | FirstEncounterApheliosSkin01
+#### 初遇[皮肤:黑夜使者 厄斐琉斯] | FirstEncounterApheliosSkin01
 - - `C405D554`: ***同样身处于黑暗与黎明间的夹缝中，我知道你的挣扎与负担。***
 
-#### 首次遇到[皮肤:神王 德莱厄斯] | FirstEncounterDariusSkin15
+#### 初遇[皮肤:神王 德莱厄斯] | FirstEncounterDariusSkin15
 - - `A4D8E35F`: ***德莱厄斯，你就是混沌的化身吗？带着稀释的神性？***
 
-#### 首次遇到[皮肤:神王 盖伦] | FirstEncounterGarenSkin13
+#### 初遇[皮肤:神王 盖伦] | FirstEncounterGarenSkin13
 - - `DC8B8208`: ***你只是真神的卑劣仿品，盖伦。***
 
-#### 首次遇到[皮肤:黎明使者 卡尔玛] | FirstEncounterKarmaSkin19
+#### 初遇[皮肤:黎明使者 卡尔玛] | FirstEncounterKarmaSkin19
 - - `00E3E300`: ***重生的轮回也该打破了，卡尔玛。***
 
-#### 首次遇到[皮肤:黑夜使者 李青] | FirstEncounterLeeSinSkin27
+#### 初遇[皮肤:黑夜使者 李青] | FirstEncounterLeeSinSkin27
 - - `E1896468`: ***因怒火而盲目，因冲动而焦灼。你必将倒在我手下，李青。***
 
-#### 首次遇到[皮肤:黎明使者 奈德丽] | FirstEncounterNidaleeSkin11
+#### 初遇[皮肤:黎明使者 奈德丽] | FirstEncounterNidaleeSkin11
 - - `7B6BD147`: ***凡人不应该依赖神明生存，奈德丽。***
 
-#### 首次遇到[皮肤:黎明使者 锐雯] | FirstEncounterRivenSkin16
+#### 初遇[皮肤:黎明使者 锐雯] | FirstEncounterRivenSkin16
 - - `BE2E424D`: ***母亲，时至今日，我依然传承着您的薪火。***
 
-#### 首次遇到[皮肤:黑夜使者 弗拉基米尔] | FirstEncounterVladimirSkin14
+#### 初遇[皮肤:黑夜使者 弗拉基米尔] | FirstEncounterVladimirSkin14
 - - `040B8A26`: ***弗拉基米尔，自诩的永夜之王，你的统治由我挑战。***
 
-#### 首次遇到[皮肤:黑夜使者 亚索] | FirstEncounterYasuoSkin9
+#### 初遇[皮肤:黑夜使者 亚索] | FirstEncounterYasuoSkin9
 - - `7644BB05`: ***你的黑暗流淌在我的血液中，父亲。***
 
 #### 攻击英雄 | AttackChampion
