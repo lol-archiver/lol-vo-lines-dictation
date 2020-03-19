@@ -1,4 +1,4 @@
-# [99017] Lux:拉克丝 ==> Dark Cosmic Lux:暗星女神 拉克丝
+# [99017] Lux:拉克丝 ==> Dark Cosmic Lux:暗星女王 拉克丝
 
 ## Catalog:目录
 * [首次遇到[皮肤:御星魔矢 艾希] | FirstEncounterAsheSkin11](#首次遇到皮肤御星魔矢-艾希--FirstEncounterAsheSkin11)

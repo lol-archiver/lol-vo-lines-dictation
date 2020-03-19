@@ -20,10 +20,10 @@
 * [首次遇到[地区:德玛西亚] | FirstEncounterDemacia](#首次遇到地区德玛西亚--FirstEncounterDemacia)
 * [攻击英雄 | AttackChampion](#攻击英雄--AttackChampion)
 * [普通攻击、暴击 | FiddlesticksCritAttack/FiddlesticksBasicAttack2/FiddlesticksCritAttack](#普通攻击暴击--FiddlesticksCritAttackFiddlesticksBasicAttack2FiddlesticksCritAttack)
+* [击杀英雄 | KillChampion](#击杀英雄--KillChampion)
 * [击杀英雄[安妮] | KillChampionAnnie](#击杀英雄安妮--KillChampionAnnie)
 * [击杀英雄[伊芙琳] | KillChampionEvelynn](#击杀英雄伊芙琳--KillChampionEvelynn)
 * [击杀英雄[盖伦] | KillChampionGaren](#击杀英雄盖伦--KillChampionGaren)
-* [击杀英雄 | KillChampionGeneral](#击杀英雄--KillChampionGeneral)
 * [击杀英雄[金克斯] | KillChampionJinx](#击杀英雄金克斯--KillChampionJinx)
 * [击杀英雄[千珏] | KillChampionKindred](#击杀英雄千珏--KillChampionKindred)
 * [击杀英雄[拉克丝] | KillChampionLux](#击杀英雄拉克丝--KillChampionLux)
@@ -141,6 +141,15 @@
   - `BC73C72D`: *(语气)*
   - `CA542903`: *(语气)*
 
+#### 击杀英雄 | KillChampion
+- - `01A07507`: ***它，没走吗？***
+  - `0518AB1A`: ***就是个故事而已***
+  - `7128BB05`: ***好可怕***
+  - `8A9AB82F`: ***费德提克***
+  - `91D14C0B`: ***你不是真的***
+  - `DA4D182D`: *(语气)*
+  - `E21C8A4D`: ***怪物***
+
 #### 击杀英雄[安妮] | KillChampionAnnie
 - - `7C2E0F7C`: ***安妮，别放手***
 
@@ -149,15 +158,6 @@
 
 #### 击杀英雄[盖伦] | KillChampionGaren
 - - `69CDF82F`: ***为了，德玛西亚***
-
-#### 击杀英雄 | KillChampionGeneral
-- - `01A07507`: ***它，没走吗？***
-  - `0518AB1A`: ***就是个故事而已***
-  - `7128BB05`: ***好可怕***
-  - `8A9AB82F`: ***费德提克***
-  - `91D14C0B`: ***你不是真的***
-  - `DA4D182D`: *(语气)*
-  - `E21C8A4D`: ***怪物***
 
 #### 击杀英雄[金克斯] | KillChampionJinx
 - - `4067112B`: ***大家，都好惊慌***
