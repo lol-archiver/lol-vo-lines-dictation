@@ -1,4 +1,4 @@
-^# [5005] Xin Zhao:赵信 ==> Warring Kingdoms Xin Zhao:赵云 子龙
+# [5005] Xin Zhao:赵信 ==> Warring Kingdoms Xin Zhao:赵云 子龙
 
 ## Catalog:目录
 * [攻击英雄

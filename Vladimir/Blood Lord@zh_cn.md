@@ -1,4 +1,4 @@
-^# [8005] Vladimir:弗拉基米尔 ==> Blood Lord Vladimir:鲜血领主 弗拉基米尔
+# [8005] Vladimir:弗拉基米尔 ==> Blood Lord Vladimir:鲜血领主 弗拉基米尔
 
 ## Catalog:目录
 * [攻击英雄

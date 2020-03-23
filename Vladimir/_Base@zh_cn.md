@@ -1,4 +1,4 @@
-^# [8000] Vladimir:弗拉基米尔
+# [8000] Vladimir:弗拉基米尔
 
 ## Catalog:目录
 * [攻击英雄

@@ -2,9 +2,11 @@
 - Pick
 - Ban
 
-- Kill Champion
-- First Encounter
+- Kill Champion with Spec
+- First Encounter with Spec
+- Taunt with Spec
 - Attack Champion
+- Kill Champion
 - Multi Kill
 
 - Death
