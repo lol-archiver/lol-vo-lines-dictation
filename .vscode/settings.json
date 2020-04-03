@@ -3,5 +3,6 @@
 	"editor.tabSize": 2,
   "editor.insertSpaces": true,
   "markdown.extension.toc.unorderedList.marker": "*",
-  "markdown.extension.toc.updateOnSave": false
+  "markdown.extension.toc.updateOnSave": false,
+  "files.eol": "\n"
 }
