@@ -11,7 +11,8 @@
 			"skipFiles": [
 				"<node_internals>/**"
 			],
-			"console": "integratedTerminal",
+      "console": "integratedTerminal",
+      "runtimeExecutable": "node.exe",
 			"args": [
 				"${file}"
 			],
