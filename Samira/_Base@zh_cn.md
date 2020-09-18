@@ -201,7 +201,7 @@
 - `817E6726` 手下别留情，反正我是不会的
 - `8675AF43` 赌我赢就对了
 - `87EBD169` 这可能马上就是你最后一口气了
-- `C7D2A920` 泰利什尼的记忆又回来了\n\n注：原文“Like Tereshni all over again”\n致敬了漫威电影宇宙中黑寡妇对鹰眼的台词“This is just like Budapest all over again”
+- `C7D2A920` 泰利什尼的记忆又回来了\n\n注：原文\n“Like Tereshni all over again”\n致敬了漫威电影宇宙中黑寡妇对鹰眼的台词\n“This is just like Budapest all over again”
 - `DFA00566` 交给我了
 - `DFD0FF54` 你落到我手里了
 - `E1BBF75A` 瞧好了，打靶练习开始
