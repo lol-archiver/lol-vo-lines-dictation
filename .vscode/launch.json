@@ -16,7 +16,7 @@
 			"args": [
 				"${file}"
 			],
-			"program": "${workspaceFolder}/_src/table.js"
+			"program": "${workspaceFolder}/.src/table.js"
 		}
 	]
 }
