@@ -1,4 +1,4 @@
-# [9006] Fiddlesticks:费德提克 ==> Surprise Party Fiddlesticks:惊悚派对 费德提克
+# [009006] Fiddlesticks:费德提克 ==> Surprise Party Fiddlesticks:惊悚派对 费德提克
 ## Catalog:目录
 * [01 [初遇:男性]](#01-初遇男性)
 * [02 [初遇:女性]](#02-初遇女性)
