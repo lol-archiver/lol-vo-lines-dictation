@@ -70,7 +70,7 @@
 - `FirstEncounter3DVayneSkin25_01` 嘿，这不是我的好朋友薇恩吗？\n她好像心情不好？坏了
 
 ### **06 [击杀:皮肤:光明哨兵 薇恩]**
-- `Kill3DVayneSkin25_01` 我们往后还能一起出来玩吗？我觉着能
+- `Kill3DVayneSkin25_01` 我们往后还能一起出来玩吗？我觉得能
 
 ### **07 [初遇:英雄:崔斯特]**
 - `FirstEncounter3DTwistedFate01` 托比厄斯，你他娘的去那干什么？快回来！
