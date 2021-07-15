@@ -309,7 +309,7 @@
 ### **50 [使用:R技能:终极爆弹]**
 - `Spell3DRCast01` (......)
 - `Spell3DRCast02` (......)
-- `Spell3DRCast03` (......)
+- `Spell3DRCast03` 炸开花！
 - `Spell3DRCast04` (......)
 - `Spell3DRCast05` (......)
 - `Spell3DRCast06` (......)
