@@ -1,8 +1,9 @@
 {
+	"eslint.packageManager": "pnpm",
+	"files.trimTrailingWhitespace": true,
+	"javascript.preferences.importModuleSpecifierEnding": "js",
+	"npm.packageManager": "pnpm",
 	"editor.detectIndentation": false,
 	"editor.tabSize": 2,
-  "editor.insertSpaces": true,
-  "markdown.extension.toc.unorderedList.marker": "*",
-  "markdown.extension.toc.updateOnSave": false,
-  "files.eol": "\n"
+	"editor.insertSpaces": true,
 }
