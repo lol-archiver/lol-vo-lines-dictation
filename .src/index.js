@@ -1,8 +1,8 @@
-const _fs = require('fs');
-const path = require('path');
+import { readFileSync, writeFileSync } from 'fs';
+import { parse, resolve } from 'path';
 
 const make = function(pathMD) {
-	const arrLineRaw = _fs.readFileSync(pathMD, 'utf-8').split('\n');
+	const arrLineRaw = readFileSync(pathMD, 'utf-8').split('\n');
 
 	const arrLineCond = arrLineRaw
 		.filter(line => line.startsWith('### '))
@@ -16,8 +16,8 @@ const make = function(pathMD) {
 
 	arrLineResult.splice(indexCatalog + 1, 0, ...arrLineCond);
 
-	_fs.writeFileSync(path.resolve(pathMD, '..', `${path.parse(pathMD).name}.md`), arrLineResult.join('\n'));
-	_fs.writeFileSync(path.resolve(pathMD, '..', `${path.parse(pathMD).name}.bak.md`), arrLineRaw.join('\n'));
+	writeFileSync(resolve(pathMD, '..', `${parse(pathMD).name}.md`), arrLineResult.join('\n'));
+	writeFileSync(resolve(pathMD, '..', `${parse(pathMD).name}.bak.md`), arrLineRaw.join('\n'));
 };
 
 if(process.argv[2]) { make(process.argv[2]); }
