@@ -4,11 +4,11 @@
 		{
 			"type": "pwa-node",
 			"request": "launch",
-			"name": "生成目录",
+			"name": "0: 生成目录",
 			"skipFiles": [
 				"<node_internals>/**"
 			],
-			"program": "${workspaceFolder}/.src/index.js",
+			"program": "${workspaceFolder}/@src/index.js",
 			"runtimeExecutable": "node.exe",
 			"args": [
 				"${file}"
