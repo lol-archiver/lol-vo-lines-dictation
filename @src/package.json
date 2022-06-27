@@ -10,6 +10,6 @@
 		"node": ">=14.18.1"
 	},
 	"devDependencies": {
-		"eslint": "^8.8.0"
+		"eslint": "^8.18.0"
 	}
 }
