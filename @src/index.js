@@ -7,7 +7,7 @@ const make = function(pathMD) {
 	const arrLineCond = arrLineRaw
 		.filter(line => line.startsWith('### '))
 		.map(line => line.replace(/(^### |\*\*)/g, ''))
-		.map(title => `* [${title}](#${title.replace(/[、/:|[\]]/g, '').replace(/ /g, '-')})`);
+		.map(title => `* [${title}](#${title.replace(/[、/:|[\]<>]/g, '').replace(/ /g, '-')})`);
 
 	const indexCatalog = arrLineRaw.indexOf('## Catalog:目录');
 	const indexLines = arrLineRaw.indexOf('## Lines:台词');
