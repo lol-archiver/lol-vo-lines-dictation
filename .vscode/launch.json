@@ -2,18 +2,15 @@
 	"version": "0.2.0",
 	"configurations": [
 		{
-			"type": "pwa-node",
+			"type": "node",
 			"request": "launch",
-			"name": "0: 生成目录",
+			"name": "make-catalog",
+			"console": "integratedTerminal",
 			"skipFiles": [
 				"<node_internals>/**"
 			],
-			"program": "${workspaceFolder}/@src/index.js",
 			"runtimeExecutable": "node.exe",
-			"args": [
-				"${file}"
-			],
-			"console": "integratedTerminal",
+			"program": "${workspaceFolder}/src/index.js",
 		}
 	]
 }

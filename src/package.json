@@ -1,15 +1,26 @@
 {
-	"name": "lol-vo-lines-dictation",
-	"version": "1.0.0",
+	"name": "@lol-archiver/lol-vo-lines-dictation",
+	"version": "2.0.0",
 	"description": "",
-	"author": "Nuogz",
+	"author": "DanoR",
 	"license": "LGPL-3.0-or-later",
-	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "github:LOL-Archiver/lol-vo-lines-dictation"
+	},
+	"private": true,
 	"type": "module",
+	"typesSource": [
+		"node"
+	],
 	"engines": {
 		"node": ">=14.18.1"
 	},
+	"main": "./index.js",
+	"files": [
+		"index.js"
+	],
 	"devDependencies": {
-		"eslint": "^8.18.0"
+		"eslint": "^8.52.0"
 	}
 }

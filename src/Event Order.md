@@ -1,33 +1,36 @@
-# Event Sort Order
-- Pick
-- Ban
-
-- Kill Champion with Spec
-- First Encounter with Spec
-- Taunt with Spec
-- Attack Champion
-- Kill Champion
-- Multi Kill
-
-- Death
-- Respawn
-
-- First Move
-- Move Order
-- Recall
-- Approach
-
-- Joke
-- Taunt
-- Dance
-- Laugh
-
-- But Item
-- Turn From
-
-- Basic Attack
-- Crit
-
-- PQWER
-
-- Shield By
+# Sorting of common events
+- Pick or Ban
+- Special
+	- Multi Kill
+	- Continuous Kill
+	- Buy Item
+	- Turn From
+	- (with Tower, Monster, and other In-map)
+		- Approach
+	- (by)
+		- Shield By
+		- Health By
+		- Buff By
+- Interactive
+	- (with a Kind of something)
+	- (with a Champion or a Skin)
+	- Joke
+		- Joke Response
+	- Taunt
+		- Taunt Response
+	- Dance
+	- Laugh
+	- Ping
+- Move
+	- First Move
+	- Long Move
+	- Move
+	- Recall
+- Battle
+	- Attack Champion
+	- Kill Champion
+	- Death
+	- Respawn
+- Attack and Skill
+	- Basic Attack or Critical Attack
+	- Skill PQWER
