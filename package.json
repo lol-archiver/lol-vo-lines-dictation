@@ -6,7 +6,7 @@
 	"license": "LGPL-3.0-or-later",
 	"repository": {
 		"type": "git",
-		"url": "github:LOL-Archiver/lol-vo-lines-dictation"
+		"url": "github:lol-archiver/lol-vo-lines-dictation"
 	},
 	"private": true,
 	"type": "module",
