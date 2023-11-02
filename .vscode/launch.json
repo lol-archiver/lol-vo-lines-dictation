@@ -4,13 +4,16 @@
 		{
 			"type": "node",
 			"request": "launch",
-			"name": "make-catalog",
+			"name": "0: make-catalog",
 			"console": "integratedTerminal",
 			"skipFiles": [
 				"<node_internals>/**"
 			],
 			"runtimeExecutable": "node.exe",
-			"program": "${workspaceFolder}/src/index.js",
+			"program": "${workspaceFolder}/make-catalog.js",
+			"args": [
+				"${file}"
+			],
 		}
 	]
 }
