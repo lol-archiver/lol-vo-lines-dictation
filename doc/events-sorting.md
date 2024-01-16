@@ -3,10 +3,12 @@
 - Special
 	- Multi Kill
 	- Continuous Kill
-	- Buy Item
+	- Buy Item, Open Shop
 	- Turn From
-	- (with Tower, Monster, and other In-map)
+	- (with Champion(with condition), Minion, Tower, Monster, and other In-map)
 		- Approach
+		- Kill
+	- Assist
 	- (by)
 		- Shield By
 		- Health By
@@ -14,13 +16,13 @@
 - Interactive
 	- (with a Kind of something)
 	- (with a Champion or a Skin)
+	- Ping
 	- Joke
 		- Joke Response
 	- Taunt
 		- Taunt Response
 	- Dance
 	- Laugh
-	- Ping
 - Move
 	- First Move
 	- Long Move
