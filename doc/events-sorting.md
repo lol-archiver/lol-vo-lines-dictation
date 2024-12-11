@@ -15,21 +15,26 @@
 		- Health By
 		- Buff By
 	- Low Health
-	- (with Champion(with condition), Minion, Tuurret, Monster, and other In-map)
+	- (with Champion(with condition), Minion, Monster, Turret, and other In-map)
 		- Approach
 		- Attack
 		- Kill
-		- Monster
-			- Nash
-			- Elder Dragon
-			- Dragon
-			- Herald
-			- Red
-			- Blue
-			- Grmop
-			- Krug
-			- Murkwolf
-			- Raptor
+		- Order
+			- Minion
+			- Monster
+				- Nash
+				- Elder Dragon
+				- Dragon
+				- Herald
+				- Red
+				- Blue
+				- Grmop
+				- Krug
+				- Murkwolf
+				- Raptor
+			- Turret
+			- Champion(with condition)
+			- Other In-map
 - Interactive
 	- action sort
 		- move first
