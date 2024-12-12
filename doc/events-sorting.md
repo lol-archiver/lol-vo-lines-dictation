@@ -42,6 +42,9 @@
 		- attack
 		- kill
 	- (with a Kind of something)
+		- type
+		- skinline
+		- region
 	- (with a Champion or a Skin)
 	- Ping
 	- Joke
