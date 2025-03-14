@@ -1,4 +1,6 @@
 {
-	"eslint.experimental.useFlatConfig": true,
 	"files.trimTrailingWhitespace": true,
+	"editor.rulers": [
+		28, 56
+	],
 }

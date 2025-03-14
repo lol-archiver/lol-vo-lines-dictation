@@ -19,8 +19,9 @@
 		- Approach
 		- Attack
 		- Kill
-		- Order
+		- (Target Order)
 			- Minion
+			- Turret
 			- Monster
 				- Nash
 				- Elder Dragon
@@ -32,7 +33,6 @@
 				- Krug
 				- Murkwolf
 				- Raptor
-			- Turret
 			- Champion(with condition)
 			- Other In-map
 - Interactive
@@ -45,6 +45,7 @@
 		- type
 		- skinline
 		- region
+		- race
 	- (with a Champion or a Skin)
 	- Ping
 	- Joke
