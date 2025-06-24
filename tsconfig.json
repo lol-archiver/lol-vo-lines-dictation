@@ -1,17 +1,21 @@
 {
 	"compilerOptions": {
-		"module": "nodenext",
 		"moduleResolution": "nodenext",
+		"module": "nodenext",
 		"target": "esnext",
 		"experimentalDecorators": true,
 		"strict": true,
 		"allowJs": true,
 		"jsx": "preserve",
+		"declaration": true,
+		"declarationDir": "./types",
+		"emitDeclarationOnly": true
 	},
 	"include": [
 		"**/*.js"
 	],
 	"exclude": [
+		"eslint.config.js",
 		"node_modules"
 	]
 }
