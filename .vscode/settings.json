@@ -3,4 +3,5 @@
 	"editor.rulers": [
 		28, 56
 	],
+	"explorer.sortOrder": "modified",
 }
