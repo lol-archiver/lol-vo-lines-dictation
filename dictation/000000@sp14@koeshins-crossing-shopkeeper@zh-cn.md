@@ -29,7 +29,7 @@
 - `4F74AE3B|23DACC20|who:north|cond:自己是【暗裔】英雄` 暗裔？我我保证不多嘴
 - `B7BD0E25|924B502C|who:south|cond:自己使用【灵魂莲华】皮肤` 你让我想起了年少时\\听过的那些神话故事
 - `C6DD0621|74F2C031|who:north|cond:自己使用【灵魂莲华】皮肤` 我的天\，故事里的神仙\\居然来光顾我的小摊了
-- `0F6C993C|E9A7241F|who:south|target:804-yunara,000-header|cond:自己是【芸阿娜】|mark:劳(Lao)，该语音的声源，芸阿娜的师傅\，也是本地图莲华栈桥的蓝方商人|skip` 芸阿娜\！哎呀见你这小丫头还活着\，又有这般坚守\。劳爷爷悬着的心也算是放下了
+- `0F6C993C|E9A7241F|who:south|target:804-yunara,000-header|cond:自己是【芸阿娜】|mark:劳(Lao)，该语音的声源，芸阿娜的师傅\，也是本地图莲华栈桥的蓝方商人` 芸阿娜\！哎呀见你这小丫头还活着\，又有这般坚守\。劳爷爷悬着的心也算是放下了
 - `C838F715|7B6BF936|who:north|target:804-yunara,000-header|cond:自己是【芸阿娜】` 总有人说你只是个故事\，但我一直相信你是真的存在
 - `BB9EAE3E|3E6EF813|who:south|target:043-karma,000-header|cond:自己是【卡尔玛】` 天启尊师大驾光临，有失远迎\。希望我的装备能和您眼缘
 - `E73D6D0C|C8303925|who:north|target:043-karma,000-header|cond:自己是【卡尔玛】` 卡尔玛\，我做梦都想和你见上一面\。我这里有一些理论\，不知是否有机会得您赐教？
@@ -77,7 +77,7 @@
 - `1E5DDE16|B754491C|who:south|cond:初次打开` 你的敌人应该庆幸\，我现在不是暗影之拳了
 - `6B4D6019|78501A1C|who:south|cond:初次打开` 生前征战，死后摆摊\，想不到我这个均衡教派的\\老家伙也有今天
 - `7E38200C|755F2317|who:south|cond:初次打开` “神兵利器，铜盔铁衣\，要啥都有，一趟全齐”\，要不买点？
-- `A5F1F926|EF53112C|who:north|cond:初次打开` 欢迎来到约德尔大卖场\！绽灵杰出游必备道具\，本店一站式帮您搞定
+- `A5F1F926|EF53112C|who:north|cond:初次打开` 欢迎来到约德尔大卖场\！绽灵节出游必备道具\，本店一站式帮您搞定
 - `4E81971D|16339732|who:north|cond:初次打开` 在绽灵节摆摊简直和打仗一样\，还好我抢到了这块风水宝地
 - `3973C91F|BB3C580B|who:north|cond:初次打开` 这次的绽灵花\\和之前有一些不一样\，让我来闻一闻…是秘密的味道
 
@@ -174,7 +174,7 @@
 - `80055806|48EDC42B|who:north|skill:@public,item-3802|cond:购买【遗失的章节】` 有些章节遗失了\，但一切真相都逃不过我的法眼
 - `90BAC613|04FA5700|who:north|skill:@public,item-4642|cond:购买【班德尔玻璃镜】` 这面镜子蕴含着约德尔的魔法
 - `D21DEA1A|43BE3D34|who:south|skill:@public,item-6675|cond:购买【纳沃利烁刃】` 这把迅刃能斩断一切桎梏
-- `25B85113|69906B37|who:south|skill:@public,item-3142|cond:购买【幽梦之灵】` 幽梦曾言道\：“动若流水，静若亭云“
+- `25B85113|69906B37|who:south|skill:@public,item-3142|cond:购买【幽梦之灵】` 幽梦曾言道\：“动若流水，静若停云”
 - `22D58736|56294525|who:south|skill:@public,item-3161|cond:购买【朔极之矛】` 以神龙之力刺穿敌人
 - `17B6A31E|0AA58434|who:south|skill:@public,item-4646|cond:购买【风暴狂涌】` 狂暴之心的雷电\\会为你荡平一切
 - `15992404|C4501B3E|who:north|skill:@public,item-3065|cond:购买【振奋盔甲】` 快穿上试试\，有没有感觉振奋起来了？
