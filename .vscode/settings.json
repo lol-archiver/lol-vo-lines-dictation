@@ -1,7 +1,15 @@
 {
+	"files.eol": "\n",
+	"files.insertFinalNewline": true,
+	"files.trimFinalNewlines": true,
 	"files.trimTrailingWhitespace": true,
+	"javascript.preferences.importModuleSpecifierEnding": "js",
 	"editor.rulers": [
-		28, 56
+		28,
+		56
 	],
 	"explorer.sortOrder": "modified",
+	"explorer.fileNesting.patterns": {
+		"package.json": "pnpm-lock.yaml, tsconfig.json, eslint.config.js, .gitignore, CHANGELOG.md, README.md, LICENSE"
+	}
 }

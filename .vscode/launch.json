@@ -9,8 +9,24 @@
 			"skipFiles": [
 				"<node_internals>/**"
 			],
+			"cwd": "${workspaceFolder}",
 			"runtimeExecutable": "node.exe",
 			"program": "${workspaceFolder}/make-catalog.js",
+			"args": [
+				"${file}"
+			],
+		},
+		{
+			"type": "node",
+			"request": "launch",
+			"name": "1: fill-id",
+			"console": "integratedTerminal",
+			"skipFiles": [
+				"<node_internals>/**"
+			],
+			"cwd": "${workspaceFolder}",
+			"runtimeExecutable": "node.exe",
+			"program": "${workspaceFolder}/fill-id.js",
 			"args": [
 				"${file}"
 			],
