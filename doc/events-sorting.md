@@ -26,6 +26,7 @@
 				- Nash
 				- Elder Dragon
 				- Dragon
+				- Atakhan
 				- Herald
 				- Red
 				- Blue
