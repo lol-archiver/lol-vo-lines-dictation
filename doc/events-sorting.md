@@ -14,6 +14,7 @@
 		- Shield By
 		- Health By
 		- Buff By
+		- Receive sth.
 	- Low Health
 	- (with Champion(with condition), Minion, Monster, Turret, and other In-map)
 		- Approach
