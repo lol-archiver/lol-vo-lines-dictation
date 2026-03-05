@@ -3,6 +3,6 @@
 4FB8EC4D 3 绿炮 游戏内左侧紫脸头像 祖安英雄 Hero
 
 
-Spell2DRankUp 升级技能
-Spell2DRRankOne 学习R技能 [升级:R***:出戏]
+Spell2DRankUpGeneral 升级技能
+Spell2DRRankOne 学习R技能 [升级:R***:初次]
 Spell3DRActivate 冷却R技能

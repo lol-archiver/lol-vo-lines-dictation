@@ -9,7 +9,7 @@
 	- Open Shop, Buy Item
 	- Turn From
 	- Assist
-	- Level Up or Learn Skill(Rank Up)
+	- Level Up 
 	- (by)
 		- Shield By
 		- Health By
@@ -70,5 +70,6 @@
 - Skill
 	- Use Ward
 	- Basic Attack or Critical Attack
+	- Learn Skill(RankUp)
 	- Upgrade Skill PQWER ()
-	- Use Skill PQWER
+	- Spell/RankOne Skill PQWER
