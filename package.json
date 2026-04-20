@@ -1,6 +1,6 @@
 {
 	"name": "@lol-archiver/lol-vo-lines-dictation",
-	"version": "2.2.2",
+	"version": "2.2.3",
 	"description": "league of legends champion voice lines dictation",
 	"author": "DanoR",
 	"license": "LGPL-3.0-or-later",
@@ -9,6 +9,7 @@
 		"url": "git+https://github.com/lol-archiver/lol-vo-lines-dictation.git"
 	},
 	"private": true,
+	"sideEffects": false,
 	"type": "module",
 	"typesSource": [
 		"node"
@@ -16,17 +17,16 @@
 	"engines": {
 		"node": ">=24"
 	},
-	"sideEffects": false,
-	"main": "./make-catalog.js",
 	"files": [
 		"make-catalog.js",
 		"file-id.js"
 	],
+	"main": "./make-catalog.js",
 	"devDependencies": {
-		"@eslint/js": "^9.39.3",
-		"@stylistic/eslint-plugin": "^5.9.0",
-		"@types/node": "^24.11.0",
-		"eslint": "^9.39.3",
-		"globals": "^16.5.0"
+		"@eslint/js": "^10.0.1",
+		"@stylistic/eslint-plugin": "^5.10.0",
+		"@types/node": "^24.12.2",
+		"eslint": "^10.2.1",
+		"globals": "^17.5.0"
 	}
 }

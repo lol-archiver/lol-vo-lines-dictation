@@ -21,7 +21,7 @@ const fill = fileMarkdown => {
 
 		if(!/target:-/.test(line)) { continue; }
 
-		const [,slot] = line.match(/target:-(.*?),/);
+		const [, slot] = line.match(/target:-(.*?),/);
 
 		const champion = champions.find(champion => champion.slot.toLowerCase() == slot);
 		if(!champion) { continue; }
