@@ -8,7 +8,7 @@
 	- Game End
 	- Open Shop, Buy Item
 	- Turn From
-	- Assist
+
 	- Level Up 
 	- (by)
 		- Shield By
@@ -39,7 +39,9 @@
 			- Other In-map
 - Interactive
 	- action sort
-		- move first
+		- move first ally
+		- move first enemy
+		- assist ally
 		- first encounter
 		- attack
 		- kill
@@ -50,12 +52,16 @@
 		- race
 	- (with a Champion or a Skin)
 	- Ping
+		- Target
+		- (Other)
 	- Joke
 		- Joke Response
 	- Taunt
 		- Taunt Response
+	- Joke/Taunt Response
 	- Dance
 	- Laugh
+- First Encounter General
 - Move
 	- First Move
 	- Long Move
@@ -63,12 +69,13 @@
 	- Recall
 - Battle
 	- Attack Champion
+	- Assist General
 	- Kill Champion
 	- Death
 	- Respawn
 - Attack
 - Skill
-	- Use Ward
+	- Use or Kill Ward
 	- Basic Attack or Critical Attack
 	- Learn Skill(RankUp)
 	- Upgrade Skill PQWER ()
