@@ -15,7 +15,7 @@
 		"node"
 	],
 	"engines": {
-		"node": ">=24"
+		"node": ">=26"
 	},
 	"files": [
 		"make-catalog.js",

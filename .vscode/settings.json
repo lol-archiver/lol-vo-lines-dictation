@@ -1,7 +1,6 @@
 {
 	"explorer.fileNesting.patterns": {
 		"package.json": "pnpm-lock.yaml, pnpm-workspace.yaml, tsconfig.json, eslint.config.js, .gitignore, CHANGELOG.md, README.md, README.*.md, LICENSE",
-		"vite.config.js": "postcss.config.js",
 		"index.js": "index.html, index.env.js"
 	},
 	"editor.tabSize": 4,
