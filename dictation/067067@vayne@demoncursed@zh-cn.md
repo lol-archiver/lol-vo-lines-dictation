@@ -87,14 +87,14 @@
 - `7171BE1C|010A391F` 这个…“东西”\…甚至超越了邪恶
 
 ### **[移动:初次]**
-- `068AFB38|6FF1A21A|target:@public,header-null|cond:友方使用【Locke】` 是你，你为何如此痛苦？
+- `068AFB38|6FF1A21A|target:805-locke,000-header|cond:友方使用【洛克】` 是你，你为何如此痛苦？
 
-### **[初遇:英雄:Locke]**
-- `7BE0AE13|0967111C|target:@public,header-null` 我迟早要\\治好你那副欠揍的微笑
-- `05901F39|99F80424|target:@public,header-null` 所谓的真相\，你到底想不想告诉我？
+### **[初遇:英雄:洛克]**
+- `7BE0AE13|0967111C|target:805-locke,000-header` 我迟早要\\治好你那副欠揍的微笑
+- `05901F39|99F80424|target:805-locke,000-header` 所谓的真相\，你到底想不想告诉我？
 
-### **[击杀:英雄:Locke]**
-- `1857E82B|9AE15308|target:@public,header-null` 我那么信任你，我把你当朋友！
+### **[击杀:英雄:洛克]**
+- `1857E82B|9AE15308|target:805-locke,000-header` 我那么信任你，我把你当朋友！
 
 ### **[移动:初次]**
 - `CC6C4317|FA450A06|target:028-evelynn,000-header|cond:敌方使用【伊芙琳】` 凶手，恶魔，她就在此地
