@@ -73,10 +73,11 @@
 	- Kill Champion
 	- Death
 	- Respawn
-- Attack
+- Use or Kill Ward
+- Basic Attack
 - Skill
-	- Use or Kill Ward
-	- Basic Attack or Critical Attack
-	- Learn Skill(RankUp)
-	- Upgrade Skill PQWER ()
-	- Spell/RankOne Skill PQWER
+	- Learn Skill (RankUp)
+	- RankOne Skill
+	- Upgrade Skill
+	- Ready Skill
+	- Spell Skill

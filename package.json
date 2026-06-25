@@ -1,6 +1,6 @@
 {
 	"name": "@lol-archiver/lol-vo-lines-dictation",
-	"version": "2.2.4",
+	"version": "2.2.5",
 	"description": "league of legends champion voice lines dictation",
 	"author": "DanoR",
 	"license": "LGPL-3.0-or-later",
@@ -25,8 +25,8 @@
 	"devDependencies": {
 		"@eslint/js": "^10.0.1",
 		"@stylistic/eslint-plugin": "^5.10.0",
-		"@types/node": "^25.7.0",
-		"eslint": "^10.3.0",
-		"globals": "^17.6.0"
+		"@types/node": "^26.0.0",
+		"eslint": "^10.5.0",
+		"globals": "^17.7.0"
 	}
 }
