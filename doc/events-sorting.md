@@ -67,6 +67,7 @@
 	- Long Move
 	- Move
 	- Recall
+	- Idle
 - Battle
 	- Attack Champion
 	- Assist General
