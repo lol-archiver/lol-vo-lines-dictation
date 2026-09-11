@@ -3,9 +3,9 @@
 4FB8EC4D 3 绿炮 游戏内左侧紫脸头像 祖安英雄 Hero
 
 
-Spell2DRankUpGeneral 升级技能
+Spell2DRankUpGeneral [升级:技能]
 Spell2DRRankOne 学习R技能 [升级:R***:初次]
-Spell3DRActivate 冷却R技能
+Spell3DRActivate [冷却:R***]
 
 
 不朽形态小炮 转换转换
